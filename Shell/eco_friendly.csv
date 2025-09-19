@@ -1,0 +1,1001 @@
+Product_Name,Category,State,Old_Packaging,Old_CO2,Old_Shelf_Life,Old_Decomposition,New_Packaging_1,New_CO2_1,New_Shelf_Life_1,New_Decomposition_1,New_Packaging_2,New_CO2_2,New_Shelf_Life_2,New_Decomposition_2,New_Packaging_3,New_CO2_3,New_Shelf_Life_3,New_Decomposition_3
+Onion,Vegetable,Solid,Plastic Bottle,4.5,7 days,450 years,Plant-based Bottle,1.3,20 days,2 years,Paper Tray,1.2,4 days,4 months,Reusable Cloth Bag,0.7,120 days,Reusable
+Apple,Fruits,Solid,Styrofoam Box,4,10 days,500 years,Reusable Cloth Bag,0.7,9 days,Reusable,Plant-based Bottle,1.3,7 days,2 years,Jute Bag,0.8,13 days,1 year
+Milk,Beverage,Liquid,Styrofoam Box,4,14 days,500 years,Biodegradable Pouch,1.1,16 days,8 months,Reusable Cloth Bag,0.7,16 days,Reusable,Plant-based Bottle,1.3,12 days,2 years
+Tomato,Vegetable,Solid,Styrofoam Box,4,3 days,500 years,Reusable Cloth Bag,0.7,20 days,Reusable,Steel Container,1,17 days,Reusable,Paper Tray,1.2,6 days,4 months
+Orange,Fruits,Solid,Plastic Bottle,4.5,15 days,450 years,Biodegradable Pouch,1.1,14 days,8 months,Recyclable Cardboard Box,1,8 days,6 months,Plant-based Bottle,1.3,6 days,2 years
+Sugar,Cooking,Solid,Aluminium Foil,5,6 days,200 years,Glass Bottle,1.2,7 days,Reusable,Jute Bag,0.8,12 days,1 year,Steel Container,1,12 days,Reusable
+Pen,Stationery,Solid,Styrofoam Box,4,8 days,500 years,Paper Tray,1.2,9 days,4 months,Plant-based Bottle,1.3,4 days,2 years,Recyclable Cardboard Box,1,19 days,6 months
+Biscuits,Bakery,Solid,Plastic Bottle,4.5,3 days,450 years,Glass Bottle,1.2,20 days,Reusable,Reusable Cloth Bag,0.7,16 days,Reusable,Biodegradable Pouch,1.1,19 days,8 months
+Juice,Beverage,Liquid,Aluminium Foil,5,14 days,200 years,Biodegradable Pouch,1.1,15 days,8 months,Recyclable Cardboard Box,1,10 days,6 months,Steel Container,1,16 days,Reusable
+Grapes,Fruits,Solid,PVC Packaging,4.2,10 days,450 years,Biodegradable Pouch,1.1,19 days,8 months,Paper Tray,1.2,6 days,4 months,Reusable Cloth Bag,0.7,15 days,Reusable
+Juice,Beverage,Liquid,Plastic Bottle,4.5,10 days,450 years,Jute Bag,0.8,14 days,1 year,Reusable Cloth Bag,0.7,17 days,Reusable,Recyclable Cardboard Box,1,5 days,6 months
+Banana,Fruits,Solid,Aluminium Foil,5,4 days,200 years,Compostable Net Bag,0.9,13 days,6 months,Paper Tray,1.2,12 days,4 months,Plant-based Bottle,1.3,9 days,2 years
+Carrot,Vegetable,Solid,Styrofoam Box,4,13 days,500 years,Biodegradable Pouch,1.1,19 days,8 months,Reusable Cloth Bag,0.7,6 days,Reusable,Paper Tray,1.2,10 days,4 months
+Soap,Cosmetics,Solid,Plastic Packet,3.5,14 days,500 years,Reusable Cloth Bag,0.7,18 days,Reusable,Recyclable Cardboard Box,1,18 days,6 months,Biodegradable Pouch,1.1,17 days,8 months
+Shirt,Clothing,Solid,Plastic Packet,3.5,3 days,500 years,Glass Bottle,1.2,4 days,Reusable,Jute Bag,0.8,5 days,1 year,Reusable Cloth Bag,0.7,20 days,Reusable
+Bread,Bakery,Solid,Plastic Bottle,4.5,4 days,450 years,Steel Container,1,6 days,Reusable,Biodegradable Pouch,1.1,5 days,8 months,Paper Tray,1.2,6 days,4 months
+Milk,Beverage,Liquid,Styrofoam Box,4,14 days,500 years,Recyclable Cardboard Box,1,14 days,6 months,Glass Bottle,1.2,12 days,Reusable,Jute Bag,0.8,10 days,1 year
+Noodles,Snacks,Solid,Aluminium Foil,5,5 days,200 years,Paper Tray,1.2,16 days,4 months,Jute Bag,0.8,19 days,1 year,Compostable Net Bag,0.9,14 days,6 months
+Carrot,Vegetable,Solid,PVC Packaging,4.2,9 days,450 years,Paper Tray,1.2,8 days,4 months,Plant-based Bottle,1.3,15 days,2 years,Steel Container,1,10 days,Reusable
+Onion,Vegetable,Solid,Styrofoam Box,4,6 days,500 years,Paper Tray,1.2,9 days,4 months,Reusable Cloth Bag,0.7,15 days,Reusable,Recyclable Cardboard Box,1,16 days,6 months
+Toothpaste,Cosmetics,Semi-solid,Plastic Packet,3.5,4 days,500 years,Plant-based Bottle,1.3,8 days,2 years,Compostable Net Bag,0.9,8 days,6 months,Jute Bag,0.8,4 days,1 year
+Soap,Cosmetics,Solid,Styrofoam Box,4,15 days,500 years,Paper Tray,1.2,14 days,4 months,Recyclable Cardboard Box,1,17 days,6 months,Biodegradable Pouch,1.1,12 days,8 months
+Toothpaste,Cosmetics,Semi-solid,Plastic Bottle,4.5,5 days,450 years,Recyclable Cardboard Box,1,18 days,6 months,Reusable Cloth Bag,0.7,7 days,Reusable,Compostable Net Bag,0.9,10 days,6 months
+Soap,Cosmetics,Solid,Aluminium Foil,5,6 days,200 years,Jute Bag,0.8,16 days,1 year,Paper Tray,1.2,16 days,4 months,Plant-based Bottle,1.3,17 days,2 years
+Rice,Grains,Solid,Plastic Packet,3.5,15 days,500 years,Glass Bottle,1.2,17 days,Reusable,Steel Container,1,12 days,Reusable,Jute Bag,0.8,10 days,1 year
+Sugar,Cooking,Solid,Plastic Bottle,4.5,4 days,450 years,Steel Container,1,18 days,Reusable,Reusable Cloth Bag,0.7,5 days,Reusable,Plant-based Bottle,1.3,11 days,2 years
+Carrot,Vegetable,Solid,Plastic Bottle,4.5,7 days,450 years,Steel Container,1,10 days,Reusable,Plant-based Bottle,1.3,7 days,2 years,Biodegradable Pouch,1.1,12 days,8 months
+Banana,Fruits,Solid,PVC Packaging,4.2,14 days,450 years,Steel Container,1,19 days,Reusable,Recyclable Cardboard Box,1,13 days,6 months,Reusable Cloth Bag,0.7,8 days,Reusable
+Cucumber,Vegetable,Solid,Aluminium Foil,5,9 days,200 years,Jute Bag,0.8,16 days,1 year,Reusable Cloth Bag,0.7,15 days,Reusable,Biodegradable Pouch,1.1,16 days,8 months
+Rice,Grains,Solid,Styrofoam Box,4,9 days,500 years,Recyclable Cardboard Box,1,8 days,6 months,Plant-based Bottle,1.3,7 days,2 years,Glass Bottle,1.2,12 days,Reusable
+Juice,Beverage,Liquid,Plastic Bottle,4.5,3 days,450 years,Reusable Cloth Bag,0.7,15 days,Reusable,Jute Bag,0.8,9 days,1 year,Plant-based Bottle,1.3,6 days,2 years
+Grapes,Fruits,Solid,Plastic Bottle,4.5,7 days,450 years,Paper Tray,1.2,14 days,4 months,Glass Bottle,1.2,7 days,Reusable,Biodegradable Pouch,1.1,12 days,8 months
+Carrot,Vegetable,Solid,PVC Packaging,4.2,6 days,450 years,Glass Bottle,1.2,14 days,Reusable,Biodegradable Pouch,1.1,6 days,8 months,Reusable Cloth Bag,0.7,18 days,Reusable
+Sugar,Cooking,Solid,Plastic Bottle,4.5,12 days,450 years,Reusable Cloth Bag,0.7,7 days,Reusable,Steel Container,1,4 days,Reusable,Jute Bag,0.8,15 days,1 year
+Wheat Flour,Grains,Solid,PVC Packaging,4.2,6 days,450 years,Recyclable Cardboard Box,1,17 days,6 months,Plant-based Bottle,1.3,20 days,2 years,Jute Bag,0.8,8 days,1 year
+Water Bottle,Beverage,Liquid,Aluminium Foil,5,14 days,200 years,Recyclable Cardboard Box,1,10 days,6 months,Reusable Cloth Bag,0.7,14 days,Reusable,Compostable Net Bag,0.9,17 days,6 months
+Book,Stationery,Solid,PVC Packaging,4.2,12 days,450 years,Recyclable Cardboard Box,1,13 days,6 months,Reusable Cloth Bag,0.7,6 days,Reusable,Paper Tray,1.2,13 days,4 months
+Pen,Stationery,Solid,Aluminium Foil,5,6 days,200 years,Steel Container,1,14 days,Reusable,Biodegradable Pouch,1.1,20 days,8 months,Plant-based Bottle,1.3,10 days,2 years
+Lentils,Grains,Solid,Aluminium Foil,5,6 days,200 years,Recyclable Cardboard Box,1,17 days,6 months,Jute Bag,0.8,13 days,1 year,Paper Tray,1.2,16 days,4 months
+Tomato,Vegetable,Solid,Plastic Packet,3.5,15 days,500 years,Reusable Cloth Bag,0.7,16 days,Reusable,Biodegradable Pouch,1.1,9 days,8 months,Jute Bag,0.8,4 days,1 year
+Biscuits,Bakery,Solid,Plastic Bottle,4.5,13 days,450 years,Jute Bag,0.8,4 days,1 year,Recyclable Cardboard Box,1,15 days,6 months,Steel Container,1,4 days,Reusable
+Banana,Fruits,Solid,Plastic Bottle,4.5,7 days,450 years,Compostable Net Bag,0.9,19 days,6 months,Paper Tray,1.2,5 days,4 months,Recyclable Cardboard Box,1,19 days,6 months
+Shoes,Clothing,Solid,Styrofoam Box,4,8 days,500 years,Compostable Net Bag,0.9,14 days,6 months,Paper Tray,1.2,11 days,4 months,Plant-based Bottle,1.3,18 days,2 years
+Water Bottle,Beverage,Liquid,Plastic Bottle,4.5,13 days,450 years,Paper Tray,1.2,9 days,4 months,Steel Container,1,10 days,Reusable,Plant-based Bottle,1.3,5 days,2 years
+Biscuits,Bakery,Solid,Styrofoam Box,4,9 days,500 years,Steel Container,1,18 days,Reusable,Biodegradable Pouch,1.1,11 days,8 months,Glass Bottle,1.2,19 days,Reusable
+Vegetable Oil,Cooking,Liquid,Plastic Packet,3.5,5 days,500 years,Biodegradable Pouch,1.1,10 days,8 months,Plant-based Bottle,1.3,13 days,2 years,Reusable Cloth Bag,0.7,8 days,Reusable
+Pen,Stationery,Solid,Aluminium Foil,5,7 days,200 years,Reusable Cloth Bag,0.7,19 days,Reusable,Plant-based Bottle,1.3,15 days,2 years,Biodegradable Pouch,1.1,15 days,8 months
+Pen,Stationery,Solid,Aluminium Foil,5,8 days,200 years,Plant-based Bottle,1.3,15 days,2 years,Paper Tray,1.2,13 days,4 months,Steel Container,1,17 days,Reusable
+Water Bottle,Beverage,Liquid,Plastic Bottle,4.5,9 days,450 years,Steel Container,1,17 days,Reusable,Compostable Net Bag,0.9,15 days,6 months,Plant-based Bottle,1.3,4 days,2 years
+Sugar,Cooking,Solid,PVC Packaging,4.2,5 days,450 years,Jute Bag,0.8,13 days,1 year,Recyclable Cardboard Box,1,7 days,6 months,Paper Tray,1.2,14 days,4 months
+Grapes,Fruits,Solid,Plastic Bottle,4.5,9 days,450 years,Biodegradable Pouch,1.1,11 days,8 months,Recyclable Cardboard Box,1,13 days,6 months,Glass Bottle,1.2,17 days,Reusable
+Water Bottle,Beverage,Liquid,Aluminium Foil,5,8 days,200 years,Glass Bottle,1.2,14 days,Reusable,Plant-based Bottle,1.3,13 days,2 years,Compostable Net Bag,0.9,11 days,6 months
+Shoes,Clothing,Solid,Plastic Bottle,4.5,6 days,450 years,Glass Bottle,1.2,18 days,Reusable,Steel Container,1,19 days,Reusable,Recyclable Cardboard Box,1,12 days,6 months
+Tomato,Vegetable,Solid,Aluminium Foil,5,7 days,200 years,Steel Container,1,19 days,Reusable,Plant-based Bottle,1.3,13 days,2 years,Jute Bag,0.8,19 days,1 year
+Tomato,Vegetable,Solid,Styrofoam Box,4,15 days,500 years,Biodegradable Pouch,1.1,4 days,8 months,Compostable Net Bag,0.9,8 days,6 months,Recyclable Cardboard Box,1,14 days,6 months
+Banana,Fruits,Solid,Plastic Packet,3.5,4 days,500 years,Reusable Cloth Bag,0.7,16 days,Reusable,Paper Tray,1.2,14 days,4 months,Compostable Net Bag,0.9,14 days,6 months
+Noodles,Snacks,Solid,Plastic Packet,3.5,6 days,500 years,Recyclable Cardboard Box,1,20 days,6 months,Paper Tray,1.2,10 days,4 months,Plant-based Bottle,1.3,6 days,2 years
+Noodles,Snacks,Solid,Plastic Bottle,4.5,3 days,450 years,Steel Container,1,7 days,Reusable,Compostable Net Bag,0.9,18 days,6 months,Recyclable Cardboard Box,1,14 days,6 months
+Biscuits,Bakery,Solid,Plastic Packet,3.5,9 days,500 years,Recyclable Cardboard Box,1,9 days,6 months,Steel Container,1,7 days,Reusable,Jute Bag,0.8,11 days,1 year
+Book,Stationery,Solid,Styrofoam Box,4,7 days,500 years,Recyclable Cardboard Box,1,20 days,6 months,Compostable Net Bag,0.9,8 days,6 months,Plant-based Bottle,1.3,11 days,2 years
+Juice,Beverage,Liquid,Plastic Packet,3.5,6 days,500 years,Recyclable Cardboard Box,1,17 days,6 months,Biodegradable Pouch,1.1,20 days,8 months,Steel Container,1,12 days,Reusable
+Rice,Grains,Solid,Plastic Packet,3.5,14 days,500 years,Recyclable Cardboard Box,1,7 days,6 months,Paper Tray,1.2,16 days,4 months,Glass Bottle,1.2,13 days,Reusable
+Grapes,Fruits,Solid,Plastic Packet,3.5,9 days,500 years,Glass Bottle,1.2,20 days,Reusable,Plant-based Bottle,1.3,14 days,2 years,Steel Container,1,17 days,Reusable
+Noodles,Snacks,Solid,Plastic Packet,3.5,14 days,500 years,Biodegradable Pouch,1.1,8 days,8 months,Plant-based Bottle,1.3,13 days,2 years,Steel Container,1,14 days,Reusable
+Shirt,Clothing,Solid,Styrofoam Box,4,9 days,500 years,Biodegradable Pouch,1.1,15 days,8 months,Reusable Cloth Bag,0.7,4 days,Reusable,Plant-based Bottle,1.3,9 days,2 years
+Orange,Fruits,Solid,Styrofoam Box,4,3 days,500 years,Reusable Cloth Bag,0.7,11 days,Reusable,Plant-based Bottle,1.3,18 days,2 years,Biodegradable Pouch,1.1,5 days,8 months
+Milk,Beverage,Liquid,Plastic Packet,3.5,5 days,500 years,Recyclable Cardboard Box,1,7 days,6 months,Glass Bottle,1.2,11 days,Reusable,Biodegradable Pouch,1.1,20 days,8 months
+Rice,Grains,Solid,Styrofoam Box,4,11 days,500 years,Plant-based Bottle,1.3,4 days,2 years,Biodegradable Pouch,1.1,17 days,8 months,Compostable Net Bag,0.9,17 days,6 months
+Bread,Bakery,Solid,Plastic Packet,3.5,14 days,500 years,Plant-based Bottle,1.3,16 days,2 years,Recyclable Cardboard Box,1,8 days,6 months,Steel Container,1,4 days,Reusable
+Vegetable Oil,Cooking,Liquid,Plastic Packet,3.5,8 days,500 years,Plant-based Bottle,1.3,12 days,2 years,Reusable Cloth Bag,0.7,13 days,Reusable,Jute Bag,0.8,17 days,1 year
+Biscuits,Bakery,Solid,Styrofoam Box,4,14 days,500 years,Jute Bag,0.8,17 days,1 year,Recyclable Cardboard Box,1,18 days,6 months,Glass Bottle,1.2,16 days,Reusable
+Rice,Grains,Solid,Plastic Packet,3.5,5 days,500 years,Compostable Net Bag,0.9,13 days,6 months,Biodegradable Pouch,1.1,17 days,8 months,Recyclable Cardboard Box,1,16 days,6 months
+Noodles,Snacks,Solid,Plastic Bottle,4.5,11 days,450 years,Reusable Cloth Bag,0.7,15 days,Reusable,Recyclable Cardboard Box,1,20 days,6 months,Glass Bottle,1.2,14 days,Reusable
+Dish Soap,Cleaning,Liquid,Styrofoam Box,4,12 days,500 years,Recyclable Cardboard Box,1,13 days,6 months,Compostable Net Bag,0.9,9 days,6 months,Plant-based Bottle,1.3,17 days,2 years
+Apple,Fruits,Solid,Plastic Packet,3.5,12 days,500 years,Reusable Cloth Bag,0.7,5 days,Reusable,Plant-based Bottle,1.3,11 days,2 years,Glass Bottle,1.2,8 days,Reusable
+Carrot,Vegetable,Solid,Aluminium Foil,5,8 days,200 years,Jute Bag,0.8,7 days,1 year,Steel Container,1,15 days,Reusable,Glass Bottle,1.2,4 days,Reusable
+Sugar,Cooking,Solid,Plastic Packet,3.5,3 days,500 years,Recyclable Cardboard Box,1,5 days,6 months,Reusable Cloth Bag,0.7,5 days,Reusable,Compostable Net Bag,0.9,5 days,6 months
+Sugar,Cooking,Solid,Plastic Bottle,4.5,13 days,450 years,Steel Container,1,17 days,Reusable,Recyclable Cardboard Box,1,17 days,6 months,Reusable Cloth Bag,0.7,19 days,Reusable
+Cucumber,Vegetable,Solid,Plastic Packet,3.5,15 days,500 years,Paper Tray,1.2,8 days,4 months,Steel Container,1,7 days,Reusable,Compostable Net Bag,0.9,8 days,6 months
+Apple,Fruits,Solid,Aluminium Foil,5,11 days,200 years,Jute Bag,0.8,9 days,1 year,Glass Bottle,1.2,15 days,Reusable,Compostable Net Bag,0.9,11 days,6 months
+Pen,Stationery,Solid,Aluminium Foil,5,3 days,200 years,Plant-based Bottle,1.3,5 days,2 years,Reusable Cloth Bag,0.7,20 days,Reusable,Recyclable Cardboard Box,1,15 days,6 months
+Water Bottle,Beverage,Liquid,PVC Packaging,4.2,13 days,450 years,Biodegradable Pouch,1.1,11 days,8 months,Paper Tray,1.2,16 days,4 months,Glass Bottle,1.2,13 days,Reusable
+Banana,Fruits,Solid,PVC Packaging,4.2,5 days,450 years,Glass Bottle,1.2,17 days,Reusable,Recyclable Cardboard Box,1,18 days,6 months,Steel Container,1,20 days,Reusable
+Noodles,Snacks,Solid,Styrofoam Box,4,7 days,500 years,Steel Container,1,15 days,Reusable,Paper Tray,1.2,7 days,4 months,Glass Bottle,1.2,17 days,Reusable
+Rice,Grains,Solid,Plastic Packet,3.5,14 days,500 years,Steel Container,1,19 days,Reusable,Reusable Cloth Bag,0.7,11 days,Reusable,Paper Tray,1.2,20 days,4 months
+Carrot,Vegetable,Solid,Styrofoam Box,4,13 days,500 years,Recyclable Cardboard Box,1,19 days,6 months,Biodegradable Pouch,1.1,11 days,8 months,Steel Container,1,15 days,Reusable
+Apple,Fruits,Solid,PVC Packaging,4.2,14 days,450 years,Glass Bottle,1.2,11 days,Reusable,Paper Tray,1.2,12 days,4 months,Biodegradable Pouch,1.1,17 days,8 months
+Banana,Fruits,Solid,Plastic Packet,3.5,3 days,500 years,Steel Container,1,7 days,Reusable,Plant-based Bottle,1.3,13 days,2 years,Biodegradable Pouch,1.1,15 days,8 months
+Salt,Cooking,Solid,Aluminium Foil,5,12 days,200 years,Glass Bottle,1.2,13 days,Reusable,Biodegradable Pouch,1.1,11 days,8 months,Paper Tray,1.2,18 days,4 months
+Onion,Vegetable,Solid,Styrofoam Box,4,10 days,500 years,Jute Bag,0.8,18 days,1 year,Steel Container,1,20 days,Reusable,Biodegradable Pouch,1.1,9 days,8 months
+Banana,Fruits,Solid,Aluminium Foil,5,8 days,200 years,Glass Bottle,1.2,4 days,Reusable,Biodegradable Pouch,1.1,19 days,8 months,Compostable Net Bag,0.9,14 days,6 months
+Water Bottle,Beverage,Liquid,Plastic Packet,3.5,9 days,500 years,Recyclable Cardboard Box,1,18 days,6 months,Reusable Cloth Bag,0.7,7 days,Reusable,Compostable Net Bag,0.9,6 days,6 months
+Shampoo,Cosmetics,Liquid,Styrofoam Box,4,6 days,500 years,Steel Container,1,16 days,Reusable,Glass Bottle,1.2,6 days,Reusable,Recyclable Cardboard Box,1,17 days,6 months
+Lentils,Grains,Solid,Styrofoam Box,4,8 days,500 years,Steel Container,1,13 days,Reusable,Plant-based Bottle,1.3,7 days,2 years,Compostable Net Bag,0.9,13 days,6 months
+Bread,Bakery,Solid,Styrofoam Box,4,5 days,500 years,Steel Container,1,7 days,Reusable,Jute Bag,0.8,11 days,1 year,Reusable Cloth Bag,0.7,15 days,Reusable
+Biscuits,Bakery,Solid,Plastic Packet,3.5,13 days,500 years,Glass Bottle,1.2,20 days,Reusable,Compostable Net Bag,0.9,6 days,6 months,Plant-based Bottle,1.3,17 days,2 years
+Banana,Fruits,Solid,Plastic Bottle,4.5,7 days,450 years,Jute Bag,0.8,20 days,1 year,Recyclable Cardboard Box,1,16 days,6 months,Reusable Cloth Bag,0.7,14 days,Reusable
+Potato,Vegetable,Solid,PVC Packaging,4.2,14 days,450 years,Plant-based Bottle,1.3,10 days,2 years,Reusable Cloth Bag,0.7,9 days,Reusable,Compostable Net Bag,0.9,10 days,6 months
+Juice,Beverage,Liquid,Plastic Bottle,4.5,14 days,450 years,Recyclable Cardboard Box,1,8 days,6 months,Reusable Cloth Bag,0.7,14 days,Reusable,Paper Tray,1.2,15 days,4 months
+Shirt,Clothing,Solid,Plastic Packet,3.5,13 days,500 years,Glass Bottle,1.2,6 days,Reusable,Steel Container,1,6 days,Reusable,Jute Bag,0.8,12 days,1 year
+Tomato,Vegetable,Solid,Plastic Packet,3.5,11 days,500 years,Biodegradable Pouch,1.1,14 days,8 months,Reusable Cloth Bag,0.7,17 days,Reusable,Recyclable Cardboard Box,1,15 days,6 months
+Water Bottle,Beverage,Liquid,PVC Packaging,4.2,9 days,450 years,Compostable Net Bag,0.9,13 days,6 months,Biodegradable Pouch,1.1,6 days,8 months,Jute Bag,0.8,10 days,1 year
+Sugar,Cooking,Solid,Plastic Packet,3.5,4 days,500 years,Biodegradable Pouch,1.1,4 days,8 months,Compostable Net Bag,0.9,5 days,6 months,Recyclable Cardboard Box,1,9 days,6 months
+Shirt,Clothing,Solid,Plastic Packet,3.5,5 days,500 years,Biodegradable Pouch,1.1,20 days,8 months,Steel Container,1,16 days,Reusable,Jute Bag,0.8,8 days,1 year
+Tomato,Vegetable,Solid,Styrofoam Box,4,4 days,500 years,Glass Bottle,1.2,9 days,Reusable,Reusable Cloth Bag,0.7,14 days,Reusable,Paper Tray,1.2,10 days,4 months
+Shoes,Clothing,Solid,Styrofoam Box,4,4 days,500 years,Paper Tray,1.2,14 days,4 months,Biodegradable Pouch,1.1,15 days,8 months,Compostable Net Bag,0.9,15 days,6 months
+Banana,Fruits,Solid,PVC Packaging,4.2,5 days,450 years,Compostable Net Bag,0.9,19 days,6 months,Plant-based Bottle,1.3,14 days,2 years,Reusable Cloth Bag,0.7,19 days,Reusable
+Soap,Cosmetics,Solid,PVC Packaging,4.2,10 days,450 years,Plant-based Bottle,1.3,14 days,2 years,Recyclable Cardboard Box,1,6 days,6 months,Compostable Net Bag,0.9,5 days,6 months
+Carrot,Vegetable,Solid,PVC Packaging,4.2,11 days,450 years,Biodegradable Pouch,1.1,11 days,8 months,Reusable Cloth Bag,0.7,8 days,Reusable,Jute Bag,0.8,17 days,1 year
+Biscuits,Bakery,Solid,Plastic Bottle,4.5,10 days,450 years,Jute Bag,0.8,15 days,1 year,Steel Container,1,16 days,Reusable,Reusable Cloth Bag,0.7,16 days,Reusable
+Chips,Snacks,Solid,Styrofoam Box,4,5 days,500 years,Recyclable Cardboard Box,1,19 days,6 months,Steel Container,1,6 days,Reusable,Reusable Cloth Bag,0.7,14 days,Reusable
+Detergent,Cleaning,Powder,PVC Packaging,4.2,5 days,450 years,Recyclable Cardboard Box,1,13 days,6 months,Biodegradable Pouch,1.1,9 days,8 months,Glass Bottle,1.2,18 days,Reusable
+Dish Soap,Cleaning,Liquid,PVC Packaging,4.2,15 days,450 years,Steel Container,1,20 days,Reusable,Plant-based Bottle,1.3,7 days,2 years,Reusable Cloth Bag,0.7,19 days,Reusable
+Cucumber,Vegetable,Solid,Plastic Packet,3.5,7 days,500 years,Biodegradable Pouch,1.1,15 days,8 months,Paper Tray,1.2,5 days,4 months,Jute Bag,0.8,6 days,1 year
+Lentils,Grains,Solid,Aluminium Foil,5,15 days,200 years,Steel Container,1,7 days,Reusable,Reusable Cloth Bag,0.7,11 days,Reusable,Plant-based Bottle,1.3,14 days,2 years
+Detergent,Cleaning,Powder,Plastic Packet,3.5,7 days,500 years,Plant-based Bottle,1.3,6 days,2 years,Reusable Cloth Bag,0.7,16 days,Reusable,Jute Bag,0.8,11 days,1 year
+Water Bottle,Beverage,Liquid,Aluminium Foil,5,11 days,200 years,Reusable Cloth Bag,0.7,18 days,Reusable,Recyclable Cardboard Box,1,11 days,6 months,Plant-based Bottle,1.3,17 days,2 years
+Wheat Flour,Grains,Solid,PVC Packaging,4.2,15 days,450 years,Paper Tray,1.2,19 days,4 months,Recyclable Cardboard Box,1,7 days,6 months,Jute Bag,0.8,17 days,1 year
+Cucumber,Vegetable,Solid,Styrofoam Box,4,14 days,500 years,Steel Container,1,11 days,Reusable,Biodegradable Pouch,1.1,20 days,8 months,Compostable Net Bag,0.9,16 days,6 months
+Soap,Cosmetics,Solid,Plastic Packet,3.5,5 days,500 years,Plant-based Bottle,1.3,7 days,2 years,Recyclable Cardboard Box,1,10 days,6 months,Reusable Cloth Bag,0.7,12 days,Reusable
+Book,Stationery,Solid,Plastic Packet,3.5,7 days,500 years,Steel Container,1,7 days,Reusable,Compostable Net Bag,0.9,4 days,6 months,Biodegradable Pouch,1.1,18 days,8 months
+Sugar,Cooking,Solid,Styrofoam Box,4,13 days,500 years,Steel Container,1,10 days,Reusable,Reusable Cloth Bag,0.7,8 days,Reusable,Paper Tray,1.2,10 days,4 months
+Onion,Vegetable,Solid,Aluminium Foil,5,6 days,200 years,Glass Bottle,1.2,17 days,Reusable,Compostable Net Bag,0.9,19 days,6 months,Recyclable Cardboard Box,1,18 days,6 months
+Milk,Beverage,Liquid,Styrofoam Box,4,13 days,500 years,Plant-based Bottle,1.3,4 days,2 years,Reusable Cloth Bag,0.7,5 days,Reusable,Paper Tray,1.2,17 days,4 months
+Grapes,Fruits,Solid,Aluminium Foil,5,3 days,200 years,Steel Container,1,20 days,Reusable,Biodegradable Pouch,1.1,12 days,8 months,Recyclable Cardboard Box,1,18 days,6 months
+Banana,Fruits,Solid,Aluminium Foil,5,12 days,200 years,Steel Container,1,14 days,Reusable,Paper Tray,1.2,19 days,4 months,Glass Bottle,1.2,10 days,Reusable
+Shampoo,Cosmetics,Liquid,Aluminium Foil,5,8 days,200 years,Glass Bottle,1.2,11 days,Reusable,Jute Bag,0.8,7 days,1 year,Reusable Cloth Bag,0.7,13 days,Reusable
+Sugar,Cooking,Solid,Aluminium Foil,5,15 days,200 years,Reusable Cloth Bag,0.7,20 days,Reusable,Glass Bottle,1.2,9 days,Reusable,Recyclable Cardboard Box,1,10 days,6 months
+Water Bottle,Beverage,Liquid,Styrofoam Box,4,12 days,500 years,Plant-based Bottle,1.3,5 days,2 years,Biodegradable Pouch,1.1,5 days,8 months,Steel Container,1,9 days,Reusable
+Shirt,Clothing,Solid,Plastic Packet,3.5,8 days,500 years,Jute Bag,0.8,16 days,1 year,Plant-based Bottle,1.3,4 days,2 years,Glass Bottle,1.2,16 days,Reusable
+Milk,Beverage,Liquid,Styrofoam Box,4,11 days,500 years,Glass Bottle,1.2,5 days,Reusable,Paper Tray,1.2,17 days,4 months,Steel Container,1,19 days,Reusable
+Shampoo,Cosmetics,Liquid,Plastic Packet,3.5,3 days,500 years,Compostable Net Bag,0.9,10 days,6 months,Biodegradable Pouch,1.1,10 days,8 months,Plant-based Bottle,1.3,17 days,2 years
+Rice,Grains,Solid,PVC Packaging,4.2,4 days,450 years,Jute Bag,0.8,15 days,1 year,Plant-based Bottle,1.3,19 days,2 years,Glass Bottle,1.2,12 days,Reusable
+Rice,Grains,Solid,PVC Packaging,4.2,14 days,450 years,Recyclable Cardboard Box,1,11 days,6 months,Glass Bottle,1.2,7 days,Reusable,Steel Container,1,14 days,Reusable
+Cucumber,Vegetable,Solid,Plastic Bottle,4.5,10 days,450 years,Jute Bag,0.8,13 days,1 year,Recyclable Cardboard Box,1,19 days,6 months,Paper Tray,1.2,7 days,4 months
+Dish Soap,Cleaning,Liquid,Styrofoam Box,4,7 days,500 years,Jute Bag,0.8,15 days,1 year,Steel Container,1,19 days,Reusable,Reusable Cloth Bag,0.7,12 days,Reusable
+Shampoo,Cosmetics,Liquid,Plastic Bottle,4.5,10 days,450 years,Compostable Net Bag,0.9,17 days,6 months,Recyclable Cardboard Box,1,13 days,6 months,Plant-based Bottle,1.3,13 days,2 years
+Wheat Flour,Grains,Solid,PVC Packaging,4.2,9 days,450 years,Reusable Cloth Bag,0.7,10 days,Reusable,Compostable Net Bag,0.9,14 days,6 months,Paper Tray,1.2,13 days,4 months
+Soap,Cosmetics,Solid,PVC Packaging,4.2,8 days,450 years,Recyclable Cardboard Box,1,19 days,6 months,Jute Bag,0.8,4 days,1 year,Paper Tray,1.2,10 days,4 months
+Banana,Fruits,Solid,Plastic Bottle,4.5,10 days,450 years,Compostable Net Bag,0.9,7 days,6 months,Jute Bag,0.8,8 days,1 year,Biodegradable Pouch,1.1,16 days,8 months
+Orange,Fruits,Solid,PVC Packaging,4.2,4 days,450 years,Plant-based Bottle,1.3,16 days,2 years,Biodegradable Pouch,1.1,4 days,8 months,Steel Container,1,5 days,Reusable
+Milk,Beverage,Liquid,Styrofoam Box,4,8 days,500 years,Glass Bottle,1.2,14 days,Reusable,Reusable Cloth Bag,0.7,8 days,Reusable,Recyclable Cardboard Box,1,15 days,6 months
+Carrot,Vegetable,Solid,Plastic Bottle,4.5,7 days,450 years,Compostable Net Bag,0.9,17 days,6 months,Steel Container,1,14 days,Reusable,Glass Bottle,1.2,8 days,Reusable
+Banana,Fruits,Solid,Plastic Packet,3.5,9 days,500 years,Glass Bottle,1.2,14 days,Reusable,Jute Bag,0.8,16 days,1 year,Compostable Net Bag,0.9,9 days,6 months
+Noodles,Snacks,Solid,Aluminium Foil,5,14 days,200 years,Compostable Net Bag,0.9,9 days,6 months,Jute Bag,0.8,7 days,1 year,Steel Container,1,9 days,Reusable
+Banana,Fruits,Solid,Plastic Bottle,4.5,7 days,450 years,Paper Tray,1.2,8 days,4 months,Recyclable Cardboard Box,1,10 days,6 months,Reusable Cloth Bag,0.7,18 days,Reusable
+Biscuits,Bakery,Solid,Plastic Packet,3.5,10 days,500 years,Compostable Net Bag,0.9,12 days,6 months,Biodegradable Pouch,1.1,16 days,8 months,Paper Tray,1.2,15 days,4 months
+Salt,Cooking,Solid,PVC Packaging,4.2,8 days,450 years,Jute Bag,0.8,11 days,1 year,Glass Bottle,1.2,14 days,Reusable,Steel Container,1,10 days,Reusable
+Orange,Fruits,Solid,Aluminium Foil,5,7 days,200 years,Jute Bag,0.8,14 days,1 year,Biodegradable Pouch,1.1,8 days,8 months,Steel Container,1,20 days,Reusable
+Rice,Grains,Solid,Styrofoam Box,4,12 days,500 years,Jute Bag,0.8,16 days,1 year,Compostable Net Bag,0.9,16 days,6 months,Paper Tray,1.2,11 days,4 months
+Shampoo,Cosmetics,Liquid,Aluminium Foil,5,12 days,200 years,Glass Bottle,1.2,20 days,Reusable,Reusable Cloth Bag,0.7,15 days,Reusable,Biodegradable Pouch,1.1,20 days,8 months
+Sugar,Cooking,Solid,PVC Packaging,4.2,15 days,450 years,Recyclable Cardboard Box,1,8 days,6 months,Jute Bag,0.8,8 days,1 year,Glass Bottle,1.2,7 days,Reusable
+Biscuits,Bakery,Solid,Aluminium Foil,5,14 days,200 years,Jute Bag,0.8,4 days,1 year,Plant-based Bottle,1.3,8 days,2 years,Compostable Net Bag,0.9,15 days,6 months
+Potato,Vegetable,Solid,Plastic Packet,3.5,6 days,500 years,Jute Bag,0.8,9 days,1 year,Recyclable Cardboard Box,1,15 days,6 months,Paper Tray,1.2,4 days,4 months
+Detergent,Cleaning,Powder,Aluminium Foil,5,9 days,200 years,Plant-based Bottle,1.3,19 days,2 years,Reusable Cloth Bag,0.7,12 days,Reusable,Compostable Net Bag,0.9,19 days,6 months
+Carrot,Vegetable,Solid,Styrofoam Box,4,10 days,500 years,Compostable Net Bag,0.9,17 days,6 months,Reusable Cloth Bag,0.7,20 days,Reusable,Paper Tray,1.2,4 days,4 months
+Dish Soap,Cleaning,Liquid,Styrofoam Box,4,11 days,500 years,Jute Bag,0.8,7 days,1 year,Plant-based Bottle,1.3,5 days,2 years,Compostable Net Bag,0.9,17 days,6 months
+Book,Stationery,Solid,PVC Packaging,4.2,7 days,450 years,Plant-based Bottle,1.3,5 days,2 years,Glass Bottle,1.2,7 days,Reusable,Steel Container,1,20 days,Reusable
+Dish Soap,Cleaning,Liquid,PVC Packaging,4.2,11 days,450 years,Recyclable Cardboard Box,1,16 days,6 months,Biodegradable Pouch,1.1,18 days,8 months,Steel Container,1,14 days,Reusable
+Grapes,Fruits,Solid,Plastic Packet,3.5,12 days,500 years,Paper Tray,1.2,4 days,4 months,Biodegradable Pouch,1.1,12 days,8 months,Recyclable Cardboard Box,1,9 days,6 months
+Soap,Cosmetics,Solid,Styrofoam Box,4,8 days,500 years,Plant-based Bottle,1.3,10 days,2 years,Reusable Cloth Bag,0.7,20 days,Reusable,Compostable Net Bag,0.9,6 days,6 months
+Orange,Fruits,Solid,Plastic Packet,3.5,11 days,500 years,Steel Container,1,17 days,Reusable,Compostable Net Bag,0.9,20 days,6 months,Glass Bottle,1.2,11 days,Reusable
+Milk,Beverage,Liquid,Styrofoam Box,4,12 days,500 years,Steel Container,1,5 days,Reusable,Glass Bottle,1.2,14 days,Reusable,Reusable Cloth Bag,0.7,8 days,Reusable
+Biscuits,Bakery,Solid,Aluminium Foil,5,3 days,200 years,Paper Tray,1.2,7 days,4 months,Recyclable Cardboard Box,1,12 days,6 months,Compostable Net Bag,0.9,19 days,6 months
+Onion,Vegetable,Solid,Plastic Packet,3.5,5 days,500 years,Steel Container,1,12 days,Reusable,Compostable Net Bag,0.9,7 days,6 months,Biodegradable Pouch,1.1,12 days,8 months
+Cucumber,Vegetable,Solid,Styrofoam Box,4,8 days,500 years,Paper Tray,1.2,20 days,4 months,Compostable Net Bag,0.9,16 days,6 months,Recyclable Cardboard Box,1,15 days,6 months
+Shirt,Clothing,Solid,Styrofoam Box,4,4 days,500 years,Paper Tray,1.2,9 days,4 months,Biodegradable Pouch,1.1,11 days,8 months,Steel Container,1,19 days,Reusable
+Dish Soap,Cleaning,Liquid,PVC Packaging,4.2,14 days,450 years,Paper Tray,1.2,4 days,4 months,Compostable Net Bag,0.9,15 days,6 months,Plant-based Bottle,1.3,15 days,2 years
+Bread,Bakery,Solid,Aluminium Foil,5,14 days,200 years,Jute Bag,0.8,4 days,1 year,Reusable Cloth Bag,0.7,5 days,Reusable,Plant-based Bottle,1.3,17 days,2 years
+Chips,Snacks,Solid,Plastic Packet,3.5,3 days,500 years,Plant-based Bottle,1.3,16 days,2 years,Jute Bag,0.8,13 days,1 year,Glass Bottle,1.2,15 days,Reusable
+Noodles,Snacks,Solid,Plastic Bottle,4.5,6 days,450 years,Recyclable Cardboard Box,1,4 days,6 months,Paper Tray,1.2,14 days,4 months,Plant-based Bottle,1.3,14 days,2 years
+Rice,Grains,Solid,Aluminium Foil,5,7 days,200 years,Jute Bag,0.8,13 days,1 year,Steel Container,1,10 days,Reusable,Reusable Cloth Bag,0.7,12 days,Reusable
+Detergent,Cleaning,Powder,Plastic Packet,3.5,8 days,500 years,Paper Tray,1.2,12 days,4 months,Reusable Cloth Bag,0.7,6 days,Reusable,Jute Bag,0.8,5 days,1 year
+Soap,Cosmetics,Solid,Plastic Bottle,4.5,3 days,450 years,Recyclable Cardboard Box,1,5 days,6 months,Paper Tray,1.2,6 days,4 months,Biodegradable Pouch,1.1,13 days,8 months
+Carrot,Vegetable,Solid,PVC Packaging,4.2,8 days,450 years,Steel Container,1,19 days,Reusable,Jute Bag,0.8,6 days,1 year,Reusable Cloth Bag,0.7,20 days,Reusable
+Shoes,Clothing,Solid,Plastic Bottle,4.5,12 days,450 years,Steel Container,1,8 days,Reusable,Recyclable Cardboard Box,1,20 days,6 months,Paper Tray,1.2,8 days,4 months
+Salt,Cooking,Solid,Plastic Packet,3.5,5 days,500 years,Plant-based Bottle,1.3,5 days,2 years,Jute Bag,0.8,9 days,1 year,Paper Tray,1.2,9 days,4 months
+Detergent,Cleaning,Powder,Plastic Packet,3.5,14 days,500 years,Paper Tray,1.2,14 days,4 months,Reusable Cloth Bag,0.7,4 days,Reusable,Biodegradable Pouch,1.1,15 days,8 months
+Biscuits,Bakery,Solid,Plastic Bottle,4.5,11 days,450 years,Plant-based Bottle,1.3,12 days,2 years,Glass Bottle,1.2,8 days,Reusable,Biodegradable Pouch,1.1,20 days,8 months
+Vegetable Oil,Cooking,Liquid,Aluminium Foil,5,10 days,200 years,Reusable Cloth Bag,0.7,14 days,Reusable,Biodegradable Pouch,1.1,6 days,8 months,Steel Container,1,13 days,Reusable
+Book,Stationery,Solid,Aluminium Foil,5,13 days,200 years,Compostable Net Bag,0.9,6 days,6 months,Steel Container,1,17 days,Reusable,Recyclable Cardboard Box,1,18 days,6 months
+Banana,Fruits,Solid,Plastic Packet,3.5,5 days,500 years,Compostable Net Bag,0.9,12 days,6 months,Paper Tray,1.2,10 days,4 months,Recyclable Cardboard Box,1,8 days,6 months
+Biscuits,Bakery,Solid,PVC Packaging,4.2,8 days,450 years,Biodegradable Pouch,1.1,17 days,8 months,Compostable Net Bag,0.9,5 days,6 months,Reusable Cloth Bag,0.7,17 days,Reusable
+Cucumber,Vegetable,Solid,Plastic Packet,3.5,9 days,500 years,Compostable Net Bag,0.9,7 days,6 months,Jute Bag,0.8,18 days,1 year,Glass Bottle,1.2,4 days,Reusable
+Milk,Beverage,Liquid,Plastic Packet,3.5,5 days,500 years,Recyclable Cardboard Box,1,8 days,6 months,Paper Tray,1.2,20 days,4 months,Jute Bag,0.8,8 days,1 year
+Sugar,Cooking,Solid,Aluminium Foil,5,14 days,200 years,Compostable Net Bag,0.9,17 days,6 months,Paper Tray,1.2,5 days,4 months,Glass Bottle,1.2,12 days,Reusable
+Chips,Snacks,Solid,Plastic Bottle,4.5,12 days,450 years,Plant-based Bottle,1.3,13 days,2 years,Biodegradable Pouch,1.1,7 days,8 months,Compostable Net Bag,0.9,17 days,6 months
+Rice,Grains,Solid,Plastic Packet,3.5,5 days,500 years,Compostable Net Bag,0.9,7 days,6 months,Paper Tray,1.2,17 days,4 months,Glass Bottle,1.2,19 days,Reusable
+Toothpaste,Cosmetics,Semi-solid,PVC Packaging,4.2,6 days,450 years,Biodegradable Pouch,1.1,14 days,8 months,Reusable Cloth Bag,0.7,10 days,Reusable,Glass Bottle,1.2,9 days,Reusable
+Lentils,Grains,Solid,Plastic Bottle,4.5,4 days,450 years,Biodegradable Pouch,1.1,6 days,8 months,Recyclable Cardboard Box,1,10 days,6 months,Compostable Net Bag,0.9,20 days,6 months
+Carrot,Vegetable,Solid,Plastic Packet,3.5,15 days,500 years,Recyclable Cardboard Box,1,9 days,6 months,Compostable Net Bag,0.9,4 days,6 months,Jute Bag,0.8,14 days,1 year
+Detergent,Cleaning,Powder,Plastic Bottle,4.5,13 days,450 years,Biodegradable Pouch,1.1,14 days,8 months,Recyclable Cardboard Box,1,12 days,6 months,Reusable Cloth Bag,0.7,4 days,Reusable
+Biscuits,Bakery,Solid,Aluminium Foil,5,6 days,200 years,Glass Bottle,1.2,10 days,Reusable,Jute Bag,0.8,10 days,1 year,Compostable Net Bag,0.9,13 days,6 months
+Milk,Beverage,Liquid,Styrofoam Box,4,10 days,500 years,Biodegradable Pouch,1.1,15 days,8 months,Recyclable Cardboard Box,1,9 days,6 months,Jute Bag,0.8,13 days,1 year
+Bread,Bakery,Solid,Aluminium Foil,5,14 days,200 years,Glass Bottle,1.2,11 days,Reusable,Compostable Net Bag,0.9,18 days,6 months,Plant-based Bottle,1.3,18 days,2 years
+Chips,Snacks,Solid,Plastic Bottle,4.5,13 days,450 years,Recyclable Cardboard Box,1,16 days,6 months,Paper Tray,1.2,13 days,4 months,Reusable Cloth Bag,0.7,4 days,Reusable
+Grapes,Fruits,Solid,Aluminium Foil,5,7 days,200 years,Paper Tray,1.2,7 days,4 months,Recyclable Cardboard Box,1,19 days,6 months,Steel Container,1,20 days,Reusable
+Grapes,Fruits,Solid,Plastic Bottle,4.5,4 days,450 years,Compostable Net Bag,0.9,13 days,6 months,Recyclable Cardboard Box,1,9 days,6 months,Jute Bag,0.8,18 days,1 year
+Dish Soap,Cleaning,Liquid,Plastic Bottle,4.5,3 days,450 years,Jute Bag,0.8,5 days,1 year,Glass Bottle,1.2,17 days,Reusable,Steel Container,1,20 days,Reusable
+Orange,Fruits,Solid,PVC Packaging,4.2,11 days,450 years,Compostable Net Bag,0.9,9 days,6 months,Reusable Cloth Bag,0.7,8 days,Reusable,Biodegradable Pouch,1.1,14 days,8 months
+Salt,Cooking,Solid,Plastic Packet,3.5,6 days,500 years,Jute Bag,0.8,10 days,1 year,Biodegradable Pouch,1.1,19 days,8 months,Compostable Net Bag,0.9,4 days,6 months
+Lentils,Grains,Solid,PVC Packaging,4.2,6 days,450 years,Compostable Net Bag,0.9,7 days,6 months,Glass Bottle,1.2,14 days,Reusable,Reusable Cloth Bag,0.7,8 days,Reusable
+Juice,Beverage,Liquid,PVC Packaging,4.2,13 days,450 years,Jute Bag,0.8,5 days,1 year,Compostable Net Bag,0.9,14 days,6 months,Plant-based Bottle,1.3,8 days,2 years
+Shampoo,Cosmetics,Liquid,Plastic Packet,3.5,180 days,500 years,Glass Bottle,1.2,16 days,Reusable,Compostable Net Bag,0.9,13 days,6 months,Recyclable Cardboard Box,1,18 days,6 months
+Grapes,Fruits,Solid,Plastic Bottle,4.5,8 days,450 years,Steel Container,1,14 days,Reusable,Jute Bag,0.8,10 days,1 year,Compostable Net Bag,0.9,6 days,6 months
+Onion,Vegetable,Solid,Plastic Bottle,4.5,9 days,450 years,Compostable Net Bag,0.9,16 days,6 months,Biodegradable Pouch,1.1,15 days,8 months,Steel Container,1,19 days,Reusable
+Sugar,Cooking,Solid,Aluminium Foil,5,5 days,200 years,Steel Container,1,9 days,Reusable,Jute Bag,0.8,8 days,1 year,Compostable Net Bag,0.9,11 days,6 months
+Book,Stationery,Solid,Plastic Bottle,4.5,14 days,450 years,Recyclable Cardboard Box,1,7 days,6 months,Steel Container,1,20 days,Reusable,Jute Bag,0.8,16 days,1 year
+Pen,Stationery,Solid,Plastic Bottle,4.5,8 days,450 years,Jute Bag,0.8,12 days,1 year,Reusable Cloth Bag,0.7,20 days,Reusable,Plant-based Bottle,1.3,18 days,2 years
+Juice,Beverage,Liquid,Plastic Packet,3.5,13 days,500 years,Compostable Net Bag,0.9,8 days,6 months,Glass Bottle,1.2,14 days,Reusable,Plant-based Bottle,1.3,16 days,2 years
+Pen,Stationery,Solid,Styrofoam Box,4,7 days,500 years,Plant-based Bottle,1.3,15 days,2 years,Reusable Cloth Bag,0.7,20 days,Reusable,Paper Tray,1.2,16 days,4 months
+Tomato,Vegetable,Solid,Plastic Packet,3.5,3 days,500 years,Biodegradable Pouch,1.1,16 days,8 months,Paper Tray,1.2,13 days,4 months,Glass Bottle,1.2,14 days,Reusable
+Cucumber,Vegetable,Solid,Styrofoam Box,4,4 days,500 years,Steel Container,1,8 days,Reusable,Plant-based Bottle,1.3,20 days,2 years,Compostable Net Bag,0.9,16 days,6 months
+Carrot,Vegetable,Solid,PVC Packaging,4.2,15 days,450 years,Steel Container,1,11 days,Reusable,Plant-based Bottle,1.3,11 days,2 years,Glass Bottle,1.2,18 days,Reusable
+Noodles,Snacks,Solid,Aluminium Foil,5,13 days,200 years,Steel Container,1,20 days,Reusable,Glass Bottle,1.2,10 days,Reusable,Paper Tray,1.2,4 days,4 months
+Wheat Flour,Grains,Solid,PVC Packaging,4.2,9 days,450 years,Paper Tray,1.2,10 days,4 months,Recyclable Cardboard Box,1,13 days,6 months,Compostable Net Bag,0.9,12 days,6 months
+Onion,Vegetable,Solid,Aluminium Foil,5,14 days,200 years,Glass Bottle,1.2,19 days,Reusable,Reusable Cloth Bag,0.7,14 days,Reusable,Biodegradable Pouch,1.1,12 days,8 months
+Carrot,Vegetable,Solid,Plastic Bottle,4.5,10 days,450 years,Glass Bottle,1.2,11 days,Reusable,Jute Bag,0.8,15 days,1 year,Reusable Cloth Bag,0.7,15 days,Reusable
+Vegetable Oil,Cooking,Liquid,Plastic Bottle,4.5,9 days,450 years,Recyclable Cardboard Box,1,7 days,6 months,Paper Tray,1.2,9 days,4 months,Plant-based Bottle,1.3,6 days,2 years
+Cucumber,Vegetable,Solid,Aluminium Foil,5,8 days,200 years,Recyclable Cardboard Box,1,5 days,6 months,Steel Container,1,7 days,Reusable,Reusable Cloth Bag,0.7,14 days,Reusable
+Carrot,Vegetable,Solid,Plastic Packet,3.5,4 days,500 years,Compostable Net Bag,0.9,10 days,6 months,Recyclable Cardboard Box,1,7 days,6 months,Reusable Cloth Bag,0.7,7 days,Reusable
+Book,Stationery,Solid,Plastic Bottle,4.5,3 days,450 years,Steel Container,1,9 days,Reusable,Compostable Net Bag,0.9,20 days,6 months,Plant-based Bottle,1.3,14 days,2 years
+Cucumber,Vegetable,Solid,Plastic Bottle,4.5,13 days,450 years,Paper Tray,1.2,17 days,4 months,Jute Bag,0.8,5 days,1 year,Steel Container,1,12 days,Reusable
+Shampoo,Cosmetics,Liquid,Styrofoam Box,4,14 days,500 years,Glass Bottle,1.2,15 days,Reusable,Recyclable Cardboard Box,1,4 days,6 months,Reusable Cloth Bag,0.7,17 days,Reusable
+Tomato,Vegetable,Solid,PVC Packaging,4.2,13 days,450 years,Biodegradable Pouch,1.1,5 days,8 months,Plant-based Bottle,1.3,5 days,2 years,Glass Bottle,1.2,10 days,Reusable
+Chips,Snacks,Solid,Styrofoam Box,4,8 days,500 years,Jute Bag,0.8,11 days,1 year,Plant-based Bottle,1.3,11 days,2 years,Paper Tray,1.2,5 days,4 months
+Carrot,Vegetable,Solid,Plastic Packet,3.5,10 days,500 years,Reusable Cloth Bag,0.7,13 days,Reusable,Recyclable Cardboard Box,1,18 days,6 months,Biodegradable Pouch,1.1,18 days,8 months
+Shampoo,Cosmetics,Liquid,Styrofoam Box,4,11 days,500 years,Reusable Cloth Bag,0.7,19 days,Reusable,Paper Tray,1.2,11 days,4 months,Glass Bottle,1.2,9 days,Reusable
+Banana,Fruits,Solid,PVC Packaging,4.2,7 days,450 years,Recyclable Cardboard Box,1,13 days,6 months,Biodegradable Pouch,1.1,11 days,8 months,Compostable Net Bag,0.9,6 days,6 months
+Chips,Snacks,Solid,Aluminium Foil,5,4 days,200 years,Paper Tray,1.2,11 days,4 months,Compostable Net Bag,0.9,20 days,6 months,Plant-based Bottle,1.3,8 days,2 years
+Tomato,Vegetable,Solid,Styrofoam Box,4,8 days,500 years,Steel Container,1,17 days,Reusable,Jute Bag,0.8,12 days,1 year,Paper Tray,1.2,7 days,4 months
+Orange,Fruits,Solid,Aluminium Foil,5,3 days,200 years,Recyclable Cardboard Box,1,13 days,6 months,Paper Tray,1.2,4 days,4 months,Plant-based Bottle,1.3,6 days,2 years
+Dish Soap,Cleaning,Liquid,PVC Packaging,4.2,11 days,450 years,Recyclable Cardboard Box,1,4 days,6 months,Jute Bag,0.8,16 days,1 year,Steel Container,1,19 days,Reusable
+Potato,Vegetable,Solid,Styrofoam Box,4,3 days,500 years,Biodegradable Pouch,1.1,10 days,8 months,Steel Container,1,10 days,Reusable,Recyclable Cardboard Box,1,20 days,6 months
+Soap,Cosmetics,Solid,Plastic Bottle,4.5,11 days,450 years,Recyclable Cardboard Box,1,14 days,6 months,Plant-based Bottle,1.3,7 days,2 years,Jute Bag,0.8,17 days,1 year
+Noodles,Snacks,Solid,Plastic Packet,3.5,11 days,500 years,Biodegradable Pouch,1.1,10 days,8 months,Steel Container,1,14 days,Reusable,Plant-based Bottle,1.3,19 days,2 years
+Shirt,Clothing,Solid,PVC Packaging,4.2,10 days,450 years,Jute Bag,0.8,16 days,1 year,Plant-based Bottle,1.3,13 days,2 years,Recyclable Cardboard Box,1,17 days,6 months
+Chips,Snacks,Solid,Plastic Packet,3.5,4 days,500 years,Recyclable Cardboard Box,1,7 days,6 months,Plant-based Bottle,1.3,10 days,2 years,Glass Bottle,1.2,17 days,Reusable
+Pen,Stationery,Solid,Styrofoam Box,4,14 days,500 years,Biodegradable Pouch,1.1,15 days,8 months,Steel Container,1,18 days,Reusable,Plant-based Bottle,1.3,16 days,2 years
+Sugar,Cooking,Solid,Styrofoam Box,4,10 days,500 years,Biodegradable Pouch,1.1,6 days,8 months,Steel Container,1,8 days,Reusable,Reusable Cloth Bag,0.7,15 days,Reusable
+Onion,Vegetable,Solid,Plastic Packet,3.5,13 days,500 years,Recyclable Cardboard Box,1,10 days,6 months,Biodegradable Pouch,1.1,4 days,8 months,Paper Tray,1.2,9 days,4 months
+Water Bottle,Beverage,Liquid,Styrofoam Box,4,5 days,500 years,Jute Bag,0.8,16 days,1 year,Glass Bottle,1.2,11 days,Reusable,Compostable Net Bag,0.9,18 days,6 months
+Biscuits,Bakery,Solid,PVC Packaging,4.2,10 days,450 years,Steel Container,1,12 days,Reusable,Glass Bottle,1.2,10 days,Reusable,Plant-based Bottle,1.3,7 days,2 years
+Shirt,Clothing,Solid,Plastic Bottle,4.5,5 days,450 years,Compostable Net Bag,0.9,7 days,6 months,Recyclable Cardboard Box,1,20 days,6 months,Biodegradable Pouch,1.1,18 days,8 months
+Juice,Beverage,Liquid,Styrofoam Box,4,6 days,500 years,Jute Bag,0.8,10 days,1 year,Glass Bottle,1.2,4 days,Reusable,Compostable Net Bag,0.9,13 days,6 months
+Lentils,Grains,Solid,Styrofoam Box,4,10 days,500 years,Plant-based Bottle,1.3,5 days,2 years,Steel Container,1,10 days,Reusable,Reusable Cloth Bag,0.7,12 days,Reusable
+Biscuits,Bakery,Solid,Styrofoam Box,4,7 days,500 years,Paper Tray,1.2,9 days,4 months,Compostable Net Bag,0.9,6 days,6 months,Reusable Cloth Bag,0.7,19 days,Reusable
+Pen,Stationery,Solid,PVC Packaging,4.2,15 days,450 years,Steel Container,1,17 days,Reusable,Glass Bottle,1.2,6 days,Reusable,Reusable Cloth Bag,0.7,11 days,Reusable
+Biscuits,Bakery,Solid,Aluminium Foil,5,14 days,200 years,Paper Tray,1.2,12 days,4 months,Biodegradable Pouch,1.1,17 days,8 months,Recyclable Cardboard Box,1,9 days,6 months
+Tomato,Vegetable,Solid,Styrofoam Box,4,3 days,500 years,Glass Bottle,1.2,16 days,Reusable,Jute Bag,0.8,12 days,1 year,Compostable Net Bag,0.9,19 days,6 months
+Tomato,Vegetable,Solid,Plastic Packet,3.5,14 days,500 years,Jute Bag,0.8,4 days,1 year,Reusable Cloth Bag,0.7,19 days,Reusable,Glass Bottle,1.2,10 days,Reusable
+Toothpaste,Cosmetics,Semi-solid,Plastic Bottle,4.5,9 days,450 years,Paper Tray,1.2,8 days,4 months,Jute Bag,0.8,20 days,1 year,Recyclable Cardboard Box,1,13 days,6 months
+Orange,Fruits,Solid,Plastic Bottle,4.5,10 days,450 years,Steel Container,1,16 days,Reusable,Biodegradable Pouch,1.1,5 days,8 months,Glass Bottle,1.2,19 days,Reusable
+Cucumber,Vegetable,Solid,Plastic Packet,3.5,5 days,500 years,Compostable Net Bag,0.9,4 days,6 months,Paper Tray,1.2,8 days,4 months,Glass Bottle,1.2,16 days,Reusable
+Vegetable Oil,Cooking,Liquid,PVC Packaging,4.2,8 days,450 years,Plant-based Bottle,1.3,4 days,2 years,Jute Bag,0.8,4 days,1 year,Reusable Cloth Bag,0.7,9 days,Reusable
+Biscuits,Bakery,Solid,Aluminium Foil,5,5 days,200 years,Steel Container,1,16 days,Reusable,Jute Bag,0.8,9 days,1 year,Recyclable Cardboard Box,1,18 days,6 months
+Dish Soap,Cleaning,Liquid,Styrofoam Box,4,4 days,500 years,Reusable Cloth Bag,0.7,8 days,Reusable,Plant-based Bottle,1.3,7 days,2 years,Biodegradable Pouch,1.1,11 days,8 months
+Tomato,Vegetable,Solid,Styrofoam Box,4,15 days,500 years,Reusable Cloth Bag,0.7,18 days,Reusable,Recyclable Cardboard Box,1,4 days,6 months,Paper Tray,1.2,4 days,4 months
+Noodles,Snacks,Solid,Plastic Packet,3.5,4 days,500 years,Reusable Cloth Bag,0.7,16 days,Reusable,Recyclable Cardboard Box,1,9 days,6 months,Plant-based Bottle,1.3,7 days,2 years
+Orange,Fruits,Solid,Plastic Bottle,4.5,9 days,450 years,Plant-based Bottle,1.3,20 days,2 years,Paper Tray,1.2,8 days,4 months,Steel Container,1,8 days,Reusable
+Wheat Flour,Grains,Solid,Plastic Packet,3.5,13 days,500 years,Plant-based Bottle,1.3,12 days,2 years,Reusable Cloth Bag,0.7,13 days,Reusable,Jute Bag,0.8,13 days,1 year
+Dish Soap,Cleaning,Liquid,Plastic Packet,3.5,8 days,500 years,Compostable Net Bag,0.9,12 days,6 months,Recyclable Cardboard Box,1,16 days,6 months,Steel Container,1,14 days,Reusable
+Biscuits,Bakery,Solid,Aluminium Foil,5,8 days,200 years,Reusable Cloth Bag,0.7,8 days,Reusable,Steel Container,1,16 days,Reusable,Glass Bottle,1.2,15 days,Reusable
+Detergent,Cleaning,Powder,Plastic Packet,3.5,3 days,500 years,Paper Tray,1.2,20 days,4 months,Jute Bag,0.8,19 days,1 year,Biodegradable Pouch,1.1,14 days,8 months
+Sugar,Cooking,Solid,Styrofoam Box,4,7 days,500 years,Jute Bag,0.8,7 days,1 year,Recyclable Cardboard Box,1,9 days,6 months,Reusable Cloth Bag,0.7,12 days,Reusable
+Potato,Vegetable,Solid,Styrofoam Box,4,8 days,500 years,Steel Container,1,9 days,Reusable,Reusable Cloth Bag,0.7,11 days,Reusable,Jute Bag,0.8,12 days,1 year
+Water Bottle,Beverage,Liquid,Plastic Bottle,4.5,4 days,450 years,Compostable Net Bag,0.9,8 days,6 months,Glass Bottle,1.2,8 days,Reusable,Plant-based Bottle,1.3,15 days,2 years
+Banana,Fruits,Solid,Styrofoam Box,4,3 days,500 years,Recyclable Cardboard Box,1,13 days,6 months,Steel Container,1,19 days,Reusable,Biodegradable Pouch,1.1,4 days,8 months
+Salt,Cooking,Solid,Styrofoam Box,4,12 days,500 years,Biodegradable Pouch,1.1,19 days,8 months,Recyclable Cardboard Box,1,6 days,6 months,Paper Tray,1.2,8 days,4 months
+Shoes,Clothing,Solid,Plastic Bottle,4.5,13 days,450 years,Steel Container,1,6 days,Reusable,Plant-based Bottle,1.3,14 days,2 years,Jute Bag,0.8,5 days,1 year
+Apple,Fruits,Solid,PVC Packaging,4.2,13 days,450 years,Recyclable Cardboard Box,1,20 days,6 months,Glass Bottle,1.2,8 days,Reusable,Plant-based Bottle,1.3,8 days,2 years
+Orange,Fruits,Solid,Styrofoam Box,4,10 days,500 years,Recyclable Cardboard Box,1,18 days,6 months,Paper Tray,1.2,4 days,4 months,Compostable Net Bag,0.9,11 days,6 months
+Book,Stationery,Solid,Plastic Packet,3.5,10 days,500 years,Biodegradable Pouch,1.1,16 days,8 months,Paper Tray,1.2,10 days,4 months,Recyclable Cardboard Box,1,6 days,6 months
+Book,Stationery,Solid,Plastic Packet,3.5,15 days,500 years,Reusable Cloth Bag,0.7,11 days,Reusable,Paper Tray,1.2,20 days,4 months,Biodegradable Pouch,1.1,9 days,8 months
+Biscuits,Bakery,Solid,Plastic Bottle,4.5,4 days,450 years,Plant-based Bottle,1.3,4 days,2 years,Steel Container,1,10 days,Reusable,Paper Tray,1.2,13 days,4 months
+Shampoo,Cosmetics,Liquid,Plastic Packet,3.5,12 days,500 years,Compostable Net Bag,0.9,10 days,6 months,Reusable Cloth Bag,0.7,15 days,Reusable,Jute Bag,0.8,9 days,1 year
+Sugar,Cooking,Solid,Styrofoam Box,4,7 days,500 years,Steel Container,1,16 days,Reusable,Recyclable Cardboard Box,1,9 days,6 months,Reusable Cloth Bag,0.7,17 days,Reusable
+Tomato,Vegetable,Solid,Plastic Bottle,4.5,4 days,450 years,Reusable Cloth Bag,0.7,9 days,Reusable,Jute Bag,0.8,13 days,1 year,Glass Bottle,1.2,17 days,Reusable
+Shirt,Clothing,Solid,Aluminium Foil,5,13 days,200 years,Biodegradable Pouch,1.1,6 days,8 months,Paper Tray,1.2,10 days,4 months,Jute Bag,0.8,14 days,1 year
+Shampoo,Cosmetics,Liquid,Plastic Packet,3.5,9 days,500 years,Steel Container,1,13 days,Reusable,Biodegradable Pouch,1.1,7 days,8 months,Paper Tray,1.2,18 days,4 months
+Detergent,Cleaning,Powder,Styrofoam Box,4,9 days,500 years,Paper Tray,1.2,12 days,4 months,Jute Bag,0.8,18 days,1 year,Reusable Cloth Bag,0.7,4 days,Reusable
+Dish Soap,Cleaning,Liquid,PVC Packaging,4.2,8 days,450 years,Steel Container,1,4 days,Reusable,Plant-based Bottle,1.3,12 days,2 years,Paper Tray,1.2,7 days,4 months
+Sugar,Cooking,Solid,Plastic Bottle,4.5,6 days,450 years,Recyclable Cardboard Box,1,8 days,6 months,Steel Container,1,5 days,Reusable,Paper Tray,1.2,6 days,4 months
+Shirt,Clothing,Solid,Styrofoam Box,4,4 days,500 years,Jute Bag,0.8,14 days,1 year,Compostable Net Bag,0.9,6 days,6 months,Paper Tray,1.2,8 days,4 months
+Dish Soap,Cleaning,Liquid,Plastic Bottle,4.5,5 days,450 years,Plant-based Bottle,1.3,9 days,2 years,Glass Bottle,1.2,16 days,Reusable,Steel Container,1,9 days,Reusable
+Biscuits,Bakery,Solid,Plastic Packet,3.5,14 days,500 years,Jute Bag,0.8,18 days,1 year,Steel Container,1,17 days,Reusable,Recyclable Cardboard Box,1,16 days,6 months
+Grapes,Fruits,Solid,Styrofoam Box,4,3 days,500 years,Plant-based Bottle,1.3,20 days,2 years,Compostable Net Bag,0.9,18 days,6 months,Paper Tray,1.2,9 days,4 months
+Carrot,Vegetable,Solid,PVC Packaging,4.2,4 days,450 years,Reusable Cloth Bag,0.7,6 days,Reusable,Jute Bag,0.8,7 days,1 year,Compostable Net Bag,0.9,16 days,6 months
+Tomato,Vegetable,Solid,Aluminium Foil,5,12 days,200 years,Paper Tray,1.2,18 days,4 months,Steel Container,1,18 days,Reusable,Glass Bottle,1.2,16 days,Reusable
+Chips,Snacks,Solid,Aluminium Foil,5,11 days,200 years,Recyclable Cardboard Box,1,14 days,6 months,Glass Bottle,1.2,7 days,Reusable,Compostable Net Bag,0.9,11 days,6 months
+Lentils,Grains,Solid,Styrofoam Box,4,4 days,500 years,Biodegradable Pouch,1.1,15 days,8 months,Plant-based Bottle,1.3,19 days,2 years,Compostable Net Bag,0.9,7 days,6 months
+Grapes,Fruits,Solid,PVC Packaging,4.2,5 days,450 years,Steel Container,1,13 days,Reusable,Biodegradable Pouch,1.1,11 days,8 months,Recyclable Cardboard Box,1,19 days,6 months
+Detergent,Cleaning,Powder,PVC Packaging,4.2,5 days,450 years,Plant-based Bottle,1.3,18 days,2 years,Reusable Cloth Bag,0.7,15 days,Reusable,Recyclable Cardboard Box,1,19 days,6 months
+Book,Stationery,Solid,Aluminium Foil,5,8 days,200 years,Plant-based Bottle,1.3,10 days,2 years,Steel Container,1,5 days,Reusable,Paper Tray,1.2,15 days,4 months
+Biscuits,Bakery,Solid,Plastic Bottle,4.5,10 days,450 years,Jute Bag,0.8,20 days,1 year,Biodegradable Pouch,1.1,6 days,8 months,Recyclable Cardboard Box,1,13 days,6 months
+Biscuits,Bakery,Solid,Styrofoam Box,4,4 days,500 years,Jute Bag,0.8,18 days,1 year,Reusable Cloth Bag,0.7,13 days,Reusable,Plant-based Bottle,1.3,20 days,2 years
+Shampoo,Cosmetics,Liquid,Styrofoam Box,4,11 days,500 years,Plant-based Bottle,1.3,11 days,2 years,Paper Tray,1.2,19 days,4 months,Glass Bottle,1.2,12 days,Reusable
+Chips,Snacks,Solid,PVC Packaging,4.2,9 days,450 years,Biodegradable Pouch,1.1,4 days,8 months,Steel Container,1,19 days,Reusable,Recyclable Cardboard Box,1,13 days,6 months
+Orange,Fruits,Solid,PVC Packaging,4.2,4 days,450 years,Recyclable Cardboard Box,1,12 days,6 months,Plant-based Bottle,1.3,8 days,2 years,Compostable Net Bag,0.9,14 days,6 months
+Cucumber,Vegetable,Solid,PVC Packaging,4.2,9 days,450 years,Plant-based Bottle,1.3,10 days,2 years,Paper Tray,1.2,12 days,4 months,Biodegradable Pouch,1.1,20 days,8 months
+Soap,Cosmetics,Solid,PVC Packaging,4.2,5 days,450 years,Biodegradable Pouch,1.1,18 days,8 months,Reusable Cloth Bag,0.7,4 days,Reusable,Recyclable Cardboard Box,1,4 days,6 months
+Noodles,Snacks,Solid,Styrofoam Box,4,10 days,500 years,Reusable Cloth Bag,0.7,11 days,Reusable,Recyclable Cardboard Box,1,14 days,6 months,Plant-based Bottle,1.3,12 days,2 years
+Milk,Beverage,Liquid,PVC Packaging,4.2,12 days,450 years,Glass Bottle,1.2,15 days,Reusable,Biodegradable Pouch,1.1,15 days,8 months,Plant-based Bottle,1.3,5 days,2 years
+Tomato,Vegetable,Solid,Plastic Packet,3.5,14 days,500 years,Steel Container,1,12 days,Reusable,Compostable Net Bag,0.9,4 days,6 months,Paper Tray,1.2,8 days,4 months
+Wheat Flour,Grains,Solid,Styrofoam Box,4,6 days,500 years,Plant-based Bottle,1.3,10 days,2 years,Reusable Cloth Bag,0.7,8 days,Reusable,Jute Bag,0.8,16 days,1 year
+Cucumber,Vegetable,Solid,Styrofoam Box,4,9 days,500 years,Steel Container,1,13 days,Reusable,Reusable Cloth Bag,0.7,17 days,Reusable,Glass Bottle,1.2,6 days,Reusable
+Milk,Beverage,Liquid,PVC Packaging,4.2,6 days,450 years,Glass Bottle,1.2,6 days,Reusable,Biodegradable Pouch,1.1,19 days,8 months,Plant-based Bottle,1.3,20 days,2 years
+Soap,Cosmetics,Solid,Styrofoam Box,4,14 days,500 years,Reusable Cloth Bag,0.7,9 days,Reusable,Jute Bag,0.8,20 days,1 year,Compostable Net Bag,0.9,14 days,6 months
+Sugar,Cooking,Solid,Aluminium Foil,5,5 days,200 years,Jute Bag,0.8,18 days,1 year,Paper Tray,1.2,9 days,4 months,Reusable Cloth Bag,0.7,19 days,Reusable
+Noodles,Snacks,Solid,Plastic Packet,3.5,11 days,500 years,Biodegradable Pouch,1.1,17 days,8 months,Jute Bag,0.8,19 days,1 year,Glass Bottle,1.2,15 days,Reusable
+Soap,Cosmetics,Solid,Aluminium Foil,5,5 days,200 years,Reusable Cloth Bag,0.7,13 days,Reusable,Paper Tray,1.2,19 days,4 months,Glass Bottle,1.2,19 days,Reusable
+Soap,Cosmetics,Solid,Styrofoam Box,4,8 days,500 years,Glass Bottle,1.2,15 days,Reusable,Recyclable Cardboard Box,1,9 days,6 months,Plant-based Bottle,1.3,17 days,2 years
+Rice,Grains,Solid,Plastic Bottle,4.5,14 days,450 years,Reusable Cloth Bag,0.7,14 days,Reusable,Paper Tray,1.2,10 days,4 months,Plant-based Bottle,1.3,9 days,2 years
+Onion,Vegetable,Solid,PVC Packaging,4.2,11 days,450 years,Biodegradable Pouch,1.1,4 days,8 months,Jute Bag,0.8,10 days,1 year,Steel Container,1,15 days,Reusable
+Shirt,Clothing,Solid,PVC Packaging,4.2,3 days,450 years,Steel Container,1,19 days,Reusable,Biodegradable Pouch,1.1,6 days,8 months,Glass Bottle,1.2,6 days,Reusable
+Lentils,Grains,Solid,Plastic Packet,3.5,14 days,500 years,Glass Bottle,1.2,14 days,Reusable,Plant-based Bottle,1.3,15 days,2 years,Biodegradable Pouch,1.1,18 days,8 months
+Grapes,Fruits,Solid,Styrofoam Box,4,15 days,500 years,Recyclable Cardboard Box,1,10 days,6 months,Reusable Cloth Bag,0.7,9 days,Reusable,Glass Bottle,1.2,18 days,Reusable
+Shirt,Clothing,Solid,Plastic Bottle,4.5,15 days,450 years,Compostable Net Bag,0.9,18 days,6 months,Plant-based Bottle,1.3,11 days,2 years,Reusable Cloth Bag,0.7,20 days,Reusable
+Wheat Flour,Grains,Solid,Plastic Bottle,4.5,10 days,450 years,Steel Container,1,4 days,Reusable,Reusable Cloth Bag,0.7,18 days,Reusable,Plant-based Bottle,1.3,20 days,2 years
+Wheat Flour,Grains,Solid,Plastic Bottle,4.5,11 days,450 years,Paper Tray,1.2,16 days,4 months,Recyclable Cardboard Box,1,11 days,6 months,Jute Bag,0.8,15 days,1 year
+Orange,Fruits,Solid,PVC Packaging,4.2,9 days,450 years,Paper Tray,1.2,15 days,4 months,Jute Bag,0.8,20 days,1 year,Plant-based Bottle,1.3,12 days,2 years
+Noodles,Snacks,Solid,Plastic Packet,3.5,9 days,500 years,Compostable Net Bag,0.9,9 days,6 months,Biodegradable Pouch,1.1,13 days,8 months,Recyclable Cardboard Box,1,8 days,6 months
+Soap,Cosmetics,Solid,Aluminium Foil,5,11 days,200 years,Glass Bottle,1.2,4 days,Reusable,Reusable Cloth Bag,0.7,16 days,Reusable,Biodegradable Pouch,1.1,4 days,8 months
+Shoes,Clothing,Solid,Aluminium Foil,5,6 days,200 years,Glass Bottle,1.2,19 days,Reusable,Jute Bag,0.8,6 days,1 year,Reusable Cloth Bag,0.7,11 days,Reusable
+Cucumber,Vegetable,Solid,PVC Packaging,4.2,4 days,450 years,Glass Bottle,1.2,9 days,Reusable,Recyclable Cardboard Box,1,12 days,6 months,Jute Bag,0.8,15 days,1 year
+Biscuits,Bakery,Solid,Styrofoam Box,4,8 days,500 years,Steel Container,1,7 days,Reusable,Compostable Net Bag,0.9,11 days,6 months,Reusable Cloth Bag,0.7,6 days,Reusable
+Dish Soap,Cleaning,Liquid,PVC Packaging,4.2,8 days,450 years,Steel Container,1,20 days,Reusable,Paper Tray,1.2,18 days,4 months,Jute Bag,0.8,9 days,1 year
+Banana,Fruits,Solid,Plastic Packet,3.5,11 days,500 years,Biodegradable Pouch,1.1,7 days,8 months,Recyclable Cardboard Box,1,6 days,6 months,Jute Bag,0.8,14 days,1 year
+Bread,Bakery,Solid,PVC Packaging,4.2,3 days,450 years,Compostable Net Bag,0.9,19 days,6 months,Jute Bag,0.8,13 days,1 year,Steel Container,1,16 days,Reusable
+Shirt,Clothing,Solid,Plastic Bottle,4.5,10 days,450 years,Biodegradable Pouch,1.1,12 days,8 months,Reusable Cloth Bag,0.7,15 days,Reusable,Glass Bottle,1.2,20 days,Reusable
+Sugar,Cooking,Solid,Plastic Packet,3.5,5 days,500 years,Reusable Cloth Bag,0.7,14 days,Reusable,Steel Container,1,17 days,Reusable,Jute Bag,0.8,20 days,1 year
+Potato,Vegetable,Solid,Plastic Bottle,4.5,11 days,450 years,Reusable Cloth Bag,0.7,12 days,Reusable,Jute Bag,0.8,10 days,1 year,Steel Container,1,11 days,Reusable
+Banana,Fruits,Solid,Plastic Packet,3.5,10 days,500 years,Steel Container,1,19 days,Reusable,Plant-based Bottle,1.3,11 days,2 years,Glass Bottle,1.2,16 days,Reusable
+Banana,Fruits,Solid,Aluminium Foil,5,10 days,200 years,Steel Container,1,20 days,Reusable,Reusable Cloth Bag,0.7,7 days,Reusable,Compostable Net Bag,0.9,13 days,6 months
+Wheat Flour,Grains,Solid,Plastic Bottle,4.5,12 days,450 years,Steel Container,1,11 days,Reusable,Reusable Cloth Bag,0.7,20 days,Reusable,Recyclable Cardboard Box,1,19 days,6 months
+Pen,Stationery,Solid,Plastic Packet,3.5,5 days,500 years,Jute Bag,0.8,9 days,1 year,Glass Bottle,1.2,17 days,Reusable,Paper Tray,1.2,12 days,4 months
+Orange,Fruits,Solid,Styrofoam Box,4,9 days,500 years,Plant-based Bottle,1.3,15 days,2 years,Steel Container,1,8 days,Reusable,Compostable Net Bag,0.9,19 days,6 months
+Dish Soap,Cleaning,Liquid,Plastic Packet,3.5,14 days,500 years,Plant-based Bottle,1.3,20 days,2 years,Jute Bag,0.8,16 days,1 year,Paper Tray,1.2,9 days,4 months
+Pen,Stationery,Solid,PVC Packaging,4.2,14 days,450 years,Jute Bag,0.8,14 days,1 year,Compostable Net Bag,0.9,20 days,6 months,Paper Tray,1.2,11 days,4 months
+Milk,Beverage,Liquid,Plastic Packet,3.5,13 days,500 years,Glass Bottle,1.2,4 days,Reusable,Plant-based Bottle,1.3,16 days,2 years,Biodegradable Pouch,1.1,15 days,8 months
+Carrot,Vegetable,Solid,Styrofoam Box,4,5 days,500 years,Biodegradable Pouch,1.1,13 days,8 months,Paper Tray,1.2,7 days,4 months,Plant-based Bottle,1.3,11 days,2 years
+Carrot,Vegetable,Solid,Aluminium Foil,5,3 days,200 years,Paper Tray,1.2,16 days,4 months,Steel Container,1,17 days,Reusable,Reusable Cloth Bag,0.7,16 days,Reusable
+Chips,Snacks,Solid,Styrofoam Box,4,12 days,500 years,Plant-based Bottle,1.3,6 days,2 years,Paper Tray,1.2,17 days,4 months,Reusable Cloth Bag,0.7,10 days,Reusable
+Banana,Fruits,Solid,Styrofoam Box,4,11 days,500 years,Paper Tray,1.2,4 days,4 months,Compostable Net Bag,0.9,20 days,6 months,Biodegradable Pouch,1.1,11 days,8 months
+Milk,Beverage,Liquid,Styrofoam Box,4,11 days,500 years,Steel Container,1,15 days,Reusable,Reusable Cloth Bag,0.7,4 days,Reusable,Jute Bag,0.8,12 days,1 year
+Biscuits,Bakery,Solid,Plastic Packet,3.5,11 days,500 years,Paper Tray,1.2,10 days,4 months,Recyclable Cardboard Box,1,18 days,6 months,Reusable Cloth Bag,0.7,5 days,Reusable
+Cucumber,Vegetable,Solid,Aluminium Foil,5,4 days,200 years,Plant-based Bottle,1.3,4 days,2 years,Compostable Net Bag,0.9,14 days,6 months,Steel Container,1,8 days,Reusable
+Shoes,Clothing,Solid,PVC Packaging,4.2,15 days,450 years,Steel Container,1,19 days,Reusable,Jute Bag,0.8,4 days,1 year,Compostable Net Bag,0.9,14 days,6 months
+Rice,Grains,Solid,Plastic Packet,3.5,6 days,500 years,Jute Bag,0.8,10 days,1 year,Reusable Cloth Bag,0.7,11 days,Reusable,Compostable Net Bag,0.9,7 days,6 months
+Wheat Flour,Grains,Solid,PVC Packaging,4.2,10 days,450 years,Glass Bottle,1.2,6 days,Reusable,Biodegradable Pouch,1.1,10 days,8 months,Paper Tray,1.2,17 days,4 months
+Juice,Beverage,Liquid,Plastic Bottle,4.5,7 days,450 years,Plant-based Bottle,1.3,19 days,2 years,Paper Tray,1.2,6 days,4 months,Recyclable Cardboard Box,1,4 days,6 months
+Grapes,Fruits,Solid,Plastic Bottle,4.5,8 days,450 years,Steel Container,1,20 days,Reusable,Jute Bag,0.8,14 days,1 year,Glass Bottle,1.2,8 days,Reusable
+Bread,Bakery,Solid,Aluminium Foil,5,4 days,200 years,Plant-based Bottle,1.3,7 days,2 years,Glass Bottle,1.2,19 days,Reusable,Jute Bag,0.8,13 days,1 year
+Onion,Vegetable,Solid,PVC Packaging,4.2,12 days,450 years,Reusable Cloth Bag,0.7,14 days,Reusable,Paper Tray,1.2,14 days,4 months,Plant-based Bottle,1.3,17 days,2 years
+Water Bottle,Beverage,Liquid,Plastic Bottle,4.5,11 days,450 years,Glass Bottle,1.2,9 days,Reusable,Reusable Cloth Bag,0.7,17 days,Reusable,Recyclable Cardboard Box,1,11 days,6 months
+Grapes,Fruits,Solid,PVC Packaging,4.2,11 days,450 years,Compostable Net Bag,0.9,4 days,6 months,Biodegradable Pouch,1.1,13 days,8 months,Glass Bottle,1.2,4 days,Reusable
+Detergent,Cleaning,Powder,PVC Packaging,4.2,3 days,450 years,Biodegradable Pouch,1.1,18 days,8 months,Plant-based Bottle,1.3,11 days,2 years,Compostable Net Bag,0.9,16 days,6 months
+Orange,Fruits,Solid,PVC Packaging,4.2,14 days,450 years,Plant-based Bottle,1.3,11 days,2 years,Steel Container,1,15 days,Reusable,Recyclable Cardboard Box,1,18 days,6 months
+Lentils,Grains,Solid,Plastic Bottle,4.5,8 days,450 years,Biodegradable Pouch,1.1,12 days,8 months,Recyclable Cardboard Box,1,18 days,6 months,Paper Tray,1.2,10 days,4 months
+Cucumber,Vegetable,Solid,Aluminium Foil,5,11 days,200 years,Steel Container,1,15 days,Reusable,Glass Bottle,1.2,7 days,Reusable,Plant-based Bottle,1.3,20 days,2 years
+Orange,Fruits,Solid,Plastic Bottle,4.5,5 days,450 years,Recyclable Cardboard Box,1,6 days,6 months,Reusable Cloth Bag,0.7,11 days,Reusable,Biodegradable Pouch,1.1,14 days,8 months
+Water Bottle,Beverage,Liquid,Styrofoam Box,4,3 days,500 years,Jute Bag,0.8,13 days,1 year,Biodegradable Pouch,1.1,9 days,8 months,Compostable Net Bag,0.9,18 days,6 months
+Apple,Fruits,Solid,Plastic Packet,3.5,9 days,500 years,Paper Tray,1.2,9 days,4 months,Biodegradable Pouch,1.1,9 days,8 months,Steel Container,1,6 days,Reusable
+Grapes,Fruits,Solid,Plastic Packet,3.5,5 days,500 years,Reusable Cloth Bag,0.7,5 days,Reusable,Steel Container,1,7 days,Reusable,Jute Bag,0.8,13 days,1 year
+Juice,Beverage,Liquid,Styrofoam Box,4,7 days,500 years,Glass Bottle,1.2,7 days,Reusable,Recyclable Cardboard Box,1,10 days,6 months,Compostable Net Bag,0.9,4 days,6 months
+Orange,Fruits,Solid,PVC Packaging,4.2,4 days,450 years,Compostable Net Bag,0.9,16 days,6 months,Steel Container,1,18 days,Reusable,Jute Bag,0.8,13 days,1 year
+Milk,Beverage,Liquid,Plastic Bottle,4.5,15 days,450 years,Glass Bottle,1.2,7 days,Reusable,Steel Container,1,10 days,Reusable,Plant-based Bottle,1.3,4 days,2 years
+Dish Soap,Cleaning,Liquid,Plastic Packet,3.5,5 days,500 years,Compostable Net Bag,0.9,10 days,6 months,Jute Bag,0.8,9 days,1 year,Plant-based Bottle,1.3,16 days,2 years
+Wheat Flour,Grains,Solid,Plastic Bottle,4.5,4 days,450 years,Recyclable Cardboard Box,1,10 days,6 months,Glass Bottle,1.2,12 days,Reusable,Compostable Net Bag,0.9,7 days,6 months
+Dish Soap,Cleaning,Liquid,Styrofoam Box,4,7 days,500 years,Plant-based Bottle,1.3,5 days,2 years,Compostable Net Bag,0.9,11 days,6 months,Reusable Cloth Bag,0.7,12 days,Reusable
+Noodles,Snacks,Solid,Styrofoam Box,4,10 days,500 years,Steel Container,1,8 days,Reusable,Glass Bottle,1.2,11 days,Reusable,Biodegradable Pouch,1.1,9 days,8 months
+Tomato,Vegetable,Solid,Styrofoam Box,4,11 days,500 years,Jute Bag,0.8,18 days,1 year,Plant-based Bottle,1.3,19 days,2 years,Reusable Cloth Bag,0.7,8 days,Reusable
+Toothpaste,Cosmetics,Semi-solid,Aluminium Foil,5,6 days,200 years,Jute Bag,0.8,10 days,1 year,Glass Bottle,1.2,20 days,Reusable,Reusable Cloth Bag,0.7,7 days,Reusable
+Lentils,Grains,Solid,Aluminium Foil,5,10 days,200 years,Reusable Cloth Bag,0.7,9 days,Reusable,Jute Bag,0.8,19 days,1 year,Biodegradable Pouch,1.1,10 days,8 months
+Lentils,Grains,Solid,Aluminium Foil,5,10 days,200 years,Jute Bag,0.8,20 days,1 year,Glass Bottle,1.2,6 days,Reusable,Recyclable Cardboard Box,1,6 days,6 months
+Chips,Snacks,Solid,Styrofoam Box,4,6 days,500 years,Plant-based Bottle,1.3,12 days,2 years,Steel Container,1,13 days,Reusable,Paper Tray,1.2,9 days,4 months
+Cucumber,Vegetable,Solid,Plastic Bottle,4.5,3 days,450 years,Glass Bottle,1.2,20 days,Reusable,Biodegradable Pouch,1.1,9 days,8 months,Reusable Cloth Bag,0.7,20 days,Reusable
+Noodles,Snacks,Solid,Aluminium Foil,5,4 days,200 years,Plant-based Bottle,1.3,4 days,2 years,Biodegradable Pouch,1.1,7 days,8 months,Glass Bottle,1.2,18 days,Reusable
+Book,Stationery,Solid,Plastic Bottle,4.5,3 days,450 years,Steel Container,1,9 days,Reusable,Jute Bag,0.8,18 days,1 year,Recyclable Cardboard Box,1,17 days,6 months
+Noodles,Snacks,Solid,Plastic Packet,3.5,13 days,500 years,Plant-based Bottle,1.3,8 days,2 years,Compostable Net Bag,0.9,4 days,6 months,Recyclable Cardboard Box,1,17 days,6 months
+Milk,Beverage,Liquid,Plastic Bottle,4.5,4 days,450 years,Steel Container,1,19 days,Reusable,Reusable Cloth Bag,0.7,15 days,Reusable,Paper Tray,1.2,15 days,4 months
+Onion,Vegetable,Solid,Plastic Packet,3.5,12 days,500 years,Biodegradable Pouch,1.1,10 days,8 months,Reusable Cloth Bag,0.7,7 days,Reusable,Plant-based Bottle,1.3,9 days,2 years
+Banana,Fruits,Solid,Plastic Packet,3.5,4 days,500 years,Reusable Cloth Bag,0.7,18 days,Reusable,Glass Bottle,1.2,6 days,Reusable,Biodegradable Pouch,1.1,14 days,8 months
+Detergent,Cleaning,Powder,Styrofoam Box,4,7 days,500 years,Plant-based Bottle,1.3,5 days,2 years,Steel Container,1,4 days,Reusable,Paper Tray,1.2,11 days,4 months
+Tomato,Vegetable,Solid,Plastic Bottle,4.5,5 days,450 years,Jute Bag,0.8,20 days,1 year,Paper Tray,1.2,11 days,4 months,Compostable Net Bag,0.9,12 days,6 months
+Shoes,Clothing,Solid,Styrofoam Box,4,11 days,500 years,Glass Bottle,1.2,10 days,Reusable,Biodegradable Pouch,1.1,6 days,8 months,Jute Bag,0.8,17 days,1 year
+Shampoo,Cosmetics,Liquid,Plastic Packet,3.5,13 days,500 years,Glass Bottle,1.2,10 days,Reusable,Jute Bag,0.8,14 days,1 year,Steel Container,1,20 days,Reusable
+Shirt,Clothing,Solid,Plastic Bottle,4.5,15 days,450 years,Paper Tray,1.2,13 days,4 months,Glass Bottle,1.2,20 days,Reusable,Reusable Cloth Bag,0.7,18 days,Reusable
+Milk,Beverage,Liquid,Styrofoam Box,4,8 days,500 years,Paper Tray,1.2,16 days,4 months,Glass Bottle,1.2,12 days,Reusable,Compostable Net Bag,0.9,8 days,6 months
+Pen,Stationery,Solid,Plastic Packet,3.5,4 days,500 years,Biodegradable Pouch,1.1,14 days,8 months,Glass Bottle,1.2,4 days,Reusable,Recyclable Cardboard Box,1,12 days,6 months
+Cucumber,Vegetable,Solid,Plastic Bottle,4.5,12 days,450 years,Glass Bottle,1.2,17 days,Reusable,Compostable Net Bag,0.9,18 days,6 months,Steel Container,1,7 days,Reusable
+Grapes,Fruits,Solid,Styrofoam Box,4,6 days,500 years,Recyclable Cardboard Box,1,5 days,6 months,Steel Container,1,4 days,Reusable,Paper Tray,1.2,6 days,4 months
+Dish Soap,Cleaning,Liquid,Plastic Bottle,4.5,15 days,450 years,Biodegradable Pouch,1.1,13 days,8 months,Jute Bag,0.8,9 days,1 year,Recyclable Cardboard Box,1,20 days,6 months
+Cucumber,Vegetable,Solid,Plastic Bottle,4.5,7 days,450 years,Paper Tray,1.2,20 days,4 months,Compostable Net Bag,0.9,20 days,6 months,Recyclable Cardboard Box,1,20 days,6 months
+Toothpaste,Cosmetics,Semi-solid,Aluminium Foil,5,9 days,200 years,Recyclable Cardboard Box,1,19 days,6 months,Glass Bottle,1.2,17 days,Reusable,Plant-based Bottle,1.3,13 days,2 years
+Bread,Bakery,Solid,Plastic Bottle,4.5,13 days,450 years,Paper Tray,1.2,11 days,4 months,Compostable Net Bag,0.9,15 days,6 months,Steel Container,1,20 days,Reusable
+Tomato,Vegetable,Solid,PVC Packaging,4.2,6 days,450 years,Paper Tray,1.2,14 days,4 months,Glass Bottle,1.2,12 days,Reusable,Compostable Net Bag,0.9,8 days,6 months
+Shirt,Clothing,Solid,Plastic Bottle,4.5,12 days,450 years,Glass Bottle,1.2,12 days,Reusable,Reusable Cloth Bag,0.7,17 days,Reusable,Recyclable Cardboard Box,1,14 days,6 months
+Sugar,Cooking,Solid,PVC Packaging,4.2,13 days,450 years,Recyclable Cardboard Box,1,16 days,6 months,Reusable Cloth Bag,0.7,12 days,Reusable,Steel Container,1,5 days,Reusable
+Apple,Fruits,Solid,Plastic Packet,3.5,4 days,500 years,Compostable Net Bag,0.9,11 days,6 months,Recyclable Cardboard Box,1,13 days,6 months,Paper Tray,1.2,11 days,4 months
+Shirt,Clothing,Solid,PVC Packaging,4.2,13 days,450 years,Recyclable Cardboard Box,1,20 days,6 months,Reusable Cloth Bag,0.7,4 days,Reusable,Steel Container,1,16 days,Reusable
+Pen,Stationery,Solid,Plastic Packet,3.5,12 days,500 years,Compostable Net Bag,0.9,18 days,6 months,Biodegradable Pouch,1.1,20 days,8 months,Plant-based Bottle,1.3,17 days,2 years
+Salt,Cooking,Solid,Plastic Bottle,4.5,4 days,450 years,Biodegradable Pouch,1.1,16 days,8 months,Steel Container,1,11 days,Reusable,Paper Tray,1.2,18 days,4 months
+Sugar,Cooking,Solid,Styrofoam Box,4,15 days,500 years,Steel Container,1,13 days,Reusable,Glass Bottle,1.2,4 days,Reusable,Biodegradable Pouch,1.1,13 days,8 months
+Dish Soap,Cleaning,Liquid,PVC Packaging,4.2,12 days,450 years,Reusable Cloth Bag,0.7,18 days,Reusable,Recyclable Cardboard Box,1,10 days,6 months,Compostable Net Bag,0.9,8 days,6 months
+Milk,Beverage,Liquid,Aluminium Foil,5,12 days,200 years,Steel Container,1,14 days,Reusable,Plant-based Bottle,1.3,15 days,2 years,Recyclable Cardboard Box,1,12 days,6 months
+Toothpaste,Cosmetics,Semi-solid,PVC Packaging,4.2,3 days,450 years,Glass Bottle,1.2,15 days,Reusable,Paper Tray,1.2,16 days,4 months,Plant-based Bottle,1.3,4 days,2 years
+Toothpaste,Cosmetics,Semi-solid,Styrofoam Box,4,11 days,500 years,Steel Container,1,10 days,Reusable,Compostable Net Bag,0.9,20 days,6 months,Reusable Cloth Bag,0.7,11 days,Reusable
+Shirt,Clothing,Solid,Styrofoam Box,4,7 days,500 years,Recyclable Cardboard Box,1,11 days,6 months,Paper Tray,1.2,19 days,4 months,Plant-based Bottle,1.3,20 days,2 years
+Shampoo,Cosmetics,Liquid,Styrofoam Box,4,10 days,500 years,Jute Bag,0.8,13 days,1 year,Glass Bottle,1.2,5 days,Reusable,Plant-based Bottle,1.3,11 days,2 years
+Potato,Vegetable,Solid,Plastic Bottle,4.5,9 days,450 years,Biodegradable Pouch,1.1,19 days,8 months,Plant-based Bottle,1.3,8 days,2 years,Steel Container,1,14 days,Reusable
+Biscuits,Bakery,Solid,PVC Packaging,4.2,8 days,450 years,Reusable Cloth Bag,0.7,12 days,Reusable,Paper Tray,1.2,20 days,4 months,Recyclable Cardboard Box,1,17 days,6 months
+Bread,Bakery,Solid,Aluminium Foil,5,8 days,200 years,Glass Bottle,1.2,16 days,Reusable,Steel Container,1,12 days,Reusable,Jute Bag,0.8,16 days,1 year
+Juice,Beverage,Liquid,Styrofoam Box,4,11 days,500 years,Reusable Cloth Bag,0.7,14 days,Reusable,Glass Bottle,1.2,7 days,Reusable,Paper Tray,1.2,20 days,4 months
+Shirt,Clothing,Solid,Styrofoam Box,4,7 days,500 years,Compostable Net Bag,0.9,12 days,6 months,Recyclable Cardboard Box,1,10 days,6 months,Steel Container,1,4 days,Reusable
+Onion,Vegetable,Solid,PVC Packaging,4.2,11 days,450 years,Biodegradable Pouch,1.1,4 days,8 months,Compostable Net Bag,0.9,8 days,6 months,Plant-based Bottle,1.3,5 days,2 years
+Shoes,Clothing,Solid,Plastic Bottle,4.5,15 days,450 years,Steel Container,1,6 days,Reusable,Recyclable Cardboard Box,1,16 days,6 months,Compostable Net Bag,0.9,11 days,6 months
+Chips,Snacks,Solid,Plastic Packet,3.5,12 days,500 years,Paper Tray,1.2,19 days,4 months,Biodegradable Pouch,1.1,17 days,8 months,Steel Container,1,8 days,Reusable
+Detergent,Cleaning,Powder,Styrofoam Box,4,12 days,500 years,Paper Tray,1.2,18 days,4 months,Reusable Cloth Bag,0.7,7 days,Reusable,Plant-based Bottle,1.3,18 days,2 years
+Bread,Bakery,Solid,Plastic Bottle,4.5,3 days,450 years,Biodegradable Pouch,1.1,12 days,8 months,Recyclable Cardboard Box,1,4 days,6 months,Compostable Net Bag,0.9,18 days,6 months
+Sugar,Cooking,Solid,Styrofoam Box,4,14 days,500 years,Glass Bottle,1.2,19 days,Reusable,Reusable Cloth Bag,0.7,5 days,Reusable,Recyclable Cardboard Box,1,14 days,6 months
+Dish Soap,Cleaning,Liquid,Plastic Packet,3.5,13 days,500 years,Plant-based Bottle,1.3,14 days,2 years,Steel Container,1,17 days,Reusable,Paper Tray,1.2,16 days,4 months
+Shirt,Clothing,Solid,Plastic Bottle,4.5,12 days,450 years,Compostable Net Bag,0.9,12 days,6 months,Reusable Cloth Bag,0.7,20 days,Reusable,Biodegradable Pouch,1.1,7 days,8 months
+Carrot,Vegetable,Solid,Plastic Packet,3.5,12 days,500 years,Recyclable Cardboard Box,1,16 days,6 months,Biodegradable Pouch,1.1,16 days,8 months,Jute Bag,0.8,16 days,1 year
+Detergent,Cleaning,Powder,Styrofoam Box,4,15 days,500 years,Jute Bag,0.8,13 days,1 year,Glass Bottle,1.2,14 days,Reusable,Paper Tray,1.2,11 days,4 months
+Bread,Bakery,Solid,PVC Packaging,4.2,14 days,450 years,Paper Tray,1.2,13 days,4 months,Compostable Net Bag,0.9,6 days,6 months,Steel Container,1,6 days,Reusable
+Cucumber,Vegetable,Solid,Aluminium Foil,5,10 days,200 years,Biodegradable Pouch,1.1,8 days,8 months,Plant-based Bottle,1.3,13 days,2 years,Paper Tray,1.2,7 days,4 months
+Toothpaste,Cosmetics,Semi-solid,Styrofoam Box,4,7 days,500 years,Glass Bottle,1.2,7 days,Reusable,Paper Tray,1.2,5 days,4 months,Plant-based Bottle,1.3,17 days,2 years
+Grapes,Fruits,Solid,Styrofoam Box,4,12 days,500 years,Biodegradable Pouch,1.1,20 days,8 months,Jute Bag,0.8,15 days,1 year,Steel Container,1,9 days,Reusable
+Milk,Beverage,Liquid,Plastic Packet,3.5,13 days,500 years,Recyclable Cardboard Box,1,4 days,6 months,Jute Bag,0.8,9 days,1 year,Reusable Cloth Bag,0.7,13 days,Reusable
+Chips,Snacks,Solid,PVC Packaging,4.2,12 days,450 years,Recyclable Cardboard Box,1,6 days,6 months,Glass Bottle,1.2,19 days,Reusable,Paper Tray,1.2,5 days,4 months
+Apple,Fruits,Solid,Styrofoam Box,4,11 days,500 years,Compostable Net Bag,0.9,13 days,6 months,Glass Bottle,1.2,6 days,Reusable,Steel Container,1,19 days,Reusable
+Noodles,Snacks,Solid,PVC Packaging,4.2,12 days,450 years,Biodegradable Pouch,1.1,9 days,8 months,Glass Bottle,1.2,11 days,Reusable,Paper Tray,1.2,12 days,4 months
+Orange,Fruits,Solid,Plastic Packet,3.5,5 days,500 years,Reusable Cloth Bag,0.7,14 days,Reusable,Compostable Net Bag,0.9,15 days,6 months,Recyclable Cardboard Box,1,6 days,6 months
+Biscuits,Bakery,Solid,Aluminium Foil,5,12 days,200 years,Plant-based Bottle,1.3,12 days,2 years,Paper Tray,1.2,20 days,4 months,Jute Bag,0.8,5 days,1 year
+Bread,Bakery,Solid,PVC Packaging,4.2,15 days,450 years,Glass Bottle,1.2,20 days,Reusable,Plant-based Bottle,1.3,17 days,2 years,Biodegradable Pouch,1.1,15 days,8 months
+Banana,Fruits,Solid,Plastic Bottle,4.5,13 days,450 years,Steel Container,1,15 days,Reusable,Reusable Cloth Bag,0.7,4 days,Reusable,Plant-based Bottle,1.3,7 days,2 years
+Book,Stationery,Solid,Aluminium Foil,5,7 days,200 years,Plant-based Bottle,1.3,4 days,2 years,Steel Container,1,14 days,Reusable,Biodegradable Pouch,1.1,18 days,8 months
+Onion,Vegetable,Solid,Plastic Bottle,4.5,8 days,450 years,Recyclable Cardboard Box,1,12 days,6 months,Reusable Cloth Bag,0.7,17 days,Reusable,Jute Bag,0.8,9 days,1 year
+Milk,Beverage,Liquid,PVC Packaging,4.2,9 days,450 years,Reusable Cloth Bag,0.7,7 days,Reusable,Steel Container,1,16 days,Reusable,Paper Tray,1.2,13 days,4 months
+Biscuits,Bakery,Solid,Plastic Packet,3.5,11 days,500 years,Plant-based Bottle,1.3,15 days,2 years,Jute Bag,0.8,6 days,1 year,Reusable Cloth Bag,0.7,20 days,Reusable
+Milk,Beverage,Liquid,Styrofoam Box,4,3 days,500 years,Recyclable Cardboard Box,1,16 days,6 months,Paper Tray,1.2,14 days,4 months,Compostable Net Bag,0.9,20 days,6 months
+Biscuits,Bakery,Solid,Plastic Packet,3.5,5 days,500 years,Biodegradable Pouch,1.1,4 days,8 months,Reusable Cloth Bag,0.7,20 days,Reusable,Recyclable Cardboard Box,1,11 days,6 months
+Pen,Stationery,Solid,Plastic Bottle,4.5,8 days,450 years,Reusable Cloth Bag,0.7,20 days,Reusable,Biodegradable Pouch,1.1,6 days,8 months,Glass Bottle,1.2,5 days,Reusable
+Chips,Snacks,Solid,Aluminium Foil,5,7 days,200 years,Paper Tray,1.2,9 days,4 months,Biodegradable Pouch,1.1,10 days,8 months,Compostable Net Bag,0.9,9 days,6 months
+Detergent,Cleaning,Powder,Styrofoam Box,4,13 days,500 years,Paper Tray,1.2,20 days,4 months,Reusable Cloth Bag,0.7,4 days,Reusable,Plant-based Bottle,1.3,8 days,2 years
+Tomato,Vegetable,Solid,PVC Packaging,4.2,8 days,450 years,Plant-based Bottle,1.3,12 days,2 years,Biodegradable Pouch,1.1,4 days,8 months,Paper Tray,1.2,7 days,4 months
+Potato,Vegetable,Solid,Plastic Bottle,4.5,4 days,450 years,Steel Container,1,5 days,Reusable,Paper Tray,1.2,10 days,4 months,Jute Bag,0.8,19 days,1 year
+Potato,Vegetable,Solid,Aluminium Foil,5,7 days,200 years,Biodegradable Pouch,1.1,6 days,8 months,Plant-based Bottle,1.3,20 days,2 years,Jute Bag,0.8,9 days,1 year
+Noodles,Snacks,Solid,Styrofoam Box,4,3 days,500 years,Plant-based Bottle,1.3,14 days,2 years,Compostable Net Bag,0.9,18 days,6 months,Paper Tray,1.2,18 days,4 months
+Potato,Vegetable,Solid,PVC Packaging,4.2,7 days,450 years,Paper Tray,1.2,18 days,4 months,Glass Bottle,1.2,17 days,Reusable,Recyclable Cardboard Box,1,15 days,6 months
+Potato,Vegetable,Solid,Plastic Packet,3.5,13 days,500 years,Glass Bottle,1.2,20 days,Reusable,Steel Container,1,15 days,Reusable,Plant-based Bottle,1.3,15 days,2 years
+Sugar,Cooking,Solid,Plastic Packet,3.5,10 days,500 years,Glass Bottle,1.2,7 days,Reusable,Biodegradable Pouch,1.1,17 days,8 months,Recyclable Cardboard Box,1,16 days,6 months
+Shoes,Clothing,Solid,Styrofoam Box,4,8 days,500 years,Paper Tray,1.2,17 days,4 months,Compostable Net Bag,0.9,8 days,6 months,Glass Bottle,1.2,11 days,Reusable
+Pen,Stationery,Solid,Plastic Bottle,4.5,6 days,450 years,Paper Tray,1.2,4 days,4 months,Steel Container,1,20 days,Reusable,Glass Bottle,1.2,11 days,Reusable
+Carrot,Vegetable,Solid,Styrofoam Box,4,15 days,500 years,Compostable Net Bag,0.9,6 days,6 months,Glass Bottle,1.2,19 days,Reusable,Paper Tray,1.2,13 days,4 months
+Soap,Cosmetics,Solid,Plastic Bottle,4.5,14 days,450 years,Steel Container,1,19 days,Reusable,Recyclable Cardboard Box,1,14 days,6 months,Plant-based Bottle,1.3,7 days,2 years
+Banana,Fruits,Solid,PVC Packaging,4.2,11 days,450 years,Biodegradable Pouch,1.1,18 days,8 months,Reusable Cloth Bag,0.7,11 days,Reusable,Steel Container,1,13 days,Reusable
+Tomato,Vegetable,Solid,Plastic Bottle,4.5,11 days,450 years,Paper Tray,1.2,18 days,4 months,Jute Bag,0.8,11 days,1 year,Steel Container,1,13 days,Reusable
+Book,Stationery,Solid,PVC Packaging,4.2,11 days,450 years,Steel Container,1,19 days,Reusable,Paper Tray,1.2,16 days,4 months,Recyclable Cardboard Box,1,8 days,6 months
+Juice,Beverage,Liquid,Styrofoam Box,4,6 days,500 years,Jute Bag,0.8,15 days,1 year,Steel Container,1,6 days,Reusable,Compostable Net Bag,0.9,7 days,6 months
+Toothpaste,Cosmetics,Semi-solid,Aluminium Foil,5,15 days,200 years,Jute Bag,0.8,13 days,1 year,Compostable Net Bag,0.9,5 days,6 months,Steel Container,1,10 days,Reusable
+Shoes,Clothing,Solid,Plastic Bottle,4.5,14 days,450 years,Plant-based Bottle,1.3,18 days,2 years,Reusable Cloth Bag,0.7,15 days,Reusable,Recyclable Cardboard Box,1,17 days,6 months
+Potato,Vegetable,Solid,PVC Packaging,4.2,15 days,450 years,Plant-based Bottle,1.3,13 days,2 years,Recyclable Cardboard Box,1,13 days,6 months,Paper Tray,1.2,13 days,4 months
+Pen,Stationery,Solid,Styrofoam Box,4,14 days,500 years,Steel Container,1,19 days,Reusable,Paper Tray,1.2,20 days,4 months,Recyclable Cardboard Box,1,20 days,6 months
+Tomato,Vegetable,Solid,Styrofoam Box,4,9 days,500 years,Steel Container,1,5 days,Reusable,Paper Tray,1.2,6 days,4 months,Plant-based Bottle,1.3,15 days,2 years
+Onion,Vegetable,Solid,Aluminium Foil,5,9 days,200 years,Recyclable Cardboard Box,1,4 days,6 months,Glass Bottle,1.2,7 days,Reusable,Plant-based Bottle,1.3,16 days,2 years
+Cucumber,Vegetable,Solid,Plastic Bottle,4.5,4 days,450 years,Biodegradable Pouch,1.1,17 days,8 months,Recyclable Cardboard Box,1,17 days,6 months,Glass Bottle,1.2,4 days,Reusable
+Soap,Cosmetics,Solid,Plastic Bottle,4.5,10 days,450 years,Paper Tray,1.2,20 days,4 months,Jute Bag,0.8,6 days,1 year,Glass Bottle,1.2,18 days,Reusable
+Bread,Bakery,Solid,Plastic Bottle,4.5,6 days,450 years,Jute Bag,0.8,9 days,1 year,Steel Container,1,16 days,Reusable,Biodegradable Pouch,1.1,13 days,8 months
+Toothpaste,Cosmetics,Semi-solid,Aluminium Foil,5,14 days,200 years,Plant-based Bottle,1.3,6 days,2 years,Jute Bag,0.8,4 days,1 year,Reusable Cloth Bag,0.7,20 days,Reusable
+Cucumber,Vegetable,Solid,Aluminium Foil,5,15 days,200 years,Plant-based Bottle,1.3,4 days,2 years,Steel Container,1,20 days,Reusable,Reusable Cloth Bag,0.7,5 days,Reusable
+Sugar,Cooking,Solid,PVC Packaging,4.2,6 days,450 years,Jute Bag,0.8,16 days,1 year,Reusable Cloth Bag,0.7,7 days,Reusable,Glass Bottle,1.2,17 days,Reusable
+Carrot,Vegetable,Solid,Styrofoam Box,4,14 days,500 years,Compostable Net Bag,0.9,14 days,6 months,Steel Container,1,17 days,Reusable,Recyclable Cardboard Box,1,9 days,6 months
+Shoes,Clothing,Solid,Plastic Packet,3.5,5 days,500 years,Glass Bottle,1.2,12 days,Reusable,Compostable Net Bag,0.9,6 days,6 months,Biodegradable Pouch,1.1,18 days,8 months
+Detergent,Cleaning,Powder,Plastic Bottle,4.5,7 days,450 years,Compostable Net Bag,0.9,8 days,6 months,Jute Bag,0.8,12 days,1 year,Steel Container,1,10 days,Reusable
+Bread,Bakery,Solid,PVC Packaging,4.2,12 days,450 years,Plant-based Bottle,1.3,7 days,2 years,Paper Tray,1.2,14 days,4 months,Recyclable Cardboard Box,1,14 days,6 months
+Noodles,Snacks,Solid,Plastic Packet,3.5,7 days,500 years,Compostable Net Bag,0.9,16 days,6 months,Glass Bottle,1.2,9 days,Reusable,Biodegradable Pouch,1.1,9 days,8 months
+Orange,Fruits,Solid,PVC Packaging,4.2,6 days,450 years,Recyclable Cardboard Box,1,16 days,6 months,Jute Bag,0.8,19 days,1 year,Plant-based Bottle,1.3,10 days,2 years
+Detergent,Cleaning,Powder,Plastic Packet,3.5,11 days,500 years,Glass Bottle,1.2,15 days,Reusable,Paper Tray,1.2,18 days,4 months,Steel Container,1,14 days,Reusable
+Soap,Cosmetics,Solid,Styrofoam Box,4,13 days,500 years,Steel Container,1,15 days,Reusable,Reusable Cloth Bag,0.7,16 days,Reusable,Paper Tray,1.2,15 days,4 months
+Juice,Beverage,Liquid,Plastic Packet,3.5,14 days,500 years,Steel Container,1,8 days,Reusable,Glass Bottle,1.2,7 days,Reusable,Jute Bag,0.8,18 days,1 year
+Salt,Cooking,Solid,Plastic Packet,3.5,13 days,500 years,Paper Tray,1.2,11 days,4 months,Steel Container,1,14 days,Reusable,Reusable Cloth Bag,0.7,6 days,Reusable
+Salt,Cooking,Solid,PVC Packaging,4.2,10 days,450 years,Glass Bottle,1.2,8 days,Reusable,Plant-based Bottle,1.3,20 days,2 years,Reusable Cloth Bag,0.7,20 days,Reusable
+Biscuits,Bakery,Solid,Plastic Packet,3.5,13 days,500 years,Paper Tray,1.2,7 days,4 months,Recyclable Cardboard Box,1,6 days,6 months,Glass Bottle,1.2,19 days,Reusable
+Lentils,Grains,Solid,PVC Packaging,4.2,10 days,450 years,Jute Bag,0.8,13 days,1 year,Steel Container,1,17 days,Reusable,Glass Bottle,1.2,8 days,Reusable
+Water Bottle,Beverage,Liquid,Aluminium Foil,5,14 days,200 years,Reusable Cloth Bag,0.7,10 days,Reusable,Recyclable Cardboard Box,1,7 days,6 months,Compostable Net Bag,0.9,13 days,6 months
+Tomato,Vegetable,Solid,Styrofoam Box,4,5 days,500 years,Paper Tray,1.2,13 days,4 months,Jute Bag,0.8,7 days,1 year,Compostable Net Bag,0.9,15 days,6 months
+Rice,Grains,Solid,Plastic Packet,3.5,11 days,500 years,Recyclable Cardboard Box,1,17 days,6 months,Plant-based Bottle,1.3,17 days,2 years,Biodegradable Pouch,1.1,14 days,8 months
+Milk,Beverage,Liquid,Plastic Bottle,4.5,9 days,450 years,Compostable Net Bag,0.9,7 days,6 months,Paper Tray,1.2,11 days,4 months,Steel Container,1,15 days,Reusable
+Soap,Cosmetics,Solid,PVC Packaging,4.2,14 days,450 years,Plant-based Bottle,1.3,11 days,2 years,Compostable Net Bag,0.9,6 days,6 months,Steel Container,1,15 days,Reusable
+Noodles,Snacks,Solid,PVC Packaging,4.2,11 days,450 years,Jute Bag,0.8,18 days,1 year,Glass Bottle,1.2,4 days,Reusable,Compostable Net Bag,0.9,13 days,6 months
+Sugar,Cooking,Solid,Plastic Packet,3.5,8 days,500 years,Glass Bottle,1.2,14 days,Reusable,Reusable Cloth Bag,0.7,19 days,Reusable,Steel Container,1,17 days,Reusable
+Milk,Beverage,Liquid,Styrofoam Box,4,14 days,500 years,Plant-based Bottle,1.3,6 days,2 years,Compostable Net Bag,0.9,17 days,6 months,Paper Tray,1.2,4 days,4 months
+Orange,Fruits,Solid,Styrofoam Box,4,14 days,500 years,Compostable Net Bag,0.9,15 days,6 months,Glass Bottle,1.2,7 days,Reusable,Steel Container,1,13 days,Reusable
+Potato,Vegetable,Solid,Plastic Bottle,4.5,15 days,450 years,Paper Tray,1.2,13 days,4 months,Jute Bag,0.8,16 days,1 year,Plant-based Bottle,1.3,12 days,2 years
+Apple,Fruits,Solid,Styrofoam Box,4,6 days,500 years,Paper Tray,1.2,10 days,4 months,Reusable Cloth Bag,0.7,11 days,Reusable,Steel Container,1,9 days,Reusable
+Grapes,Fruits,Solid,PVC Packaging,4.2,4 days,450 years,Paper Tray,1.2,9 days,4 months,Compostable Net Bag,0.9,12 days,6 months,Plant-based Bottle,1.3,9 days,2 years
+Shoes,Clothing,Solid,Plastic Packet,3.5,7 days,500 years,Recyclable Cardboard Box,1,9 days,6 months,Biodegradable Pouch,1.1,10 days,8 months,Jute Bag,0.8,20 days,1 year
+Wheat Flour,Grains,Solid,PVC Packaging,4.2,13 days,450 years,Recyclable Cardboard Box,1,17 days,6 months,Jute Bag,0.8,6 days,1 year,Compostable Net Bag,0.9,6 days,6 months
+Grapes,Fruits,Solid,Aluminium Foil,5,15 days,200 years,Steel Container,1,9 days,Reusable,Jute Bag,0.8,15 days,1 year,Compostable Net Bag,0.9,14 days,6 months
+Grapes,Fruits,Solid,Styrofoam Box,4,12 days,500 years,Glass Bottle,1.2,7 days,Reusable,Recyclable Cardboard Box,1,13 days,6 months,Plant-based Bottle,1.3,8 days,2 years
+Shampoo,Cosmetics,Liquid,Styrofoam Box,4,13 days,500 years,Paper Tray,1.2,4 days,4 months,Compostable Net Bag,0.9,17 days,6 months,Steel Container,1,6 days,Reusable
+Biscuits,Bakery,Solid,Styrofoam Box,4,14 days,500 years,Recyclable Cardboard Box,1,12 days,6 months,Steel Container,1,15 days,Reusable,Plant-based Bottle,1.3,15 days,2 years
+Cucumber,Vegetable,Solid,Aluminium Foil,5,9 days,200 years,Steel Container,1,12 days,Reusable,Recyclable Cardboard Box,1,12 days,6 months,Compostable Net Bag,0.9,17 days,6 months
+Dish Soap,Cleaning,Liquid,PVC Packaging,4.2,4 days,450 years,Paper Tray,1.2,7 days,4 months,Recyclable Cardboard Box,1,7 days,6 months,Reusable Cloth Bag,0.7,7 days,Reusable
+Chips,Snacks,Solid,Plastic Packet,3.5,6 days,500 years,Recyclable Cardboard Box,1,17 days,6 months,Paper Tray,1.2,10 days,4 months,Steel Container,1,8 days,Reusable
+Cucumber,Vegetable,Solid,Aluminium Foil,5,15 days,200 years,Paper Tray,1.2,8 days,4 months,Jute Bag,0.8,17 days,1 year,Biodegradable Pouch,1.1,4 days,8 months
+Vegetable Oil,Cooking,Liquid,Aluminium Foil,5,14 days,200 years,Jute Bag,0.8,8 days,1 year,Recyclable Cardboard Box,1,17 days,6 months,Paper Tray,1.2,5 days,4 months
+Lentils,Grains,Solid,Plastic Packet,3.5,8 days,500 years,Reusable Cloth Bag,0.7,5 days,Reusable,Recyclable Cardboard Box,1,4 days,6 months,Paper Tray,1.2,19 days,4 months
+Wheat Flour,Grains,Solid,Styrofoam Box,4,3 days,500 years,Compostable Net Bag,0.9,4 days,6 months,Glass Bottle,1.2,7 days,Reusable,Plant-based Bottle,1.3,12 days,2 years
+Rice,Grains,Solid,PVC Packaging,4.2,11 days,450 years,Paper Tray,1.2,5 days,4 months,Biodegradable Pouch,1.1,20 days,8 months,Recyclable Cardboard Box,1,13 days,6 months
+Sugar,Cooking,Solid,Styrofoam Box,4,9 days,500 years,Paper Tray,1.2,6 days,4 months,Reusable Cloth Bag,0.7,11 days,Reusable,Biodegradable Pouch,1.1,20 days,8 months
+Water Bottle,Beverage,Liquid,Aluminium Foil,5,10 days,200 years,Glass Bottle,1.2,6 days,Reusable,Jute Bag,0.8,10 days,1 year,Plant-based Bottle,1.3,6 days,2 years
+Chips,Snacks,Solid,Aluminium Foil,5,3 days,200 years,Glass Bottle,1.2,7 days,Reusable,Plant-based Bottle,1.3,11 days,2 years,Steel Container,1,10 days,Reusable
+Milk,Beverage,Liquid,Aluminium Foil,5,13 days,200 years,Plant-based Bottle,1.3,5 days,2 years,Steel Container,1,18 days,Reusable,Glass Bottle,1.2,7 days,Reusable
+Toothpaste,Cosmetics,Semi-solid,Styrofoam Box,4,14 days,500 years,Steel Container,1,16 days,Reusable,Plant-based Bottle,1.3,11 days,2 years,Glass Bottle,1.2,7 days,Reusable
+Dish Soap,Cleaning,Liquid,Styrofoam Box,4,15 days,500 years,Reusable Cloth Bag,0.7,17 days,Reusable,Biodegradable Pouch,1.1,4 days,8 months,Paper Tray,1.2,17 days,4 months
+Shampoo,Cosmetics,Liquid,Styrofoam Box,4,10 days,500 years,Steel Container,1,15 days,Reusable,Glass Bottle,1.2,17 days,Reusable,Paper Tray,1.2,19 days,4 months
+Wheat Flour,Grains,Solid,Aluminium Foil,5,4 days,200 years,Steel Container,1,20 days,Reusable,Jute Bag,0.8,9 days,1 year,Compostable Net Bag,0.9,9 days,6 months
+Salt,Cooking,Solid,Plastic Bottle,4.5,12 days,450 years,Paper Tray,1.2,13 days,4 months,Reusable Cloth Bag,0.7,19 days,Reusable,Steel Container,1,7 days,Reusable
+Orange,Fruits,Solid,Aluminium Foil,5,15 days,200 years,Paper Tray,1.2,18 days,4 months,Recyclable Cardboard Box,1,20 days,6 months,Jute Bag,0.8,16 days,1 year
+Shoes,Clothing,Solid,Aluminium Foil,5,6 days,200 years,Recyclable Cardboard Box,1,12 days,6 months,Compostable Net Bag,0.9,11 days,6 months,Reusable Cloth Bag,0.7,17 days,Reusable
+Banana,Fruits,Solid,PVC Packaging,4.2,11 days,450 years,Paper Tray,1.2,4 days,4 months,Steel Container,1,19 days,Reusable,Biodegradable Pouch,1.1,14 days,8 months
+Apple,Fruits,Solid,PVC Packaging,4.2,4 days,450 years,Compostable Net Bag,0.9,12 days,6 months,Recyclable Cardboard Box,1,5 days,6 months,Biodegradable Pouch,1.1,14 days,8 months
+Vegetable Oil,Cooking,Liquid,Plastic Packet,3.5,14 days,500 years,Glass Bottle,1.2,15 days,Reusable,Compostable Net Bag,0.9,7 days,6 months,Reusable Cloth Bag,0.7,16 days,Reusable
+Detergent,Cleaning,Powder,PVC Packaging,4.2,9 days,450 years,Recyclable Cardboard Box,1,10 days,6 months,Paper Tray,1.2,9 days,4 months,Compostable Net Bag,0.9,20 days,6 months
+Tomato,Vegetable,Solid,PVC Packaging,4.2,12 days,450 years,Plant-based Bottle,1.3,15 days,2 years,Glass Bottle,1.2,16 days,Reusable,Jute Bag,0.8,16 days,1 year
+Milk,Beverage,Liquid,Aluminium Foil,5,9 days,200 years,Glass Bottle,1.2,12 days,Reusable,Recyclable Cardboard Box,1,4 days,6 months,Compostable Net Bag,0.9,18 days,6 months
+Cucumber,Vegetable,Solid,Aluminium Foil,5,8 days,200 years,Reusable Cloth Bag,0.7,18 days,Reusable,Recyclable Cardboard Box,1,10 days,6 months,Paper Tray,1.2,15 days,4 months
+Vegetable Oil,Cooking,Liquid,Aluminium Foil,5,3 days,200 years,Compostable Net Bag,0.9,8 days,6 months,Plant-based Bottle,1.3,10 days,2 years,Reusable Cloth Bag,0.7,16 days,Reusable
+Cucumber,Vegetable,Solid,Styrofoam Box,4,14 days,500 years,Jute Bag,0.8,13 days,1 year,Reusable Cloth Bag,0.7,6 days,Reusable,Biodegradable Pouch,1.1,10 days,8 months
+Salt,Cooking,Solid,Aluminium Foil,5,14 days,200 years,Paper Tray,1.2,8 days,4 months,Glass Bottle,1.2,4 days,Reusable,Compostable Net Bag,0.9,14 days,6 months
+Milk,Beverage,Liquid,Plastic Packet,3.5,10 days,500 years,Compostable Net Bag,0.9,15 days,6 months,Glass Bottle,1.2,8 days,Reusable,Reusable Cloth Bag,0.7,20 days,Reusable
+Grapes,Fruits,Solid,Aluminium Foil,5,3 days,200 years,Compostable Net Bag,0.9,10 days,6 months,Steel Container,1,18 days,Reusable,Biodegradable Pouch,1.1,9 days,8 months
+Book,Stationery,Solid,PVC Packaging,4.2,7 days,450 years,Jute Bag,0.8,7 days,1 year,Plant-based Bottle,1.3,16 days,2 years,Recyclable Cardboard Box,1,10 days,6 months
+Cucumber,Vegetable,Solid,Aluminium Foil,5,7 days,200 years,Paper Tray,1.2,10 days,4 months,Jute Bag,0.8,19 days,1 year,Glass Bottle,1.2,16 days,Reusable
+Biscuits,Bakery,Solid,Plastic Packet,3.5,12 days,500 years,Jute Bag,0.8,13 days,1 year,Glass Bottle,1.2,18 days,Reusable,Biodegradable Pouch,1.1,17 days,8 months
+Chips,Snacks,Solid,Plastic Packet,3.5,12 days,500 years,Plant-based Bottle,1.3,9 days,2 years,Steel Container,1,12 days,Reusable,Recyclable Cardboard Box,1,5 days,6 months
+Toothpaste,Cosmetics,Semi-solid,Plastic Bottle,4.5,3 days,450 years,Compostable Net Bag,0.9,12 days,6 months,Steel Container,1,10 days,Reusable,Recyclable Cardboard Box,1,17 days,6 months
+Noodles,Snacks,Solid,Styrofoam Box,4,8 days,500 years,Biodegradable Pouch,1.1,20 days,8 months,Steel Container,1,13 days,Reusable,Reusable Cloth Bag,0.7,9 days,Reusable
+Onion,Vegetable,Solid,Plastic Packet,3.5,3 days,500 years,Recyclable Cardboard Box,1,11 days,6 months,Paper Tray,1.2,7 days,4 months,Biodegradable Pouch,1.1,6 days,8 months
+Orange,Fruits,Solid,PVC Packaging,4.2,15 days,450 years,Paper Tray,1.2,13 days,4 months,Compostable Net Bag,0.9,17 days,6 months,Reusable Cloth Bag,0.7,7 days,Reusable
+Apple,Fruits,Solid,PVC Packaging,4.2,8 days,450 years,Plant-based Bottle,1.3,14 days,2 years,Biodegradable Pouch,1.1,10 days,8 months,Paper Tray,1.2,10 days,4 months
+Sugar,Cooking,Solid,PVC Packaging,4.2,9 days,450 years,Steel Container,1,16 days,Reusable,Biodegradable Pouch,1.1,10 days,8 months,Recyclable Cardboard Box,1,12 days,6 months
+Orange,Fruits,Solid,Styrofoam Box,4,6 days,500 years,Glass Bottle,1.2,19 days,Reusable,Plant-based Bottle,1.3,5 days,2 years,Jute Bag,0.8,6 days,1 year
+Milk,Beverage,Liquid,PVC Packaging,4.2,12 days,450 years,Jute Bag,0.8,5 days,1 year,Compostable Net Bag,0.9,11 days,6 months,Steel Container,1,18 days,Reusable
+Tomato,Vegetable,Solid,Plastic Bottle,4.5,6 days,450 years,Jute Bag,0.8,18 days,1 year,Reusable Cloth Bag,0.7,7 days,Reusable,Plant-based Bottle,1.3,14 days,2 years
+Shoes,Clothing,Solid,PVC Packaging,4.2,8 days,450 years,Glass Bottle,1.2,9 days,Reusable,Reusable Cloth Bag,0.7,12 days,Reusable,Recyclable Cardboard Box,1,20 days,6 months
+Banana,Fruits,Solid,Styrofoam Box,4,5 days,500 years,Paper Tray,1.2,16 days,4 months,Biodegradable Pouch,1.1,8 days,8 months,Compostable Net Bag,0.9,13 days,6 months
+Potato,Vegetable,Solid,Styrofoam Box,4,5 days,500 years,Steel Container,1,6 days,Reusable,Jute Bag,0.8,17 days,1 year,Compostable Net Bag,0.9,10 days,6 months
+Pen,Stationery,Solid,Aluminium Foil,5,11 days,200 years,Reusable Cloth Bag,0.7,9 days,Reusable,Glass Bottle,1.2,12 days,Reusable,Recyclable Cardboard Box,1,4 days,6 months
+Wheat Flour,Grains,Solid,Plastic Bottle,4.5,11 days,450 years,Compostable Net Bag,0.9,18 days,6 months,Reusable Cloth Bag,0.7,18 days,Reusable,Glass Bottle,1.2,5 days,Reusable
+Milk,Beverage,Liquid,Styrofoam Box,4,5 days,500 years,Compostable Net Bag,0.9,8 days,6 months,Biodegradable Pouch,1.1,12 days,8 months,Glass Bottle,1.2,4 days,Reusable
+Noodles,Snacks,Solid,Aluminium Foil,5,13 days,200 years,Jute Bag,0.8,20 days,1 year,Recyclable Cardboard Box,1,15 days,6 months,Biodegradable Pouch,1.1,11 days,8 months
+Chips,Snacks,Solid,Plastic Packet,3.5,4 days,500 years,Glass Bottle,1.2,16 days,Reusable,Steel Container,1,12 days,Reusable,Recyclable Cardboard Box,1,4 days,6 months
+Toothpaste,Cosmetics,Semi-solid,Plastic Packet,3.5,11 days,500 years,Reusable Cloth Bag,0.7,7 days,Reusable,Plant-based Bottle,1.3,5 days,2 years,Jute Bag,0.8,4 days,1 year
+Cucumber,Vegetable,Solid,Aluminium Foil,5,8 days,200 years,Biodegradable Pouch,1.1,11 days,8 months,Steel Container,1,17 days,Reusable,Compostable Net Bag,0.9,12 days,6 months
+Juice,Beverage,Liquid,Plastic Packet,3.5,4 days,500 years,Glass Bottle,1.2,20 days,Reusable,Compostable Net Bag,0.9,7 days,6 months,Biodegradable Pouch,1.1,10 days,8 months
+Lentils,Grains,Solid,Plastic Packet,3.5,13 days,500 years,Reusable Cloth Bag,0.7,14 days,Reusable,Plant-based Bottle,1.3,11 days,2 years,Recyclable Cardboard Box,1,7 days,6 months
+Sugar,Cooking,Solid,Styrofoam Box,4,15 days,500 years,Glass Bottle,1.2,19 days,Reusable,Reusable Cloth Bag,0.7,4 days,Reusable,Steel Container,1,15 days,Reusable
+Noodles,Snacks,Solid,Plastic Packet,3.5,5 days,500 years,Compostable Net Bag,0.9,12 days,6 months,Recyclable Cardboard Box,1,15 days,6 months,Biodegradable Pouch,1.1,18 days,8 months
+Onion,Vegetable,Solid,Plastic Bottle,4.5,8 days,450 years,Glass Bottle,1.2,14 days,Reusable,Plant-based Bottle,1.3,9 days,2 years,Reusable Cloth Bag,0.7,10 days,Reusable
+Shirt,Clothing,Solid,Styrofoam Box,4,13 days,500 years,Recyclable Cardboard Box,1,6 days,6 months,Biodegradable Pouch,1.1,5 days,8 months,Plant-based Bottle,1.3,14 days,2 years
+Bread,Bakery,Solid,PVC Packaging,4.2,14 days,450 years,Paper Tray,1.2,16 days,4 months,Glass Bottle,1.2,7 days,Reusable,Reusable Cloth Bag,0.7,15 days,Reusable
+Toothpaste,Cosmetics,Semi-solid,Plastic Bottle,4.5,11 days,450 years,Compostable Net Bag,0.9,4 days,6 months,Paper Tray,1.2,5 days,4 months,Jute Bag,0.8,5 days,1 year
+Soap,Cosmetics,Solid,Plastic Bottle,4.5,14 days,450 years,Steel Container,1,18 days,Reusable,Jute Bag,0.8,8 days,1 year,Glass Bottle,1.2,12 days,Reusable
+Wheat Flour,Grains,Solid,Aluminium Foil,5,13 days,200 years,Paper Tray,1.2,10 days,4 months,Recyclable Cardboard Box,1,7 days,6 months,Glass Bottle,1.2,16 days,Reusable
+Pen,Stationery,Solid,Plastic Packet,3.5,13 days,500 years,Recyclable Cardboard Box,1,5 days,6 months,Compostable Net Bag,0.9,5 days,6 months,Paper Tray,1.2,19 days,4 months
+Sugar,Cooking,Solid,Styrofoam Box,4,3 days,500 years,Jute Bag,0.8,5 days,1 year,Reusable Cloth Bag,0.7,13 days,Reusable,Steel Container,1,5 days,Reusable
+Chips,Snacks,Solid,Plastic Bottle,4.5,14 days,450 years,Recyclable Cardboard Box,1,15 days,6 months,Plant-based Bottle,1.3,11 days,2 years,Compostable Net Bag,0.9,8 days,6 months
+Banana,Fruits,Solid,Aluminium Foil,5,4 days,200 years,Compostable Net Bag,0.9,9 days,6 months,Steel Container,1,12 days,Reusable,Jute Bag,0.8,18 days,1 year
+Milk,Beverage,Liquid,Plastic Packet,3.5,11 days,500 years,Recyclable Cardboard Box,1,17 days,6 months,Steel Container,1,4 days,Reusable,Reusable Cloth Bag,0.7,9 days,Reusable
+Biscuits,Bakery,Solid,Aluminium Foil,5,3 days,200 years,Recyclable Cardboard Box,1,8 days,6 months,Plant-based Bottle,1.3,20 days,2 years,Reusable Cloth Bag,0.7,14 days,Reusable
+Shirt,Clothing,Solid,Plastic Packet,3.5,4 days,500 years,Compostable Net Bag,0.9,7 days,6 months,Recyclable Cardboard Box,1,4 days,6 months,Reusable Cloth Bag,0.7,17 days,Reusable
+Milk,Beverage,Liquid,Aluminium Foil,5,11 days,200 years,Biodegradable Pouch,1.1,4 days,8 months,Recyclable Cardboard Box,1,10 days,6 months,Reusable Cloth Bag,0.7,12 days,Reusable
+Book,Stationery,Solid,Plastic Bottle,4.5,3 days,450 years,Steel Container,1,17 days,Reusable,Plant-based Bottle,1.3,15 days,2 years,Paper Tray,1.2,8 days,4 months
+Rice,Grains,Solid,Styrofoam Box,4,7 days,500 years,Glass Bottle,1.2,10 days,Reusable,Recyclable Cardboard Box,1,11 days,6 months,Plant-based Bottle,1.3,7 days,2 years
+Grapes,Fruits,Solid,PVC Packaging,4.2,7 days,450 years,Glass Bottle,1.2,10 days,Reusable,Paper Tray,1.2,18 days,4 months,Steel Container,1,16 days,Reusable
+Book,Stationery,Solid,Plastic Bottle,4.5,14 days,450 years,Biodegradable Pouch,1.1,15 days,8 months,Plant-based Bottle,1.3,18 days,2 years,Glass Bottle,1.2,20 days,Reusable
+Banana,Fruits,Solid,Aluminium Foil,5,7 days,200 years,Biodegradable Pouch,1.1,13 days,8 months,Steel Container,1,14 days,Reusable,Jute Bag,0.8,19 days,1 year
+Juice,Beverage,Liquid,Plastic Packet,3.5,8 days,500 years,Reusable Cloth Bag,0.7,8 days,Reusable,Recyclable Cardboard Box,1,9 days,6 months,Paper Tray,1.2,7 days,4 months
+Sugar,Cooking,Solid,Plastic Packet,3.5,12 days,500 years,Plant-based Bottle,1.3,8 days,2 years,Reusable Cloth Bag,0.7,18 days,Reusable,Jute Bag,0.8,18 days,1 year
+Shoes,Clothing,Solid,Plastic Bottle,4.5,4 days,450 years,Recyclable Cardboard Box,1,4 days,6 months,Glass Bottle,1.2,13 days,Reusable,Compostable Net Bag,0.9,10 days,6 months
+Juice,Beverage,Liquid,Aluminium Foil,5,7 days,200 years,Glass Bottle,1.2,6 days,Reusable,Plant-based Bottle,1.3,19 days,2 years,Jute Bag,0.8,11 days,1 year
+Book,Stationery,Solid,Aluminium Foil,5,9 days,200 years,Paper Tray,1.2,7 days,4 months,Jute Bag,0.8,17 days,1 year,Plant-based Bottle,1.3,18 days,2 years
+Lentils,Grains,Solid,Aluminium Foil,5,8 days,200 years,Biodegradable Pouch,1.1,17 days,8 months,Recyclable Cardboard Box,1,17 days,6 months,Steel Container,1,13 days,Reusable
+Detergent,Cleaning,Powder,PVC Packaging,4.2,11 days,450 years,Plant-based Bottle,1.3,13 days,2 years,Glass Bottle,1.2,15 days,Reusable,Reusable Cloth Bag,0.7,7 days,Reusable
+Soap,Cosmetics,Solid,Plastic Packet,3.5,13 days,500 years,Jute Bag,0.8,10 days,1 year,Glass Bottle,1.2,11 days,Reusable,Paper Tray,1.2,6 days,4 months
+Orange,Fruits,Solid,Plastic Bottle,4.5,13 days,450 years,Biodegradable Pouch,1.1,16 days,8 months,Jute Bag,0.8,9 days,1 year,Recyclable Cardboard Box,1,13 days,6 months
+Apple,Fruits,Solid,Plastic Packet,3.5,5 days,500 years,Biodegradable Pouch,1.1,14 days,8 months,Glass Bottle,1.2,10 days,Reusable,Steel Container,1,11 days,Reusable
+Juice,Beverage,Liquid,Plastic Bottle,4.5,13 days,450 years,Biodegradable Pouch,1.1,12 days,8 months,Compostable Net Bag,0.9,11 days,6 months,Glass Bottle,1.2,15 days,Reusable
+Shirt,Clothing,Solid,Plastic Packet,3.5,12 days,500 years,Compostable Net Bag,0.9,15 days,6 months,Biodegradable Pouch,1.1,5 days,8 months,Plant-based Bottle,1.3,15 days,2 years
+Lentils,Grains,Solid,Plastic Packet,3.5,5 days,500 years,Recyclable Cardboard Box,1,4 days,6 months,Steel Container,1,16 days,Reusable,Compostable Net Bag,0.9,6 days,6 months
+Noodles,Snacks,Solid,Aluminium Foil,5,10 days,200 years,Plant-based Bottle,1.3,10 days,2 years,Recyclable Cardboard Box,1,16 days,6 months,Steel Container,1,4 days,Reusable
+Detergent,Cleaning,Powder,PVC Packaging,4.2,9 days,450 years,Paper Tray,1.2,10 days,4 months,Reusable Cloth Bag,0.7,14 days,Reusable,Compostable Net Bag,0.9,18 days,6 months
+Carrot,Vegetable,Solid,Aluminium Foil,5,11 days,200 years,Glass Bottle,1.2,12 days,Reusable,Biodegradable Pouch,1.1,4 days,8 months,Reusable Cloth Bag,0.7,20 days,Reusable
+Noodles,Snacks,Solid,Plastic Packet,3.5,7 days,500 years,Compostable Net Bag,0.9,15 days,6 months,Plant-based Bottle,1.3,4 days,2 years,Reusable Cloth Bag,0.7,20 days,Reusable
+Book,Stationery,Solid,Plastic Packet,3.5,8 days,500 years,Glass Bottle,1.2,16 days,Reusable,Jute Bag,0.8,12 days,1 year,Plant-based Bottle,1.3,17 days,2 years
+Lentils,Grains,Solid,Aluminium Foil,5,11 days,200 years,Recyclable Cardboard Box,1,15 days,6 months,Biodegradable Pouch,1.1,7 days,8 months,Plant-based Bottle,1.3,5 days,2 years
+Apple,Fruits,Solid,PVC Packaging,4.2,12 days,450 years,Recyclable Cardboard Box,1,9 days,6 months,Biodegradable Pouch,1.1,4 days,8 months,Compostable Net Bag,0.9,18 days,6 months
+Milk,Beverage,Liquid,Plastic Packet,3.5,10 days,500 years,Glass Bottle,1.2,15 days,Reusable,Plant-based Bottle,1.3,12 days,2 years,Jute Bag,0.8,6 days,1 year
+Bread,Bakery,Solid,Plastic Packet,3.5,5 days,500 years,Compostable Net Bag,0.9,19 days,6 months,Biodegradable Pouch,1.1,14 days,8 months,Steel Container,1,8 days,Reusable
+Milk,Beverage,Liquid,Styrofoam Box,4,13 days,500 years,Glass Bottle,1.2,11 days,Reusable,Plant-based Bottle,1.3,18 days,2 years,Compostable Net Bag,0.9,6 days,6 months
+Juice,Beverage,Liquid,Plastic Bottle,4.5,3 days,450 years,Biodegradable Pouch,1.1,12 days,8 months,Steel Container,1,9 days,Reusable,Plant-based Bottle,1.3,18 days,2 years
+Shampoo,Cosmetics,Liquid,PVC Packaging,4.2,11 days,450 years,Glass Bottle,1.2,9 days,Reusable,Paper Tray,1.2,15 days,4 months,Biodegradable Pouch,1.1,13 days,8 months
+Onion,Vegetable,Solid,Styrofoam Box,4,11 days,500 years,Paper Tray,1.2,5 days,4 months,Steel Container,1,8 days,Reusable,Reusable Cloth Bag,0.7,20 days,Reusable
+Shoes,Clothing,Solid,PVC Packaging,4.2,15 days,450 years,Plant-based Bottle,1.3,19 days,2 years,Biodegradable Pouch,1.1,16 days,8 months,Recyclable Cardboard Box,1,12 days,6 months
+Noodles,Snacks,Solid,Styrofoam Box,4,14 days,500 years,Biodegradable Pouch,1.1,20 days,8 months,Paper Tray,1.2,9 days,4 months,Glass Bottle,1.2,10 days,Reusable
+Detergent,Cleaning,Powder,Styrofoam Box,4,14 days,500 years,Steel Container,1,19 days,Reusable,Plant-based Bottle,1.3,20 days,2 years,Compostable Net Bag,0.9,20 days,6 months
+Salt,Cooking,Solid,Plastic Bottle,4.5,12 days,450 years,Recyclable Cardboard Box,1,4 days,6 months,Paper Tray,1.2,20 days,4 months,Plant-based Bottle,1.3,12 days,2 years
+Banana,Fruits,Solid,PVC Packaging,4.2,4 days,450 years,Recyclable Cardboard Box,1,13 days,6 months,Paper Tray,1.2,13 days,4 months,Biodegradable Pouch,1.1,15 days,8 months
+Banana,Fruits,Solid,Plastic Packet,3.5,7 days,500 years,Biodegradable Pouch,1.1,13 days,8 months,Reusable Cloth Bag,0.7,16 days,Reusable,Paper Tray,1.2,10 days,4 months
+Wheat Flour,Grains,Solid,Plastic Packet,3.5,5 days,500 years,Reusable Cloth Bag,0.7,17 days,Reusable,Steel Container,1,15 days,Reusable,Jute Bag,0.8,19 days,1 year
+Toothpaste,Cosmetics,Semi-solid,Plastic Packet,3.5,7 days,500 years,Jute Bag,0.8,11 days,1 year,Plant-based Bottle,1.3,10 days,2 years,Glass Bottle,1.2,17 days,Reusable
+Shoes,Clothing,Solid,Styrofoam Box,4,6 days,500 years,Glass Bottle,1.2,12 days,Reusable,Plant-based Bottle,1.3,12 days,2 years,Jute Bag,0.8,7 days,1 year
+Pen,Stationery,Solid,Plastic Packet,3.5,15 days,500 years,Biodegradable Pouch,1.1,19 days,8 months,Steel Container,1,19 days,Reusable,Plant-based Bottle,1.3,13 days,2 years
+Wheat Flour,Grains,Solid,Styrofoam Box,4,11 days,500 years,Compostable Net Bag,0.9,8 days,6 months,Paper Tray,1.2,8 days,4 months,Plant-based Bottle,1.3,7 days,2 years
+Biscuits,Bakery,Solid,Plastic Bottle,4.5,6 days,450 years,Paper Tray,1.2,12 days,4 months,Jute Bag,0.8,6 days,1 year,Biodegradable Pouch,1.1,16 days,8 months
+Water Bottle,Beverage,Liquid,Styrofoam Box,4,9 days,500 years,Biodegradable Pouch,1.1,6 days,8 months,Steel Container,1,20 days,Reusable,Paper Tray,1.2,11 days,4 months
+Dish Soap,Cleaning,Liquid,Styrofoam Box,4,9 days,500 years,Plant-based Bottle,1.3,6 days,2 years,Jute Bag,0.8,10 days,1 year,Recyclable Cardboard Box,1,12 days,6 months
+Rice,Grains,Solid,Plastic Packet,3.5,14 days,500 years,Reusable Cloth Bag,0.7,9 days,Reusable,Biodegradable Pouch,1.1,20 days,8 months,Paper Tray,1.2,13 days,4 months
+Pen,Stationery,Solid,PVC Packaging,4.2,3 days,450 years,Steel Container,1,12 days,Reusable,Compostable Net Bag,0.9,4 days,6 months,Plant-based Bottle,1.3,10 days,2 years
+Cucumber,Vegetable,Solid,Plastic Bottle,4.5,8 days,450 years,Jute Bag,0.8,10 days,1 year,Reusable Cloth Bag,0.7,20 days,Reusable,Plant-based Bottle,1.3,5 days,2 years
+Chips,Snacks,Solid,Styrofoam Box,4,10 days,500 years,Compostable Net Bag,0.9,16 days,6 months,Plant-based Bottle,1.3,18 days,2 years,Steel Container,1,11 days,Reusable
+Noodles,Snacks,Solid,Plastic Packet,3.5,14 days,500 years,Biodegradable Pouch,1.1,9 days,8 months,Plant-based Bottle,1.3,10 days,2 years,Recyclable Cardboard Box,1,13 days,6 months
+Biscuits,Bakery,Solid,PVC Packaging,4.2,9 days,450 years,Steel Container,1,18 days,Reusable,Jute Bag,0.8,15 days,1 year,Glass Bottle,1.2,18 days,Reusable
+Water Bottle,Beverage,Liquid,Aluminium Foil,5,4 days,200 years,Plant-based Bottle,1.3,5 days,2 years,Jute Bag,0.8,17 days,1 year,Biodegradable Pouch,1.1,9 days,8 months
+Noodles,Snacks,Solid,PVC Packaging,4.2,15 days,450 years,Recyclable Cardboard Box,1,5 days,6 months,Plant-based Bottle,1.3,4 days,2 years,Reusable Cloth Bag,0.7,8 days,Reusable
+Noodles,Snacks,Solid,Plastic Packet,3.5,4 days,500 years,Steel Container,1,4 days,Reusable,Paper Tray,1.2,10 days,4 months,Compostable Net Bag,0.9,17 days,6 months
+Biscuits,Bakery,Solid,Plastic Packet,3.5,12 days,500 years,Recyclable Cardboard Box,1,18 days,6 months,Steel Container,1,18 days,Reusable,Biodegradable Pouch,1.1,19 days,8 months
+Apple,Fruits,Solid,Styrofoam Box,4,14 days,500 years,Compostable Net Bag,0.9,6 days,6 months,Reusable Cloth Bag,0.7,18 days,Reusable,Recyclable Cardboard Box,1,8 days,6 months
+Detergent,Cleaning,Powder,Aluminium Foil,5,12 days,200 years,Jute Bag,0.8,4 days,1 year,Paper Tray,1.2,11 days,4 months,Reusable Cloth Bag,0.7,16 days,Reusable
+Chips,Snacks,Solid,Aluminium Foil,5,14 days,200 years,Steel Container,1,6 days,Reusable,Compostable Net Bag,0.9,7 days,6 months,Biodegradable Pouch,1.1,20 days,8 months
+Chips,Snacks,Solid,Styrofoam Box,4,5 days,500 years,Plant-based Bottle,1.3,19 days,2 years,Biodegradable Pouch,1.1,9 days,8 months,Reusable Cloth Bag,0.7,5 days,Reusable
+Carrot,Vegetable,Solid,Aluminium Foil,5,13 days,200 years,Plant-based Bottle,1.3,9 days,2 years,Reusable Cloth Bag,0.7,19 days,Reusable,Compostable Net Bag,0.9,6 days,6 months
+Cucumber,Vegetable,Solid,Styrofoam Box,4,10 days,500 years,Paper Tray,1.2,10 days,4 months,Jute Bag,0.8,10 days,1 year,Glass Bottle,1.2,8 days,Reusable
+Vegetable Oil,Cooking,Liquid,Plastic Packet,3.5,12 days,500 years,Jute Bag,0.8,16 days,1 year,Steel Container,1,8 days,Reusable,Glass Bottle,1.2,12 days,Reusable
+Juice,Beverage,Liquid,Aluminium Foil,5,8 days,200 years,Recyclable Cardboard Box,1,8 days,6 months,Compostable Net Bag,0.9,11 days,6 months,Glass Bottle,1.2,19 days,Reusable
+Shirt,Clothing,Solid,Styrofoam Box,4,10 days,500 years,Compostable Net Bag,0.9,17 days,6 months,Plant-based Bottle,1.3,20 days,2 years,Glass Bottle,1.2,11 days,Reusable
+Chips,Snacks,Solid,Plastic Packet,3.5,11 days,500 years,Glass Bottle,1.2,16 days,Reusable,Plant-based Bottle,1.3,6 days,2 years,Recyclable Cardboard Box,1,20 days,6 months
+Book,Stationery,Solid,Styrofoam Box,4,5 days,500 years,Paper Tray,1.2,13 days,4 months,Jute Bag,0.8,18 days,1 year,Plant-based Bottle,1.3,6 days,2 years
+Onion,Vegetable,Solid,Styrofoam Box,4,7 days,500 years,Jute Bag,0.8,14 days,1 year,Plant-based Bottle,1.3,16 days,2 years,Steel Container,1,9 days,Reusable
+Banana,Fruits,Solid,PVC Packaging,4.2,4 days,450 years,Biodegradable Pouch,1.1,11 days,8 months,Jute Bag,0.8,9 days,1 year,Compostable Net Bag,0.9,17 days,6 months
+Noodles,Snacks,Solid,Plastic Bottle,4.5,3 days,450 years,Biodegradable Pouch,1.1,5 days,8 months,Compostable Net Bag,0.9,7 days,6 months,Glass Bottle,1.2,12 days,Reusable
+Milk,Beverage,Liquid,Plastic Packet,3.5,7 days,500 years,Recyclable Cardboard Box,1,4 days,6 months,Jute Bag,0.8,6 days,1 year,Paper Tray,1.2,8 days,4 months
+Noodles,Snacks,Solid,Styrofoam Box,4,5 days,500 years,Recyclable Cardboard Box,1,4 days,6 months,Plant-based Bottle,1.3,16 days,2 years,Steel Container,1,12 days,Reusable
+Bread,Bakery,Solid,Plastic Bottle,4.5,3 days,450 years,Paper Tray,1.2,7 days,4 months,Glass Bottle,1.2,20 days,Reusable,Recyclable Cardboard Box,1,5 days,6 months
+Dish Soap,Cleaning,Liquid,PVC Packaging,4.2,8 days,450 years,Glass Bottle,1.2,18 days,Reusable,Paper Tray,1.2,7 days,4 months,Biodegradable Pouch,1.1,10 days,8 months
+Shirt,Clothing,Solid,Styrofoam Box,4,8 days,500 years,Paper Tray,1.2,10 days,4 months,Compostable Net Bag,0.9,16 days,6 months,Jute Bag,0.8,12 days,1 year
+Detergent,Cleaning,Powder,PVC Packaging,4.2,15 days,450 years,Glass Bottle,1.2,14 days,Reusable,Biodegradable Pouch,1.1,14 days,8 months,Recyclable Cardboard Box,1,14 days,6 months
+Rice,Grains,Solid,Plastic Packet,3.5,15 days,500 years,Recyclable Cardboard Box,1,18 days,6 months,Steel Container,1,20 days,Reusable,Glass Bottle,1.2,7 days,Reusable
+Tomato,Vegetable,Solid,PVC Packaging,4.2,13 days,450 years,Compostable Net Bag,0.9,8 days,6 months,Paper Tray,1.2,14 days,4 months,Plant-based Bottle,1.3,13 days,2 years
+Grapes,Fruits,Solid,Plastic Bottle,4.5,3 days,450 years,Steel Container,1,15 days,Reusable,Plant-based Bottle,1.3,5 days,2 years,Compostable Net Bag,0.9,15 days,6 months
+Apple,Fruits,Solid,PVC Packaging,4.2,8 days,450 years,Biodegradable Pouch,1.1,15 days,8 months,Jute Bag,0.8,4 days,1 year,Glass Bottle,1.2,8 days,Reusable
+Rice,Grains,Solid,Plastic Packet,3.5,11 days,500 years,Recyclable Cardboard Box,1,19 days,6 months,Reusable Cloth Bag,0.7,18 days,Reusable,Jute Bag,0.8,11 days,1 year
+Rice,Grains,Solid,Plastic Packet,3.5,4 days,500 years,Jute Bag,0.8,6 days,1 year,Paper Tray,1.2,20 days,4 months,Glass Bottle,1.2,20 days,Reusable
+Orange,Fruits,Solid,Aluminium Foil,5,11 days,200 years,Paper Tray,1.2,8 days,4 months,Plant-based Bottle,1.3,10 days,2 years,Jute Bag,0.8,5 days,1 year
+Noodles,Snacks,Solid,PVC Packaging,4.2,13 days,450 years,Biodegradable Pouch,1.1,12 days,8 months,Reusable Cloth Bag,0.7,7 days,Reusable,Glass Bottle,1.2,9 days,Reusable
+Water Bottle,Beverage,Liquid,Aluminium Foil,5,8 days,200 years,Reusable Cloth Bag,0.7,13 days,Reusable,Plant-based Bottle,1.3,13 days,2 years,Biodegradable Pouch,1.1,7 days,8 months
+Carrot,Vegetable,Solid,Aluminium Foil,5,7 days,200 years,Compostable Net Bag,0.9,20 days,6 months,Recyclable Cardboard Box,1,13 days,6 months,Reusable Cloth Bag,0.7,5 days,Reusable
+Onion,Vegetable,Solid,Plastic Packet,3.5,14 days,500 years,Plant-based Bottle,1.3,16 days,2 years,Jute Bag,0.8,8 days,1 year,Recyclable Cardboard Box,1,10 days,6 months
+Apple,Fruits,Solid,Plastic Packet,3.5,9 days,500 years,Plant-based Bottle,1.3,7 days,2 years,Reusable Cloth Bag,0.7,6 days,Reusable,Glass Bottle,1.2,17 days,Reusable
+Dish Soap,Cleaning,Liquid,PVC Packaging,4.2,11 days,450 years,Biodegradable Pouch,1.1,4 days,8 months,Plant-based Bottle,1.3,13 days,2 years,Recyclable Cardboard Box,1,17 days,6 months
+Apple,Fruits,Solid,Styrofoam Box,4,11 days,500 years,Recyclable Cardboard Box,1,10 days,6 months,Jute Bag,0.8,5 days,1 year,Glass Bottle,1.2,10 days,Reusable
+Rice,Grains,Solid,Styrofoam Box,4,3 days,500 years,Compostable Net Bag,0.9,18 days,6 months,Steel Container,1,11 days,Reusable,Jute Bag,0.8,17 days,1 year
+Wheat Flour,Grains,Solid,Plastic Bottle,4.5,12 days,450 years,Steel Container,1,11 days,Reusable,Plant-based Bottle,1.3,9 days,2 years,Reusable Cloth Bag,0.7,11 days,Reusable
+Bread,Bakery,Solid,Plastic Bottle,4.5,6 days,450 years,Compostable Net Bag,0.9,11 days,6 months,Glass Bottle,1.2,9 days,Reusable,Paper Tray,1.2,8 days,4 months
+Book,Stationery,Solid,Plastic Bottle,4.5,12 days,450 years,Steel Container,1,15 days,Reusable,Plant-based Bottle,1.3,8 days,2 years,Paper Tray,1.2,17 days,4 months
+Biscuits,Bakery,Solid,Plastic Packet,3.5,6 days,500 years,Jute Bag,0.8,5 days,1 year,Glass Bottle,1.2,16 days,Reusable,Paper Tray,1.2,4 days,4 months
+Soap,Cosmetics,Solid,PVC Packaging,4.2,11 days,450 years,Glass Bottle,1.2,17 days,Reusable,Biodegradable Pouch,1.1,7 days,8 months,Compostable Net Bag,0.9,4 days,6 months
+Banana,Fruits,Solid,Aluminium Foil,5,11 days,200 years,Steel Container,1,17 days,Reusable,Reusable Cloth Bag,0.7,4 days,Reusable,Recyclable Cardboard Box,1,20 days,6 months
+Sugar,Cooking,Solid,Plastic Bottle,4.5,3 days,450 years,Steel Container,1,12 days,Reusable,Plant-based Bottle,1.3,9 days,2 years,Jute Bag,0.8,6 days,1 year
+Grapes,Fruits,Solid,Styrofoam Box,4,13 days,500 years,Reusable Cloth Bag,0.7,15 days,Reusable,Compostable Net Bag,0.9,9 days,6 months,Paper Tray,1.2,8 days,4 months
+Dish Soap,Cleaning,Liquid,Aluminium Foil,5,12 days,200 years,Glass Bottle,1.2,13 days,Reusable,Steel Container,1,20 days,Reusable,Reusable Cloth Bag,0.7,6 days,Reusable
+Water Bottle,Beverage,Liquid,Plastic Packet,3.5,5 days,500 years,Plant-based Bottle,1.3,4 days,2 years,Reusable Cloth Bag,0.7,11 days,Reusable,Recyclable Cardboard Box,1,12 days,6 months
+Wheat Flour,Grains,Solid,Plastic Bottle,4.5,12 days,450 years,Biodegradable Pouch,1.1,20 days,8 months,Recyclable Cardboard Box,1,8 days,6 months,Plant-based Bottle,1.3,4 days,2 years
+Rice,Grains,Solid,Aluminium Foil,5,14 days,200 years,Steel Container,1,16 days,Reusable,Paper Tray,1.2,15 days,4 months,Jute Bag,0.8,4 days,1 year
+Orange,Fruits,Solid,Styrofoam Box,4,3 days,500 years,Paper Tray,1.2,15 days,4 months,Recyclable Cardboard Box,1,13 days,6 months,Jute Bag,0.8,6 days,1 year
+Wheat Flour,Grains,Solid,PVC Packaging,4.2,7 days,450 years,Steel Container,1,6 days,Reusable,Paper Tray,1.2,10 days,4 months,Plant-based Bottle,1.3,20 days,2 years
+Milk,Beverage,Liquid,Plastic Bottle,4.5,3 days,450 years,Glass Bottle,1.2,10 days,Reusable,Steel Container,1,15 days,Reusable,Plant-based Bottle,1.3,16 days,2 years
+Shampoo,Cosmetics,Liquid,Plastic Packet,3.5,7 days,500 years,Compostable Net Bag,0.9,8 days,6 months,Biodegradable Pouch,1.1,6 days,8 months,Steel Container,1,11 days,Reusable
+Bread,Bakery,Solid,Aluminium Foil,5,12 days,200 years,Biodegradable Pouch,1.1,9 days,8 months,Steel Container,1,9 days,Reusable,Paper Tray,1.2,6 days,4 months
+Vegetable Oil,Cooking,Liquid,Plastic Bottle,4.5,10 days,450 years,Steel Container,1,7 days,Reusable,Glass Bottle,1.2,16 days,Reusable,Plant-based Bottle,1.3,14 days,2 years
+Book,Stationery,Solid,Aluminium Foil,5,14 days,200 years,Jute Bag,0.8,7 days,1 year,Biodegradable Pouch,1.1,18 days,8 months,Glass Bottle,1.2,8 days,Reusable
+Vegetable Oil,Cooking,Liquid,Aluminium Foil,5,4 days,200 years,Reusable Cloth Bag,0.7,16 days,Reusable,Steel Container,1,8 days,Reusable,Recyclable Cardboard Box,1,6 days,6 months
+Shirt,Clothing,Solid,PVC Packaging,4.2,13 days,450 years,Reusable Cloth Bag,0.7,6 days,Reusable,Biodegradable Pouch,1.1,18 days,8 months,Recyclable Cardboard Box,1,8 days,6 months
+Cucumber,Vegetable,Solid,Plastic Packet,3.5,14 days,500 years,Recyclable Cardboard Box,1,14 days,6 months,Compostable Net Bag,0.9,18 days,6 months,Steel Container,1,6 days,Reusable
+Banana,Fruits,Solid,Plastic Packet,3.5,4 days,500 years,Biodegradable Pouch,1.1,14 days,8 months,Recyclable Cardboard Box,1,11 days,6 months,Reusable Cloth Bag,0.7,15 days,Reusable
+Soap,Cosmetics,Solid,Aluminium Foil,5,10 days,200 years,Biodegradable Pouch,1.1,14 days,8 months,Reusable Cloth Bag,0.7,15 days,Reusable,Recyclable Cardboard Box,1,13 days,6 months
+Shampoo,Cosmetics,Liquid,Plastic Bottle,4.5,12 days,450 years,Recyclable Cardboard Box,1,8 days,6 months,Jute Bag,0.8,6 days,1 year,Reusable Cloth Bag,0.7,4 days,Reusable
+Dish Soap,Cleaning,Liquid,PVC Packaging,4.2,15 days,450 years,Plant-based Bottle,1.3,15 days,2 years,Paper Tray,1.2,10 days,4 months,Jute Bag,0.8,13 days,1 year
+Apple,Fruits,Solid,Aluminium Foil,5,12 days,200 years,Plant-based Bottle,1.3,14 days,2 years,Biodegradable Pouch,1.1,9 days,8 months,Recyclable Cardboard Box,1,16 days,6 months
+Salt,Cooking,Solid,Plastic Packet,3.5,15 days,500 years,Reusable Cloth Bag,0.7,7 days,Reusable,Steel Container,1,9 days,Reusable,Biodegradable Pouch,1.1,8 days,8 months
+Dish Soap,Cleaning,Liquid,Styrofoam Box,4,13 days,500 years,Steel Container,1,10 days,Reusable,Reusable Cloth Bag,0.7,11 days,Reusable,Jute Bag,0.8,4 days,1 year
+Bread,Bakery,Solid,Plastic Packet,3.5,11 days,500 years,Plant-based Bottle,1.3,10 days,2 years,Paper Tray,1.2,15 days,4 months,Recyclable Cardboard Box,1,11 days,6 months
+Lentils,Grains,Solid,Styrofoam Box,4,9 days,500 years,Glass Bottle,1.2,8 days,Reusable,Steel Container,1,4 days,Reusable,Jute Bag,0.8,15 days,1 year
+Vegetable Oil,Cooking,Liquid,Plastic Bottle,4.5,4 days,450 years,Plant-based Bottle,1.3,11 days,2 years,Compostable Net Bag,0.9,10 days,6 months,Steel Container,1,15 days,Reusable
+Toothpaste,Cosmetics,Semi-solid,Plastic Bottle,4.5,14 days,450 years,Steel Container,1,8 days,Reusable,Biodegradable Pouch,1.1,20 days,8 months,Jute Bag,0.8,18 days,1 year
+Grapes,Fruits,Solid,Plastic Packet,3.5,3 days,500 years,Biodegradable Pouch,1.1,4 days,8 months,Recyclable Cardboard Box,1,17 days,6 months,Steel Container,1,20 days,Reusable
+Toothpaste,Cosmetics,Semi-solid,Aluminium Foil,5,4 days,200 years,Reusable Cloth Bag,0.7,13 days,Reusable,Jute Bag,0.8,17 days,1 year,Recyclable Cardboard Box,1,18 days,6 months
+Rice,Grains,Solid,Plastic Bottle,4.5,8 days,450 years,Paper Tray,1.2,6 days,4 months,Reusable Cloth Bag,0.7,12 days,Reusable,Biodegradable Pouch,1.1,20 days,8 months
+Pen,Stationery,Solid,Plastic Bottle,4.5,9 days,450 years,Jute Bag,0.8,20 days,1 year,Compostable Net Bag,0.9,17 days,6 months,Paper Tray,1.2,4 days,4 months
+Bread,Bakery,Solid,Plastic Packet,3.5,3 days,500 years,Compostable Net Bag,0.9,9 days,6 months,Biodegradable Pouch,1.1,19 days,8 months,Jute Bag,0.8,20 days,1 year
+Apple,Fruits,Solid,Plastic Bottle,4.5,6 days,450 years,Glass Bottle,1.2,4 days,Reusable,Plant-based Bottle,1.3,20 days,2 years,Jute Bag,0.8,7 days,1 year
+Apple,Fruits,Solid,Plastic Bottle,4.5,10 days,450 years,Compostable Net Bag,0.9,8 days,6 months,Glass Bottle,1.2,5 days,Reusable,Paper Tray,1.2,15 days,4 months
+Banana,Fruits,Solid,Styrofoam Box,4,13 days,500 years,Biodegradable Pouch,1.1,9 days,8 months,Paper Tray,1.2,19 days,4 months,Reusable Cloth Bag,0.7,17 days,Reusable
+Book,Stationery,Solid,Styrofoam Box,4,6 days,500 years,Biodegradable Pouch,1.1,13 days,8 months,Plant-based Bottle,1.3,10 days,2 years,Recyclable Cardboard Box,1,9 days,6 months
+Bread,Bakery,Solid,Plastic Bottle,4.5,3 days,450 years,Plant-based Bottle,1.3,4 days,2 years,Compostable Net Bag,0.9,6 days,6 months,Recyclable Cardboard Box,1,11 days,6 months
+Banana,Fruits,Solid,PVC Packaging,4.2,3 days,450 years,Plant-based Bottle,1.3,18 days,2 years,Compostable Net Bag,0.9,12 days,6 months,Recyclable Cardboard Box,1,20 days,6 months
+Water Bottle,Beverage,Liquid,Plastic Packet,3.5,5 days,500 years,Plant-based Bottle,1.3,9 days,2 years,Steel Container,1,11 days,Reusable,Glass Bottle,1.2,20 days,Reusable
+Apple,Fruits,Solid,Styrofoam Box,4,4 days,500 years,Compostable Net Bag,0.9,7 days,6 months,Jute Bag,0.8,16 days,1 year,Plant-based Bottle,1.3,8 days,2 years
+Soap,Cosmetics,Solid,PVC Packaging,4.2,9 days,450 years,Reusable Cloth Bag,0.7,16 days,Reusable,Jute Bag,0.8,8 days,1 year,Paper Tray,1.2,8 days,4 months
+Orange,Fruits,Solid,Plastic Bottle,4.5,15 days,450 years,Plant-based Bottle,1.3,18 days,2 years,Paper Tray,1.2,11 days,4 months,Glass Bottle,1.2,9 days,Reusable
+Noodles,Snacks,Solid,Styrofoam Box,4,9 days,500 years,Biodegradable Pouch,1.1,5 days,8 months,Plant-based Bottle,1.3,15 days,2 years,Paper Tray,1.2,16 days,4 months
+Rice,Grains,Solid,Aluminium Foil,5,8 days,200 years,Biodegradable Pouch,1.1,7 days,8 months,Steel Container,1,5 days,Reusable,Jute Bag,0.8,9 days,1 year
+Banana,Fruits,Solid,Aluminium Foil,5,6 days,200 years,Biodegradable Pouch,1.1,17 days,8 months,Glass Bottle,1.2,12 days,Reusable,Steel Container,1,18 days,Reusable
+Carrot,Vegetable,Solid,Styrofoam Box,4,14 days,500 years,Jute Bag,0.8,4 days,1 year,Reusable Cloth Bag,0.7,18 days,Reusable,Plant-based Bottle,1.3,20 days,2 years
+Biscuits,Bakery,Solid,Aluminium Foil,5,12 days,200 years,Glass Bottle,1.2,8 days,Reusable,Jute Bag,0.8,20 days,1 year,Steel Container,1,19 days,Reusable
+Biscuits,Bakery,Solid,Aluminium Foil,5,13 days,200 years,Paper Tray,1.2,6 days,4 months,Glass Bottle,1.2,9 days,Reusable,Reusable Cloth Bag,0.7,19 days,Reusable
+Banana,Fruits,Solid,Plastic Packet,3.5,4 days,500 years,Biodegradable Pouch,1.1,11 days,8 months,Steel Container,1,10 days,Reusable,Glass Bottle,1.2,18 days,Reusable
+Tomato,Vegetable,Solid,PVC Packaging,4.2,11 days,450 years,Paper Tray,1.2,7 days,4 months,Jute Bag,0.8,15 days,1 year,Steel Container,1,15 days,Reusable
+Wheat Flour,Grains,Solid,Aluminium Foil,5,8 days,200 years,Reusable Cloth Bag,0.7,8 days,Reusable,Jute Bag,0.8,13 days,1 year,Biodegradable Pouch,1.1,12 days,8 months
+Vegetable Oil,Cooking,Liquid,Aluminium Foil,5,10 days,200 years,Steel Container,1,5 days,Reusable,Glass Bottle,1.2,17 days,Reusable,Plant-based Bottle,1.3,18 days,2 years
+Grapes,Fruits,Solid,Plastic Packet,3.5,13 days,500 years,Steel Container,1,20 days,Reusable,Paper Tray,1.2,11 days,4 months,Jute Bag,0.8,4 days,1 year
+Wheat Flour,Grains,Solid,Styrofoam Box,4,14 days,500 years,Plant-based Bottle,1.3,12 days,2 years,Paper Tray,1.2,5 days,4 months,Jute Bag,0.8,20 days,1 year
+Chips,Snacks,Solid,Plastic Bottle,4.5,14 days,450 years,Reusable Cloth Bag,0.7,15 days,Reusable,Plant-based Bottle,1.3,7 days,2 years,Jute Bag,0.8,11 days,1 year
+Carrot,Vegetable,Solid,Plastic Packet,3.5,15 days,500 years,Plant-based Bottle,1.3,11 days,2 years,Steel Container,1,18 days,Reusable,Jute Bag,0.8,12 days,1 year
+Juice,Beverage,Liquid,PVC Packaging,4.2,8 days,450 years,Recyclable Cardboard Box,1,10 days,6 months,Compostable Net Bag,0.9,9 days,6 months,Steel Container,1,15 days,Reusable
+Carrot,Vegetable,Solid,Styrofoam Box,4,7 days,500 years,Jute Bag,0.8,7 days,1 year,Paper Tray,1.2,14 days,4 months,Reusable Cloth Bag,0.7,11 days,Reusable
+Onion,Vegetable,Solid,Aluminium Foil,5,10 days,200 years,Paper Tray,1.2,13 days,4 months,Jute Bag,0.8,8 days,1 year,Glass Bottle,1.2,5 days,Reusable
+Biscuits,Bakery,Solid,Aluminium Foil,5,14 days,200 years,Recyclable Cardboard Box,1,7 days,6 months,Jute Bag,0.8,19 days,1 year,Compostable Net Bag,0.9,17 days,6 months
+Detergent,Cleaning,Powder,Aluminium Foil,5,11 days,200 years,Jute Bag,0.8,8 days,1 year,Steel Container,1,19 days,Reusable,Recyclable Cardboard Box,1,12 days,6 months
+Pen,Stationery,Solid,Styrofoam Box,4,3 days,500 years,Compostable Net Bag,0.9,14 days,6 months,Steel Container,1,15 days,Reusable,Jute Bag,0.8,19 days,1 year
+Pen,Stationery,Solid,Plastic Bottle,4.5,8 days,450 years,Glass Bottle,1.2,20 days,Reusable,Plant-based Bottle,1.3,7 days,2 years,Biodegradable Pouch,1.1,9 days,8 months
+Salt,Cooking,Solid,PVC Packaging,4.2,7 days,450 years,Compostable Net Bag,0.9,19 days,6 months,Biodegradable Pouch,1.1,6 days,8 months,Jute Bag,0.8,12 days,1 year
+Juice,Beverage,Liquid,PVC Packaging,4.2,6 days,450 years,Steel Container,1,9 days,Reusable,Paper Tray,1.2,17 days,4 months,Reusable Cloth Bag,0.7,20 days,Reusable
+Juice,Beverage,Liquid,Styrofoam Box,4,11 days,500 years,Biodegradable Pouch,1.1,10 days,8 months,Glass Bottle,1.2,6 days,Reusable,Paper Tray,1.2,13 days,4 months
+Pen,Stationery,Solid,PVC Packaging,4.2,11 days,450 years,Plant-based Bottle,1.3,20 days,2 years,Jute Bag,0.8,13 days,1 year,Recyclable Cardboard Box,1,6 days,6 months
+Water Bottle,Beverage,Liquid,Styrofoam Box,4,13 days,500 years,Reusable Cloth Bag,0.7,13 days,Reusable,Recyclable Cardboard Box,1,15 days,6 months,Compostable Net Bag,0.9,19 days,6 months
+Juice,Beverage,Liquid,Styrofoam Box,4,6 days,500 years,Jute Bag,0.8,20 days,1 year,Paper Tray,1.2,11 days,4 months,Recyclable Cardboard Box,1,13 days,6 months
+Toothpaste,Cosmetics,Semi-solid,PVC Packaging,4.2,3 days,450 years,Jute Bag,0.8,5 days,1 year,Compostable Net Bag,0.9,10 days,6 months,Reusable Cloth Bag,0.7,9 days,Reusable
+Cucumber,Vegetable,Solid,Aluminium Foil,5,10 days,200 years,Reusable Cloth Bag,0.7,6 days,Reusable,Plant-based Bottle,1.3,5 days,2 years,Glass Bottle,1.2,19 days,Reusable
+Banana,Fruits,Solid,Styrofoam Box,4,9 days,500 years,Reusable Cloth Bag,0.7,18 days,Reusable,Recyclable Cardboard Box,1,10 days,6 months,Steel Container,1,13 days,Reusable
+Grapes,Fruits,Solid,Plastic Bottle,4.5,15 days,450 years,Jute Bag,0.8,11 days,1 year,Compostable Net Bag,0.9,10 days,6 months,Reusable Cloth Bag,0.7,14 days,Reusable
+Detergent,Cleaning,Powder,Plastic Bottle,4.5,15 days,450 years,Paper Tray,1.2,14 days,4 months,Biodegradable Pouch,1.1,12 days,8 months,Compostable Net Bag,0.9,15 days,6 months
+Dish Soap,Cleaning,Liquid,Styrofoam Box,4,14 days,500 years,Plant-based Bottle,1.3,9 days,2 years,Paper Tray,1.2,5 days,4 months,Glass Bottle,1.2,18 days,Reusable
+Carrot,Vegetable,Solid,Plastic Bottle,4.5,15 days,450 years,Compostable Net Bag,0.9,14 days,6 months,Recyclable Cardboard Box,1,18 days,6 months,Reusable Cloth Bag,0.7,13 days,Reusable
+Chips,Snacks,Solid,Plastic Bottle,4.5,9 days,450 years,Glass Bottle,1.2,4 days,Reusable,Recyclable Cardboard Box,1,8 days,6 months,Steel Container,1,10 days,Reusable
+Vegetable Oil,Cooking,Liquid,PVC Packaging,4.2,11 days,450 years,Recyclable Cardboard Box,1,14 days,6 months,Compostable Net Bag,0.9,14 days,6 months,Jute Bag,0.8,14 days,1 year
+Shampoo,Cosmetics,Liquid,PVC Packaging,4.2,9 days,450 years,Plant-based Bottle,1.3,12 days,2 years,Reusable Cloth Bag,0.7,5 days,Reusable,Glass Bottle,1.2,8 days,Reusable
+Vegetable Oil,Cooking,Liquid,Plastic Packet,3.5,15 days,500 years,Paper Tray,1.2,5 days,4 months,Plant-based Bottle,1.3,13 days,2 years,Compostable Net Bag,0.9,12 days,6 months
+Wheat Flour,Grains,Solid,Aluminium Foil,5,5 days,200 years,Jute Bag,0.8,12 days,1 year,Glass Bottle,1.2,18 days,Reusable,Plant-based Bottle,1.3,14 days,2 years
+Water Bottle,Beverage,Liquid,Styrofoam Box,4,7 days,500 years,Reusable Cloth Bag,0.7,11 days,Reusable,Compostable Net Bag,0.9,18 days,6 months,Recyclable Cardboard Box,1,12 days,6 months
+Orange,Fruits,Solid,Styrofoam Box,4,7 days,500 years,Reusable Cloth Bag,0.7,6 days,Reusable,Steel Container,1,4 days,Reusable,Glass Bottle,1.2,9 days,Reusable
+Shirt,Clothing,Solid,PVC Packaging,4.2,3 days,450 years,Reusable Cloth Bag,0.7,8 days,Reusable,Plant-based Bottle,1.3,19 days,2 years,Glass Bottle,1.2,18 days,Reusable
+Orange,Fruits,Solid,PVC Packaging,4.2,12 days,450 years,Recyclable Cardboard Box,1,19 days,6 months,Steel Container,1,19 days,Reusable,Glass Bottle,1.2,9 days,Reusable
+Onion,Vegetable,Solid,PVC Packaging,4.2,6 days,450 years,Jute Bag,0.8,14 days,1 year,Glass Bottle,1.2,5 days,Reusable,Recyclable Cardboard Box,1,20 days,6 months
+Shampoo,Cosmetics,Liquid,Styrofoam Box,4,12 days,500 years,Compostable Net Bag,0.9,8 days,6 months,Jute Bag,0.8,16 days,1 year,Plant-based Bottle,1.3,4 days,2 years
+Wheat Flour,Grains,Solid,Plastic Packet,3.5,12 days,500 years,Reusable Cloth Bag,0.7,4 days,Reusable,Biodegradable Pouch,1.1,18 days,8 months,Steel Container,1,20 days,Reusable
+Rice,Grains,Solid,Plastic Packet,3.5,14 days,500 years,Reusable Cloth Bag,0.7,17 days,Reusable,Jute Bag,0.8,12 days,1 year,Glass Bottle,1.2,14 days,Reusable
+Shirt,Clothing,Solid,Plastic Bottle,4.5,13 days,450 years,Recyclable Cardboard Box,1,19 days,6 months,Glass Bottle,1.2,19 days,Reusable,Reusable Cloth Bag,0.7,13 days,Reusable
+Toothpaste,Cosmetics,Semi-solid,Plastic Bottle,4.5,11 days,450 years,Glass Bottle,1.2,5 days,Reusable,Biodegradable Pouch,1.1,11 days,8 months,Reusable Cloth Bag,0.7,18 days,Reusable
+Shampoo,Cosmetics,Liquid,Plastic Packet,3.5,10 days,500 years,Compostable Net Bag,0.9,10 days,6 months,Reusable Cloth Bag,0.7,19 days,Reusable,Paper Tray,1.2,17 days,4 months
+Grapes,Fruits,Solid,Plastic Bottle,4.5,7 days,450 years,Jute Bag,0.8,10 days,1 year,Biodegradable Pouch,1.1,4 days,8 months,Steel Container,1,16 days,Reusable
+Shoes,Clothing,Solid,PVC Packaging,4.2,8 days,450 years,Glass Bottle,1.2,14 days,Reusable,Paper Tray,1.2,5 days,4 months,Compostable Net Bag,0.9,4 days,6 months
+Milk,Beverage,Liquid,Aluminium Foil,5,3 days,200 years,Compostable Net Bag,0.9,13 days,6 months,Glass Bottle,1.2,17 days,Reusable,Reusable Cloth Bag,0.7,17 days,Reusable
+Grapes,Fruits,Solid,Plastic Bottle,4.5,15 days,450 years,Biodegradable Pouch,1.1,17 days,8 months,Glass Bottle,1.2,10 days,Reusable,Plant-based Bottle,1.3,14 days,2 years
+Soap,Cosmetics,Solid,Aluminium Foil,5,6 days,200 years,Recyclable Cardboard Box,1,6 days,6 months,Paper Tray,1.2,7 days,4 months,Steel Container,1,11 days,Reusable
+Toothpaste,Cosmetics,Semi-solid,Aluminium Foil,5,14 days,200 years,Compostable Net Bag,0.9,19 days,6 months,Jute Bag,0.8,16 days,1 year,Steel Container,1,16 days,Reusable
+Carrot,Vegetable,Solid,Plastic Bottle,4.5,10 days,450 years,Glass Bottle,1.2,14 days,Reusable,Paper Tray,1.2,5 days,4 months,Reusable Cloth Bag,0.7,16 days,Reusable
+Carrot,Vegetable,Solid,Plastic Bottle,4.5,15 days,450 years,Steel Container,1,12 days,Reusable,Plant-based Bottle,1.3,17 days,2 years,Biodegradable Pouch,1.1,6 days,8 months
+Book,Stationery,Solid,Plastic Packet,3.5,4 days,500 years,Steel Container,1,20 days,Reusable,Compostable Net Bag,0.9,16 days,6 months,Plant-based Bottle,1.3,11 days,2 years
+Detergent,Cleaning,Powder,Styrofoam Box,4,15 days,500 years,Compostable Net Bag,0.9,9 days,6 months,Reusable Cloth Bag,0.7,7 days,Reusable,Paper Tray,1.2,10 days,4 months
+Grapes,Fruits,Solid,Styrofoam Box,4,10 days,500 years,Paper Tray,1.2,12 days,4 months,Jute Bag,0.8,6 days,1 year,Compostable Net Bag,0.9,4 days,6 months
+Wheat Flour,Grains,Solid,Plastic Bottle,4.5,12 days,450 years,Paper Tray,1.2,19 days,4 months,Plant-based Bottle,1.3,5 days,2 years,Glass Bottle,1.2,13 days,Reusable
+Shoes,Clothing,Solid,Plastic Packet,3.5,5 days,500 years,Compostable Net Bag,0.9,6 days,6 months,Glass Bottle,1.2,16 days,Reusable,Reusable Cloth Bag,0.7,20 days,Reusable
+Apple,Fruits,Solid,PVC Packaging,4.2,6 days,450 years,Biodegradable Pouch,1.1,6 days,8 months,Compostable Net Bag,0.9,7 days,6 months,Paper Tray,1.2,12 days,4 months
+Noodles,Snacks,Solid,Styrofoam Box,4,3 days,500 years,Glass Bottle,1.2,19 days,Reusable,Biodegradable Pouch,1.1,4 days,8 months,Compostable Net Bag,0.9,8 days,6 months
+Shampoo,Cosmetics,Liquid,Plastic Packet,3.5,8 days,500 years,Plant-based Bottle,1.3,20 days,2 years,Recyclable Cardboard Box,1,10 days,6 months,Jute Bag,0.8,7 days,1 year
+Wheat Flour,Grains,Solid,Plastic Packet,3.5,5 days,500 years,Paper Tray,1.2,11 days,4 months,Recyclable Cardboard Box,1,9 days,6 months,Reusable Cloth Bag,0.7,13 days,Reusable
+Dish Soap,Cleaning,Liquid,Plastic Bottle,4.5,13 days,450 years,Reusable Cloth Bag,0.7,10 days,Reusable,Biodegradable Pouch,1.1,20 days,8 months,Compostable Net Bag,0.9,4 days,6 months
+Toothpaste,Cosmetics,Semi-solid,Aluminium Foil,5,3 days,200 years,Biodegradable Pouch,1.1,6 days,8 months,Steel Container,1,8 days,Reusable,Reusable Cloth Bag,0.7,7 days,Reusable
+Water Bottle,Beverage,Liquid,Plastic Packet,3.5,9 days,500 years,Paper Tray,1.2,4 days,4 months,Reusable Cloth Bag,0.7,14 days,Reusable,Plant-based Bottle,1.3,8 days,2 years
+Toothpaste,Cosmetics,Semi-solid,Aluminium Foil,5,10 days,200 years,Steel Container,1,17 days,Reusable,Plant-based Bottle,1.3,20 days,2 years,Paper Tray,1.2,16 days,4 months
+Potato,Vegetable,Solid,Plastic Bottle,4.5,15 days,450 years,Recyclable Cardboard Box,1,20 days,6 months,Jute Bag,0.8,4 days,1 year,Glass Bottle,1.2,11 days,Reusable
+Lentils,Grains,Solid,Plastic Bottle,4.5,12 days,450 years,Steel Container,1,15 days,Reusable,Compostable Net Bag,0.9,12 days,6 months,Paper Tray,1.2,18 days,4 months
+Onion,Vegetable,Solid,Aluminium Foil,5,5 days,200 years,Jute Bag,0.8,7 days,1 year,Biodegradable Pouch,1.1,7 days,8 months,Paper Tray,1.2,19 days,4 months
+Orange,Fruits,Solid,Aluminium Foil,5,13 days,200 years,Steel Container,1,10 days,Reusable,Recyclable Cardboard Box,1,14 days,6 months,Jute Bag,0.8,16 days,1 year
+Lentils,Grains,Solid,PVC Packaging,4.2,14 days,450 years,Recyclable Cardboard Box,1,16 days,6 months,Glass Bottle,1.2,18 days,Reusable,Biodegradable Pouch,1.1,12 days,8 months
+Orange,Fruits,Solid,Styrofoam Box,4,5 days,500 years,Plant-based Bottle,1.3,6 days,2 years,Compostable Net Bag,0.9,12 days,6 months,Jute Bag,0.8,18 days,1 year
+Book,Stationery,Solid,PVC Packaging,4.2,6 days,450 years,Steel Container,1,13 days,Reusable,Glass Bottle,1.2,9 days,Reusable,Reusable Cloth Bag,0.7,13 days,Reusable
+Toothpaste,Cosmetics,Semi-solid,Styrofoam Box,4,6 days,500 years,Jute Bag,0.8,7 days,1 year,Biodegradable Pouch,1.1,9 days,8 months,Paper Tray,1.2,17 days,4 months
+Shampoo,Cosmetics,Liquid,Aluminium Foil,5,3 days,200 years,Biodegradable Pouch,1.1,5 days,8 months,Compostable Net Bag,0.9,19 days,6 months,Paper Tray,1.2,16 days,4 months
+Soap,Cosmetics,Solid,PVC Packaging,4.2,3 days,450 years,Compostable Net Bag,0.9,11 days,6 months,Plant-based Bottle,1.3,10 days,2 years,Paper Tray,1.2,20 days,4 months
+Cucumber,Vegetable,Solid,Styrofoam Box,4,8 days,500 years,Steel Container,1,7 days,Reusable,Biodegradable Pouch,1.1,15 days,8 months,Glass Bottle,1.2,17 days,Reusable
+Apple,Fruits,Solid,Plastic Bottle,4.5,15 days,450 years,Glass Bottle,1.2,19 days,Reusable,Plant-based Bottle,1.3,17 days,2 years,Biodegradable Pouch,1.1,4 days,8 months
+Banana,Fruits,Solid,Aluminium Foil,5,8 days,200 years,Reusable Cloth Bag,0.7,8 days,Reusable,Biodegradable Pouch,1.1,11 days,8 months,Compostable Net Bag,0.9,11 days,6 months
+Sugar,Cooking,Solid,Plastic Packet,3.5,10 days,500 years,Biodegradable Pouch,1.1,7 days,8 months,Plant-based Bottle,1.3,19 days,2 years,Recyclable Cardboard Box,1,18 days,6 months
+Shirt,Clothing,Solid,Plastic Bottle,4.5,4 days,450 years,Jute Bag,0.8,12 days,1 year,Paper Tray,1.2,12 days,4 months,Biodegradable Pouch,1.1,7 days,8 months
+Detergent,Cleaning,Powder,Plastic Packet,3.5,3 days,500 years,Compostable Net Bag,0.9,20 days,6 months,Plant-based Bottle,1.3,8 days,2 years,Reusable Cloth Bag,0.7,19 days,Reusable
+Pen,Stationery,Solid,Plastic Packet,3.5,9 days,500 years,Paper Tray,1.2,6 days,4 months,Reusable Cloth Bag,0.7,11 days,Reusable,Biodegradable Pouch,1.1,7 days,8 months
+Noodles,Snacks,Solid,Plastic Packet,3.5,12 days,500 years,Paper Tray,1.2,8 days,4 months,Plant-based Bottle,1.3,13 days,2 years,Recyclable Cardboard Box,1,17 days,6 months
+Noodles,Snacks,Solid,Styrofoam Box,4,3 days,500 years,Paper Tray,1.2,18 days,4 months,Biodegradable Pouch,1.1,14 days,8 months,Steel Container,1,13 days,Reusable
+Pen,Stationery,Solid,PVC Packaging,4.2,8 days,450 years,Biodegradable Pouch,1.1,11 days,8 months,Steel Container,1,11 days,Reusable,Recyclable Cardboard Box,1,11 days,6 months
+Wheat Flour,Grains,Solid,Plastic Bottle,4.5,6 days,450 years,Reusable Cloth Bag,0.7,8 days,Reusable,Paper Tray,1.2,13 days,4 months,Compostable Net Bag,0.9,4 days,6 months
+Shoes,Clothing,Solid,PVC Packaging,4.2,14 days,450 years,Jute Bag,0.8,15 days,1 year,Glass Bottle,1.2,8 days,Reusable,Recyclable Cardboard Box,1,11 days,6 months
+Dish Soap,Cleaning,Liquid,Plastic Packet,3.5,13 days,500 years,Jute Bag,0.8,5 days,1 year,Steel Container,1,4 days,Reusable,Glass Bottle,1.2,4 days,Reusable
+Chips,Snacks,Solid,Plastic Packet,3.5,5 days,500 years,Reusable Cloth Bag,0.7,17 days,Reusable,Compostable Net Bag,0.9,15 days,6 months,Paper Tray,1.2,20 days,4 months
+Rice,Grains,Solid,PVC Packaging,4.2,3 days,450 years,Reusable Cloth Bag,0.7,7 days,Reusable,Paper Tray,1.2,10 days,4 months,Glass Bottle,1.2,17 days,Reusable
+Noodles,Snacks,Solid,Styrofoam Box,4,4 days,500 years,Reusable Cloth Bag,0.7,11 days,Reusable,Compostable Net Bag,0.9,11 days,6 months,Jute Bag,0.8,6 days,1 year
+Sugar,Cooking,Solid,Styrofoam Box,4,3 days,500 years,Glass Bottle,1.2,15 days,Reusable,Reusable Cloth Bag,0.7,10 days,Reusable,Jute Bag,0.8,16 days,1 year
+Bread,Bakery,Solid,PVC Packaging,4.2,8 days,450 years,Plant-based Bottle,1.3,12 days,2 years,Reusable Cloth Bag,0.7,7 days,Reusable,Steel Container,1,8 days,Reusable
+Juice,Beverage,Liquid,Aluminium Foil,5,7 days,200 years,Biodegradable Pouch,1.1,10 days,8 months,Recyclable Cardboard Box,1,20 days,6 months,Steel Container,1,16 days,Reusable
+Sugar,Cooking,Solid,Plastic Bottle,4.5,15 days,450 years,Reusable Cloth Bag,0.7,20 days,Reusable,Recyclable Cardboard Box,1,7 days,6 months,Plant-based Bottle,1.3,16 days,2 years
+Lentils,Grains,Solid,Plastic Packet,3.5,3 days,500 years,Compostable Net Bag,0.9,7 days,6 months,Reusable Cloth Bag,0.7,19 days,Reusable,Glass Bottle,1.2,10 days,Reusable
+Shirt,Clothing,Solid,Styrofoam Box,4,14 days,500 years,Compostable Net Bag,0.9,4 days,6 months,Glass Bottle,1.2,14 days,Reusable,Jute Bag,0.8,15 days,1 year
+Carrot,Vegetable,Solid,Plastic Packet,3.5,13 days,500 years,Glass Bottle,1.2,16 days,Reusable,Compostable Net Bag,0.9,17 days,6 months,Plant-based Bottle,1.3,9 days,2 years
+Onion,Vegetable,Solid,Styrofoam Box,4,11 days,500 years,Reusable Cloth Bag,0.7,6 days,Reusable,Compostable Net Bag,0.9,7 days,6 months,Plant-based Bottle,1.3,4 days,2 years
+Orange,Fruits,Solid,PVC Packaging,4.2,6 days,450 years,Biodegradable Pouch,1.1,11 days,8 months,Plant-based Bottle,1.3,13 days,2 years,Compostable Net Bag,0.9,6 days,6 months
+Banana,Fruits,Solid,Aluminium Foil,5,8 days,200 years,Reusable Cloth Bag,0.7,8 days,Reusable,Biodegradable Pouch,1.1,16 days,8 months,Glass Bottle,1.2,19 days,Reusable
+Toothpaste,Cosmetics,Semi-solid,Plastic Packet,3.5,12 days,500 years,Steel Container,1,7 days,Reusable,Plant-based Bottle,1.3,15 days,2 years,Paper Tray,1.2,7 days,4 months
+Chips,Snacks,Solid,PVC Packaging,4.2,15 days,450 years,Biodegradable Pouch,1.1,7 days,8 months,Plant-based Bottle,1.3,6 days,2 years,Recyclable Cardboard Box,1,6 days,6 months
+Biscuits,Bakery,Solid,Styrofoam Box,4,12 days,500 years,Glass Bottle,1.2,11 days,Reusable,Steel Container,1,9 days,Reusable,Plant-based Bottle,1.3,11 days,2 years
+Apple,Fruits,Solid,Aluminium Foil,5,6 days,200 years,Glass Bottle,1.2,5 days,Reusable,Compostable Net Bag,0.9,7 days,6 months,Plant-based Bottle,1.3,6 days,2 years
+Biscuits,Bakery,Solid,Plastic Bottle,4.5,13 days,450 years,Compostable Net Bag,0.9,8 days,6 months,Plant-based Bottle,1.3,20 days,2 years,Jute Bag,0.8,17 days,1 year
+Rice,Grains,Solid,Plastic Packet,3.5,8 days,500 years,Recyclable Cardboard Box,1,17 days,6 months,Reusable Cloth Bag,0.7,9 days,Reusable,Biodegradable Pouch,1.1,19 days,8 months
+Potato,Vegetable,Solid,PVC Packaging,4.2,15 days,450 years,Plant-based Bottle,1.3,6 days,2 years,Biodegradable Pouch,1.1,17 days,8 months,Reusable Cloth Bag,0.7,19 days,Reusable
+Sugar,Cooking,Solid,Plastic Bottle,4.5,6 days,450 years,Biodegradable Pouch,1.1,11 days,8 months,Paper Tray,1.2,14 days,4 months,Steel Container,1,12 days,Reusable
+Onion,Vegetable,Solid,Plastic Bottle,4.5,6 days,450 years,Jute Bag,0.8,18 days,1 year,Recyclable Cardboard Box,1,19 days,6 months,Compostable Net Bag,0.9,9 days,6 months
+Tomato,Vegetable,Solid,Aluminium Foil,5,8 days,200 years,Paper Tray,1.2,20 days,4 months,Plant-based Bottle,1.3,16 days,2 years,Jute Bag,0.8,11 days,1 year
+Shampoo,Cosmetics,Liquid,Plastic Bottle,4.5,12 days,450 years,Glass Bottle,1.2,9 days,Reusable,Biodegradable Pouch,1.1,12 days,8 months,Recyclable Cardboard Box,1,15 days,6 months
+Milk,Beverage,Liquid,Plastic Bottle,4.5,4 days,450 years,Paper Tray,1.2,9 days,4 months,Jute Bag,0.8,17 days,1 year,Compostable Net Bag,0.9,5 days,6 months
+Book,Stationery,Solid,Aluminium Foil,5,6 days,200 years,Jute Bag,0.8,18 days,1 year,Recyclable Cardboard Box,1,18 days,6 months,Plant-based Bottle,1.3,11 days,2 years
+Tomato,Vegetable,Solid,Plastic Bottle,4.5,5 days,450 years,Steel Container,1,9 days,Reusable,Reusable Cloth Bag,0.7,6 days,Reusable,Paper Tray,1.2,19 days,4 months
+Potato,Vegetable,Solid,Aluminium Foil,5,11 days,200 years,Plant-based Bottle,1.3,15 days,2 years,Recyclable Cardboard Box,1,10 days,6 months,Compostable Net Bag,0.9,20 days,6 months
+Vegetable Oil,Cooking,Liquid,Aluminium Foil,5,7 days,200 years,Recyclable Cardboard Box,1,18 days,6 months,Plant-based Bottle,1.3,7 days,2 years,Compostable Net Bag,0.9,15 days,6 months
+Lentils,Grains,Solid,Aluminium Foil,5,5 days,200 years,Reusable Cloth Bag,0.7,17 days,Reusable,Plant-based Bottle,1.3,4 days,2 years,Paper Tray,1.2,15 days,4 months
+Book,Stationery,Solid,PVC Packaging,4.2,14 days,450 years,Paper Tray,1.2,13 days,4 months,Glass Bottle,1.2,4 days,Reusable,Plant-based Bottle,1.3,18 days,2 years
+Onion,Vegetable,Solid,PVC Packaging,4.2,15 days,450 years,Plant-based Bottle,1.3,7 days,2 years,Glass Bottle,1.2,4 days,Reusable,Jute Bag,0.8,20 days,1 year
+Tomato,Vegetable,Solid,Plastic Bottle,4.5,6 days,450 years,Reusable Cloth Bag,0.7,12 days,Reusable,Steel Container,1,6 days,Reusable,Glass Bottle,1.2,10 days,Reusable
+Juice,Beverage,Liquid,Styrofoam Box,4,3 days,500 years,Steel Container,1,19 days,Reusable,Recyclable Cardboard Box,1,18 days,6 months,Plant-based Bottle,1.3,7 days,2 years
+Water Bottle,Beverage,Liquid,PVC Packaging,4.2,13 days,450 years,Paper Tray,1.2,7 days,4 months,Recyclable Cardboard Box,1,6 days,6 months,Compostable Net Bag,0.9,15 days,6 months
+Bread,Bakery,Solid,Styrofoam Box,4,11 days,500 years,Paper Tray,1.2,13 days,4 months,Compostable Net Bag,0.9,15 days,6 months,Glass Bottle,1.2,4 days,Reusable
+Cucumber,Vegetable,Solid,Plastic Bottle,4.5,15 days,450 years,Compostable Net Bag,0.9,11 days,6 months,Glass Bottle,1.2,20 days,Reusable,Recyclable Cardboard Box,1,11 days,6 months
+Juice,Beverage,Liquid,Plastic Bottle,4.5,15 days,450 years,Recyclable Cardboard Box,1,11 days,6 months,Reusable Cloth Bag,0.7,8 days,Reusable,Steel Container,1,19 days,Reusable
+Book,Stationery,Solid,Aluminium Foil,5,9 days,200 years,Plant-based Bottle,1.3,20 days,2 years,Recyclable Cardboard Box,1,18 days,6 months,Steel Container,1,8 days,Reusable
+Orange,Fruits,Solid,Aluminium Foil,5,5 days,200 years,Recyclable Cardboard Box,1,12 days,6 months,Paper Tray,1.2,7 days,4 months,Steel Container,1,19 days,Reusable
+Apple,Fruits,Solid,PVC Packaging,4.2,12 days,450 years,Biodegradable Pouch,1.1,4 days,8 months,Plant-based Bottle,1.3,6 days,2 years,Paper Tray,1.2,10 days,4 months
+Water Bottle,Beverage,Liquid,Plastic Packet,3.5,12 days,500 years,Paper Tray,1.2,16 days,4 months,Steel Container,1,20 days,Reusable,Glass Bottle,1.2,13 days,Reusable
+Tomato,Vegetable,Solid,Plastic Packet,3.5,13 days,500 years,Recyclable Cardboard Box,1,13 days,6 months,Glass Bottle,1.2,8 days,Reusable,Plant-based Bottle,1.3,12 days,2 years
+Vegetable Oil,Cooking,Liquid,PVC Packaging,4.2,3 days,450 years,Plant-based Bottle,1.3,7 days,2 years,Jute Bag,0.8,20 days,1 year,Reusable Cloth Bag,0.7,16 days,Reusable
+Soap,Cosmetics,Solid,Plastic Bottle,4.5,13 days,450 years,Compostable Net Bag,0.9,17 days,6 months,Recyclable Cardboard Box,1,9 days,6 months,Steel Container,1,8 days,Reusable
+Vegetable Oil,Cooking,Liquid,Plastic Packet,3.5,7 days,500 years,Jute Bag,0.8,11 days,1 year,Paper Tray,1.2,19 days,4 months,Glass Bottle,1.2,4 days,Reusable
+Shirt,Clothing,Solid,Plastic Packet,3.5,4 days,500 years,Plant-based Bottle,1.3,12 days,2 years,Steel Container,1,4 days,Reusable,Jute Bag,0.8,17 days,1 year
+Milk,Beverage,Liquid,Plastic Packet,3.5,13 days,500 years,Plant-based Bottle,1.3,4 days,2 years,Biodegradable Pouch,1.1,4 days,8 months,Jute Bag,0.8,10 days,1 year
+Water Bottle,Beverage,Liquid,Styrofoam Box,4,14 days,500 years,Plant-based Bottle,1.3,13 days,2 years,Reusable Cloth Bag,0.7,16 days,Reusable,Paper Tray,1.2,18 days,4 months
+Water Bottle,Beverage,Liquid,PVC Packaging,4.2,8 days,450 years,Paper Tray,1.2,19 days,4 months,Plant-based Bottle,1.3,4 days,2 years,Reusable Cloth Bag,0.7,8 days,Reusable
+Vegetable Oil,Cooking,Liquid,Aluminium Foil,5,14 days,200 years,Compostable Net Bag,0.9,18 days,6 months,Recyclable Cardboard Box,1,5 days,6 months,Glass Bottle,1.2,14 days,Reusable
+Book,Stationery,Solid,Aluminium Foil,5,12 days,200 years,Jute Bag,0.8,10 days,1 year,Compostable Net Bag,0.9,18 days,6 months,Reusable Cloth Bag,0.7,19 days,Reusable
+Bread,Bakery,Solid,Plastic Bottle,4.5,5 days,450 years,Compostable Net Bag,0.9,7 days,6 months,Plant-based Bottle,1.3,17 days,2 years,Reusable Cloth Bag,0.7,18 days,Reusable
+Grapes,Fruits,Solid,Aluminium Foil,5,5 days,200 years,Plant-based Bottle,1.3,14 days,2 years,Biodegradable Pouch,1.1,16 days,8 months,Steel Container,1,10 days,Reusable
+Bread,Bakery,Solid,Plastic Packet,3.5,15 days,500 years,Paper Tray,1.2,18 days,4 months,Biodegradable Pouch,1.1,4 days,8 months,Plant-based Bottle,1.3,12 days,2 years
+Orange,Fruits,Solid,Plastic Bottle,4.5,12 days,450 years,Recyclable Cardboard Box,1,12 days,6 months,Biodegradable Pouch,1.1,11 days,8 months,Jute Bag,0.8,7 days,1 year
+Pen,Stationery,Solid,Plastic Bottle,4.5,10 days,450 years,Recyclable Cardboard Box,1,18 days,6 months,Compostable Net Bag,0.9,12 days,6 months,Glass Bottle,1.2,12 days,Reusable
+Shampoo,Cosmetics,Liquid,Aluminium Foil,5,3 days,200 years,Biodegradable Pouch,1.1,15 days,8 months,Steel Container,1,8 days,Reusable,Jute Bag,0.8,14 days,1 year
+Detergent,Cleaning,Powder,PVC Packaging,4.2,4 days,450 years,Plant-based Bottle,1.3,5 days,2 years,Biodegradable Pouch,1.1,12 days,8 months,Glass Bottle,1.2,10 days,Reusable
+Juice,Beverage,Liquid,Plastic Packet,3.5,3 days,500 years,Reusable Cloth Bag,0.7,10 days,Reusable,Recyclable Cardboard Box,1,17 days,6 months,Steel Container,1,10 days,Reusable
+Soap,Cosmetics,Solid,Styrofoam Box,4,11 days,500 years,Reusable Cloth Bag,0.7,18 days,Reusable,Recyclable Cardboard Box,1,18 days,6 months,Jute Bag,0.8,20 days,1 year
+Soap,Cosmetics,Solid,Aluminium Foil,5,3 days,200 years,Plant-based Bottle,1.3,13 days,2 years,Recyclable Cardboard Box,1,19 days,6 months,Steel Container,1,16 days,Reusable
+Chips,Snacks,Solid,Plastic Bottle,4.5,13 days,450 years,Jute Bag,0.8,20 days,1 year,Steel Container,1,11 days,Reusable,Recyclable Cardboard Box,1,6 days,6 months
+Apple,Fruits,Solid,PVC Packaging,4.2,11 days,450 years,Biodegradable Pouch,1.1,9 days,8 months,Paper Tray,1.2,12 days,4 months,Steel Container,1,7 days,Reusable
+Vegetable Oil,Cooking,Liquid,Styrofoam Box,4,15 days,500 years,Recyclable Cardboard Box,1,11 days,6 months,Glass Bottle,1.2,16 days,Reusable,Biodegradable Pouch,1.1,13 days,8 months
+Lentils,Grains,Solid,Plastic Packet,3.5,5 days,500 years,Plant-based Bottle,1.3,8 days,2 years,Paper Tray,1.2,11 days,4 months,Biodegradable Pouch,1.1,15 days,8 months
+Onion,Vegetable,Solid,Styrofoam Box,4,5 days,500 years,Compostable Net Bag,0.9,11 days,6 months,Recyclable Cardboard Box,1,12 days,6 months,Steel Container,1,10 days,Reusable
+Biscuits,Bakery,Solid,Plastic Packet,3.5,15 days,500 years,Plant-based Bottle,1.3,7 days,2 years,Reusable Cloth Bag,0.7,13 days,Reusable,Biodegradable Pouch,1.1,4 days,8 months
+Noodles,Snacks,Solid,PVC Packaging,4.2,13 days,450 years,Glass Bottle,1.2,18 days,Reusable,Plant-based Bottle,1.3,17 days,2 years,Recyclable Cardboard Box,1,5 days,6 months
+Lentils,Grains,Solid,Aluminium Foil,5,5 days,200 years,Jute Bag,0.8,10 days,1 year,Plant-based Bottle,1.3,9 days,2 years,Reusable Cloth Bag,0.7,13 days,Reusable
+Vegetable Oil,Cooking,Liquid,Aluminium Foil,5,14 days,200 years,Recyclable Cardboard Box,1,20 days,6 months,Jute Bag,0.8,17 days,1 year,Steel Container,1,13 days,Reusable
+Shoes,Clothing,Solid,Styrofoam Box,4,9 days,500 years,Plant-based Bottle,1.3,17 days,2 years,Reusable Cloth Bag,0.7,9 days,Reusable,Biodegradable Pouch,1.1,16 days,8 months
+Chips,Snacks,Solid,Plastic Bottle,4.5,7 days,450 years,Biodegradable Pouch,1.1,20 days,8 months,Glass Bottle,1.2,15 days,Reusable,Jute Bag,0.8,13 days,1 year
+Grapes,Fruits,Solid,Styrofoam Box,4,12 days,500 years,Jute Bag,0.8,17 days,1 year,Plant-based Bottle,1.3,13 days,2 years,Paper Tray,1.2,17 days,4 months
+Chips,Snacks,Solid,PVC Packaging,4.2,5 days,450 years,Steel Container,1,9 days,Reusable,Biodegradable Pouch,1.1,15 days,8 months,Reusable Cloth Bag,0.7,20 days,Reusable
+Dish Soap,Cleaning,Liquid,PVC Packaging,4.2,8 days,450 years,Steel Container,1,16 days,Reusable,Reusable Cloth Bag,0.7,17 days,Reusable,Glass Bottle,1.2,5 days,Reusable
+Shoes,Clothing,Solid,PVC Packaging,4.2,6 days,450 years,Paper Tray,1.2,16 days,4 months,Glass Bottle,1.2,6 days,Reusable,Biodegradable Pouch,1.1,12 days,8 months
+Cucumber,Vegetable,Solid,Aluminium Foil,5,13 days,200 years,Recyclable Cardboard Box,1,13 days,6 months,Paper Tray,1.2,16 days,4 months,Compostable Net Bag,0.9,20 days,6 months
+Carrot,Vegetable,Solid,Plastic Bottle,4.5,4 days,450 years,Jute Bag,0.8,9 days,1 year,Reusable Cloth Bag,0.7,12 days,Reusable,Biodegradable Pouch,1.1,8 days,8 months
+Bread,Bakery,Solid,Styrofoam Box,4,7 days,500 years,Paper Tray,1.2,16 days,4 months,Biodegradable Pouch,1.1,14 days,8 months,Jute Bag,0.8,9 days,1 year
+Pen,Stationery,Solid,Plastic Bottle,4.5,14 days,450 years,Steel Container,1,14 days,Reusable,Recyclable Cardboard Box,1,19 days,6 months,Jute Bag,0.8,16 days,1 year
+Cucumber,Vegetable,Solid,PVC Packaging,4.2,6 days,450 years,Plant-based Bottle,1.3,11 days,2 years,Paper Tray,1.2,12 days,4 months,Reusable Cloth Bag,0.7,19 days,Reusable
+Water Bottle,Beverage,Liquid,Plastic Packet,3.5,14 days,500 years,Glass Bottle,1.2,11 days,Reusable,Recyclable Cardboard Box,1,15 days,6 months,Steel Container,1,6 days,Reusable
+Cucumber,Vegetable,Solid,Styrofoam Box,4,15 days,500 years,Biodegradable Pouch,1.1,15 days,8 months,Reusable Cloth Bag,0.7,10 days,Reusable,Paper Tray,1.2,18 days,4 months
+Pen,Stationery,Solid,Plastic Bottle,4.5,13 days,450 years,Steel Container,1,15 days,Reusable,Recyclable Cardboard Box,1,6 days,6 months,Biodegradable Pouch,1.1,4 days,8 months
+Dish Soap,Cleaning,Liquid,Plastic Bottle,4.5,10 days,450 years,Steel Container,1,9 days,Reusable,Reusable Cloth Bag,0.7,20 days,Reusable,Jute Bag,0.8,20 days,1 year
+Bread,Bakery,Solid,Styrofoam Box,4,4 days,500 years,Compostable Net Bag,0.9,12 days,6 months,Jute Bag,0.8,14 days,1 year,Recyclable Cardboard Box,1,6 days,6 months
+Soap,Cosmetics,Solid,Aluminium Foil,5,3 days,200 years,Plant-based Bottle,1.3,9 days,2 years,Paper Tray,1.2,7 days,4 months,Compostable Net Bag,0.9,9 days,6 months
+Milk,Beverage,Liquid,Aluminium Foil,5,3 days,200 years,Paper Tray,1.2,13 days,4 months,Plant-based Bottle,1.3,15 days,2 years,Recyclable Cardboard Box,1,7 days,6 months
+Chips,Snacks,Solid,Styrofoam Box,4,14 days,500 years,Jute Bag,0.8,8 days,1 year,Recyclable Cardboard Box,1,15 days,6 months,Glass Bottle,1.2,11 days,Reusable
+Potato,Vegetable,Solid,Plastic Packet,3.5,6 days,500 years,Jute Bag,0.8,12 days,1 year,Recyclable Cardboard Box,1,13 days,6 months,Compostable Net Bag,0.9,8 days,6 months
+Pen,Stationery,Solid,Plastic Bottle,4.5,4 days,450 years,Glass Bottle,1.2,8 days,Reusable,Jute Bag,0.8,12 days,1 year,Recyclable Cardboard Box,1,10 days,6 months
+Toothpaste,Cosmetics,Semi-solid,PVC Packaging,4.2,3 days,450 years,Reusable Cloth Bag,0.7,6 days,Reusable,Biodegradable Pouch,1.1,8 days,8 months,Glass Bottle,1.2,4 days,Reusable
+Shampoo,Cosmetics,Liquid,Aluminium Foil,5,8 days,200 years,Biodegradable Pouch,1.1,11 days,8 months,Recyclable Cardboard Box,1,12 days,6 months,Jute Bag,0.8,17 days,1 year
+Detergent,Cleaning,Powder,PVC Packaging,4.2,6 days,450 years,Compostable Net Bag,0.9,12 days,6 months,Glass Bottle,1.2,8 days,Reusable,Paper Tray,1.2,4 days,4 months
+Sugar,Cooking,Solid,Plastic Packet,3.5,7 days,500 years,Plant-based Bottle,1.3,5 days,2 years,Biodegradable Pouch,1.1,19 days,8 months,Jute Bag,0.8,17 days,1 year
+Toothpaste,Cosmetics,Semi-solid,Styrofoam Box,4,14 days,500 years,Jute Bag,0.8,15 days,1 year,Paper Tray,1.2,13 days,4 months,Steel Container,1,7 days,Reusable
+Pen,Stationery,Solid,PVC Packaging,4.2,3 days,450 years,Compostable Net Bag,0.9,13 days,6 months,Recyclable Cardboard Box,1,7 days,6 months,Glass Bottle,1.2,8 days,Reusable
+Potato,Vegetable,Solid,Plastic Bottle,4.5,3 days,450 years,Jute Bag,0.8,15 days,1 year,Plant-based Bottle,1.3,15 days,2 years,Paper Tray,1.2,8 days,4 months
+Salt,Cooking,Solid,PVC Packaging,4.2,13 days,450 years,Jute Bag,0.8,19 days,1 year,Reusable Cloth Bag,0.7,12 days,Reusable,Recyclable Cardboard Box,1,20 days,6 months
+Book,Stationery,Solid,Plastic Packet,3.5,15 days,500 years,Steel Container,1,12 days,Reusable,Glass Bottle,1.2,4 days,Reusable,Plant-based Bottle,1.3,7 days,2 years
+Potato,Vegetable,Solid,Aluminium Foil,5,11 days,200 years,Plant-based Bottle,1.3,17 days,2 years,Steel Container,1,17 days,Reusable,Recyclable Cardboard Box,1,7 days,6 months
+Vegetable Oil,Cooking,Liquid,Aluminium Foil,5,5 days,200 years,Reusable Cloth Bag,0.7,18 days,Reusable,Paper Tray,1.2,11 days,4 months,Compostable Net Bag,0.9,19 days,6 months
+Noodles,Snacks,Solid,Plastic Packet,3.5,15 days,500 years,Recyclable Cardboard Box,1,7 days,6 months,Compostable Net Bag,0.9,13 days,6 months,Biodegradable Pouch,1.1,8 days,8 months
+Book,Stationery,Solid,PVC Packaging,4.2,8 days,450 years,Biodegradable Pouch,1.1,13 days,8 months,Recyclable Cardboard Box,1,17 days,6 months,Reusable Cloth Bag,0.7,19 days,Reusable
+Wheat Flour,Grains,Solid,Styrofoam Box,4,7 days,500 years,Paper Tray,1.2,5 days,4 months,Biodegradable Pouch,1.1,4 days,8 months,Plant-based Bottle,1.3,14 days,2 years
+Salt,Cooking,Solid,Plastic Packet,3.5,15 days,500 years,Steel Container,1,10 days,Reusable,Plant-based Bottle,1.3,14 days,2 years,Recyclable Cardboard Box,1,20 days,6 months
+Grapes,Fruits,Solid,Aluminium Foil,5,9 days,200 years,Jute Bag,0.8,4 days,1 year,Plant-based Bottle,1.3,14 days,2 years,Steel Container,1,18 days,Reusable
+Shirt,Clothing,Solid,PVC Packaging,4.2,4 days,450 years,Biodegradable Pouch,1.1,11 days,8 months,Reusable Cloth Bag,0.7,17 days,Reusable,Steel Container,1,12 days,Reusable
+Pen,Stationery,Solid,PVC Packaging,4.2,13 days,450 years,Compostable Net Bag,0.9,4 days,6 months,Biodegradable Pouch,1.1,13 days,8 months,Paper Tray,1.2,19 days,4 months
+Pen,Stationery,Solid,Plastic Packet,3.5,6 days,500 years,Reusable Cloth Bag,0.7,13 days,Reusable,Jute Bag,0.8,20 days,1 year,Compostable Net Bag,0.9,18 days,6 months
+Shoes,Clothing,Solid,Aluminium Foil,5,8 days,200 years,Steel Container,1,13 days,Reusable,Biodegradable Pouch,1.1,7 days,8 months,Reusable Cloth Bag,0.7,9 days,Reusable
+Orange,Fruits,Solid,PVC Packaging,4.2,13 days,450 years,Biodegradable Pouch,1.1,7 days,8 months,Steel Container,1,16 days,Reusable,Compostable Net Bag,0.9,16 days,6 months
+Lentils,Grains,Solid,Plastic Bottle,4.5,13 days,450 years,Reusable Cloth Bag,0.7,15 days,Reusable,Recyclable Cardboard Box,1,15 days,6 months,Paper Tray,1.2,9 days,4 months
+Water Bottle,Beverage,Liquid,Styrofoam Box,4,14 days,500 years,Biodegradable Pouch,1.1,20 days,8 months,Plant-based Bottle,1.3,13 days,2 years,Glass Bottle,1.2,20 days,Reusable
+Milk,Beverage,Liquid,Plastic Packet,3.5,3 days,500 years,Reusable Cloth Bag,0.7,15 days,Reusable,Compostable Net Bag,0.9,15 days,6 months,Jute Bag,0.8,8 days,1 year
+Biscuits,Bakery,Solid,Plastic Packet,3.5,3 days,500 years,Steel Container,1,5 days,Reusable,Plant-based Bottle,1.3,15 days,2 years,Paper Tray,1.2,12 days,4 months
+Milk,Beverage,Liquid,PVC Packaging,4.2,6 days,450 years,Reusable Cloth Bag,0.7,15 days,Reusable,Recyclable Cardboard Box,1,11 days,6 months,Plant-based Bottle,1.3,19 days,2 years
+Salt,Cooking,Solid,Styrofoam Box,4,3 days,500 years,Glass Bottle,1.2,11 days,Reusable,Paper Tray,1.2,17 days,4 months,Jute Bag,0.8,13 days,1 year
+Grapes,Fruits,Solid,Plastic Packet,3.5,7 days,500 years,Reusable Cloth Bag,0.7,14 days,Reusable,Glass Bottle,1.2,12 days,Reusable,Steel Container,1,17 days,Reusable
+Water Bottle,Beverage,Liquid,Plastic Packet,3.5,10 days,500 years,Recyclable Cardboard Box,1,5 days,6 months,Biodegradable Pouch,1.1,6 days,8 months,Plant-based Bottle,1.3,13 days,2 years
+Shampoo,Cosmetics,Liquid,Plastic Bottle,4.5,12 days,450 years,Plant-based Bottle,1.3,17 days,2 years,Compostable Net Bag,0.9,19 days,6 months,Recyclable Cardboard Box,1,10 days,6 months
+Cucumber,Vegetable,Solid,PVC Packaging,4.2,14 days,450 years,Paper Tray,1.2,19 days,4 months,Steel Container,1,11 days,Reusable,Compostable Net Bag,0.9,8 days,6 months
+Sugar,Cooking,Solid,Styrofoam Box,4,4 days,500 years,Glass Bottle,1.2,16 days,Reusable,Plant-based Bottle,1.3,19 days,2 years,Biodegradable Pouch,1.1,12 days,8 months
+Onion,Vegetable,Solid,Styrofoam Box,4,13 days,500 years,Biodegradable Pouch,1.1,18 days,8 months,Compostable Net Bag,0.9,9 days,6 months,Plant-based Bottle,1.3,4 days,2 years
+Water Bottle,Beverage,Liquid,Plastic Bottle,4.5,14 days,450 years,Paper Tray,1.2,15 days,4 months,Glass Bottle,1.2,7 days,Reusable,Jute Bag,0.8,14 days,1 year
+Sugar,Cooking,Solid,PVC Packaging,4.2,5 days,450 years,Plant-based Bottle,1.3,7 days,2 years,Biodegradable Pouch,1.1,17 days,8 months,Recyclable Cardboard Box,1,18 days,6 months
+Potato,Vegetable,Solid,Plastic Bottle,4.5,7 days,450 years,Biodegradable Pouch,1.1,8 days,8 months,Reusable Cloth Bag,0.7,5 days,Reusable,Glass Bottle,1.2,18 days,Reusable
+Vegetable Oil,Cooking,Liquid,Aluminium Foil,5,5 days,200 years,Compostable Net Bag,0.9,15 days,6 months,Paper Tray,1.2,4 days,4 months,Reusable Cloth Bag,0.7,14 days,Reusable
+Noodles,Snacks,Solid,PVC Packaging,4.2,12 days,450 years,Biodegradable Pouch,1.1,20 days,8 months,Steel Container,1,12 days,Reusable,Compostable Net Bag,0.9,8 days,6 months
+Dish Soap,Cleaning,Liquid,Plastic Bottle,4.5,5 days,450 years,Reusable Cloth Bag,0.7,8 days,Reusable,Jute Bag,0.8,5 days,1 year,Biodegradable Pouch,1.1,19 days,8 months
+Grapes,Fruits,Solid,Plastic Packet,3.5,8 days,500 years,Glass Bottle,1.2,15 days,Reusable,Compostable Net Bag,0.9,18 days,6 months,Jute Bag,0.8,7 days,1 year
+Orange,Fruits,Solid,PVC Packaging,4.2,7 days,450 years,Plant-based Bottle,1.3,13 days,2 years,Glass Bottle,1.2,7 days,Reusable,Steel Container,1,15 days,Reusable
+Orange,Fruits,Solid,Styrofoam Box,4,7 days,500 years,Reusable Cloth Bag,0.7,15 days,Reusable,Plant-based Bottle,1.3,17 days,2 years,Paper Tray,1.2,5 days,4 months
+Water Bottle,Beverage,Liquid,PVC Packaging,4.2,13 days,450 years,Reusable Cloth Bag,0.7,5 days,Reusable,Glass Bottle,1.2,7 days,Reusable,Compostable Net Bag,0.9,20 days,6 months
+Grapes,Fruits,Solid,Plastic Packet,3.5,7 days,500 years,Compostable Net Bag,0.9,6 days,6 months,Paper Tray,1.2,20 days,4 months,Biodegradable Pouch,1.1,19 days,8 months
+Biscuits,Bakery,Solid,Aluminium Foil,5,10 days,200 years,Reusable Cloth Bag,0.7,8 days,Reusable,Plant-based Bottle,1.3,7 days,2 years,Paper Tray,1.2,15 days,4 months
+Biscuits,Bakery,Solid,Styrofoam Box,4,9 days,500 years,Glass Bottle,1.2,14 days,Reusable,Compostable Net Bag,0.9,4 days,6 months,Biodegradable Pouch,1.1,19 days,8 months
+Noodles,Snacks,Solid,Aluminium Foil,5,13 days,200 years,Plant-based Bottle,1.3,18 days,2 years,Paper Tray,1.2,19 days,4 months,Jute Bag,0.8,7 days,1 year
+Onion,Vegetable,Solid,Plastic Packet,3.5,8 days,500 years,Compostable Net Bag,0.9,8 days,6 months,Recyclable Cardboard Box,1,17 days,6 months,Jute Bag,0.8,4 days,1 year
+Salt,Cooking,Solid,Aluminium Foil,5,10 days,200 years,Recyclable Cardboard Box,1,12 days,6 months,Biodegradable Pouch,1.1,20 days,8 months,Reusable Cloth Bag,0.7,11 days,Reusable
+Biscuits,Bakery,Solid,PVC Packaging,4.2,4 days,450 years,Biodegradable Pouch,1.1,14 days,8 months,Recyclable Cardboard Box,1,13 days,6 months,Glass Bottle,1.2,18 days,Reusable
+Vegetable Oil,Cooking,Liquid,Plastic Packet,3.5,12 days,500 years,Plant-based Bottle,1.3,13 days,2 years,Glass Bottle,1.2,9 days,Reusable,Steel Container,1,14 days,Reusable
+Book,Stationery,Solid,Plastic Packet,3.5,12 days,500 years,Biodegradable Pouch,1.1,19 days,8 months,Glass Bottle,1.2,6 days,Reusable,Paper Tray,1.2,12 days,4 months
+Dish Soap,Cleaning,Liquid,Aluminium Foil,5,4 days,200 years,Biodegradable Pouch,1.1,14 days,8 months,Paper Tray,1.2,9 days,4 months,Jute Bag,0.8,8 days,1 year
+Soap,Cosmetics,Solid,PVC Packaging,4.2,7 days,450 years,Paper Tray,1.2,20 days,4 months,Steel Container,1,7 days,Reusable,Compostable Net Bag,0.9,20 days,6 months
+Tomato,Vegetable,Solid,PVC Packaging,4.2,6 days,450 years,Jute Bag,0.8,11 days,1 year,Plant-based Bottle,1.3,18 days,2 years,Glass Bottle,1.2,16 days,Reusable
+Banana,Fruits,Solid,Plastic Bottle,4.5,5 days,450 years,Reusable Cloth Bag,0.7,13 days,Reusable,Recyclable Cardboard Box,1,12 days,6 months,Paper Tray,1.2,19 days,4 months
+Shampoo,Cosmetics,Liquid,Plastic Packet,3.5,12 days,500 years,Paper Tray,1.2,20 days,4 months,Jute Bag,0.8,20 days,1 year,Plant-based Bottle,1.3,20 days,2 years
+Sugar,Cooking,Solid,Plastic Bottle,4.5,9 days,450 years,Paper Tray,1.2,9 days,4 months,Plant-based Bottle,1.3,16 days,2 years,Biodegradable Pouch,1.1,14 days,8 months
+Tomato,Vegetable,Solid,PVC Packaging,4.2,12 days,450 years,Recyclable Cardboard Box,1,4 days,6 months,Steel Container,1,13 days,Reusable,Biodegradable Pouch,1.1,13 days,8 months
+Lentils,Grains,Solid,Plastic Bottle,4.5,15 days,450 years,Biodegradable Pouch,1.1,9 days,8 months,Recyclable Cardboard Box,1,19 days,6 months,Compostable Net Bag,0.9,14 days,6 months
+Sugar,Cooking,Solid,Plastic Bottle,4.5,11 days,450 years,Biodegradable Pouch,1.1,11 days,8 months,Plant-based Bottle,1.3,4 days,2 years,Reusable Cloth Bag,0.7,5 days,Reusable
+Grapes,Fruits,Solid,Plastic Bottle,4.5,8 days,450 years,Biodegradable Pouch,1.1,4 days,8 months,Reusable Cloth Bag,0.7,16 days,Reusable,Glass Bottle,1.2,11 days,Reusable
+Rice,Grains,Solid,Aluminium Foil,5,11 days,200 years,Glass Bottle,1.2,11 days,Reusable,Compostable Net Bag,0.9,19 days,6 months,Reusable Cloth Bag,0.7,12 days,Reusable
+Shirt,Clothing,Solid,Styrofoam Box,4,13 days,500 years,Paper Tray,1.2,14 days,4 months,Steel Container,1,16 days,Reusable,Glass Bottle,1.2,6 days,Reusable
+Orange,Fruits,Solid,Styrofoam Box,4,12 days,500 years,Plant-based Bottle,1.3,13 days,2 years,Glass Bottle,1.2,9 days,Reusable,Steel Container,1,12 days,Reusable
+Detergent,Cleaning,Powder,Plastic Bottle,4.5,13 days,450 years,Recyclable Cardboard Box,1,7 days,6 months,Steel Container,1,20 days,Reusable,Glass Bottle,1.2,18 days,Reusable
+Orange,Fruits,Solid,Plastic Packet,3.5,4 days,500 years,Biodegradable Pouch,1.1,12 days,8 months,Paper Tray,1.2,20 days,4 months,Recyclable Cardboard Box,1,14 days,6 months
+Orange,Fruits,Solid,Styrofoam Box,4,11 days,500 years,Glass Bottle,1.2,6 days,Reusable,Reusable Cloth Bag,0.7,14 days,Reusable,Compostable Net Bag,0.9,9 days,6 months
+Soap,Cosmetics,Solid,Plastic Bottle,4.5,3 days,450 years,Plant-based Bottle,1.3,12 days,2 years,Reusable Cloth Bag,0.7,10 days,Reusable,Jute Bag,0.8,7 days,1 year
+Bread,Bakery,Solid,Plastic Packet,3.5,10 days,500 years,Compostable Net Bag,0.9,5 days,6 months,Biodegradable Pouch,1.1,17 days,8 months,Jute Bag,0.8,18 days,1 year
+Shampoo,Cosmetics,Liquid,Plastic Bottle,4.5,4 days,450 years,Steel Container,1,6 days,Reusable,Glass Bottle,1.2,20 days,Reusable,Recyclable Cardboard Box,1,14 days,6 months
+Milk,Beverage,Liquid,Plastic Packet,3.5,8 days,500 years,Reusable Cloth Bag,0.7,8 days,Reusable,Biodegradable Pouch,1.1,9 days,8 months,Compostable Net Bag,0.9,12 days,6 months
+Lentils,Grains,Solid,Styrofoam Box,4,10 days,500 years,Compostable Net Bag,0.9,18 days,6 months,Reusable Cloth Bag,0.7,11 days,Reusable,Glass Bottle,1.2,9 days,Reusable
+Potato,Vegetable,Solid,PVC Packaging,4.2,12 days,450 years,Steel Container,1,18 days,Reusable,Biodegradable Pouch,1.1,18 days,8 months,Jute Bag,0.8,7 days,1 year
+Orange,Fruits,Solid,PVC Packaging,4.2,6 days,450 years,Paper Tray,1.2,19 days,4 months,Compostable Net Bag,0.9,19 days,6 months,Recyclable Cardboard Box,1,17 days,6 months
+Dish Soap,Cleaning,Liquid,Plastic Bottle,4.5,15 days,450 years,Glass Bottle,1.2,17 days,Reusable,Paper Tray,1.2,12 days,4 months,Recyclable Cardboard Box,1,6 days,6 months
+Bread,Bakery,Solid,Styrofoam Box,4,4 days,500 years,Jute Bag,0.8,19 days,1 year,Glass Bottle,1.2,13 days,Reusable,Recyclable Cardboard Box,1,6 days,6 months
+Toothpaste,Cosmetics,Semi-solid,PVC Packaging,4.2,10 days,450 years,Jute Bag,0.8,10 days,1 year,Paper Tray,1.2,6 days,4 months,Glass Bottle,1.2,6 days,Reusable
+Noodles,Snacks,Solid,Aluminium Foil,5,4 days,200 years,Jute Bag,0.8,18 days,1 year,Glass Bottle,1.2,8 days,Reusable,Recyclable Cardboard Box,1,4 days,6 months
+Orange,Fruits,Solid,Styrofoam Box,4,11 days,500 years,Jute Bag,0.8,4 days,1 year,Reusable Cloth Bag,0.7,9 days,Reusable,Glass Bottle,1.2,7 days,Reusable
+Shampoo,Cosmetics,Liquid,Aluminium Foil,5,5 days,200 years,Plant-based Bottle,1.3,16 days,2 years,Biodegradable Pouch,1.1,11 days,8 months,Paper Tray,1.2,16 days,4 months
+Book,Stationery,Solid,Styrofoam Box,4,8 days,500 years,Compostable Net Bag,0.9,9 days,6 months,Recyclable Cardboard Box,1,11 days,6 months,Glass Bottle,1.2,20 days,Reusable
+Shirt,Clothing,Solid,PVC Packaging,4.2,3 days,450 years,Reusable Cloth Bag,0.7,14 days,Reusable,Steel Container,1,14 days,Reusable,Jute Bag,0.8,6 days,1 year
+Chips,Snacks,Solid,PVC Packaging,4.2,11 days,450 years,Paper Tray,1.2,7 days,4 months,Jute Bag,0.8,13 days,1 year,Biodegradable Pouch,1.1,7 days,8 months
+Grapes,Fruits,Solid,Aluminium Foil,5,5 days,200 years,Biodegradable Pouch,1.1,7 days,8 months,Jute Bag,0.8,4 days,1 year,Steel Container,1,18 days,Reusable
+Shoes,Clothing,Solid,Aluminium Foil,5,3 days,200 years,Recyclable Cardboard Box,1,19 days,6 months,Reusable Cloth Bag,0.7,11 days,Reusable,Jute Bag,0.8,15 days,1 year
+Tomato,Vegetable,Solid,Aluminium Foil,5,14 days,200 years,Paper Tray,1.2,8 days,4 months,Glass Bottle,1.2,17 days,Reusable,Biodegradable Pouch,1.1,6 days,8 months
+Potato,Vegetable,Solid,Plastic Packet,3.5,9 days,500 years,Biodegradable Pouch,1.1,7 days,8 months,Recyclable Cardboard Box,1,10 days,6 months,Steel Container,1,8 days,Reusable
+Shoes,Clothing,Solid,Plastic Bottle,4.5,6 days,450 years,Plant-based Bottle,1.3,9 days,2 years,Biodegradable Pouch,1.1,10 days,8 months,Jute Bag,0.8,8 days,1 year
+Pen,Stationery,Solid,PVC Packaging,4.2,15 days,450 years,Reusable Cloth Bag,0.7,16 days,Reusable,Compostable Net Bag,0.9,14 days,6 months,Steel Container,1,18 days,Reusable
+Tomato,Vegetable,Solid,Plastic Packet,3.5,9 days,500 years,Glass Bottle,1.2,12 days,Reusable,Recyclable Cardboard Box,1,8 days,6 months,Plant-based Bottle,1.3,17 days,2 years
+Sugar,Cooking,Solid,Plastic Packet,3.5,5 days,500 years,Compostable Net Bag,0.9,13 days,6 months,Jute Bag,0.8,20 days,1 year,Reusable Cloth Bag,0.7,20 days,Reusable
+Sugar,Cooking,Solid,Plastic Bottle,4.5,8 days,450 years,Glass Bottle,1.2,14 days,Reusable,Steel Container,1,10 days,Reusable,Paper Tray,1.2,6 days,4 months
+Toothpaste,Cosmetics,Semi-solid,PVC Packaging,4.2,200 days,450 years,Recyclable Cardboard Box,1,250 days,6 months,Compostable Net Bag,0.9,300 days,6 months,Glass Bottle,1.2,450 days,Reusable
+Water Bottle,Beverage,Liquid,PVC Packaging,4.2,7 days,450 years,Reusable Cloth Bag,0.7,5 days,Reusable,Steel Container,1,20 days,Reusable,Glass Bottle,1.2,16 days,Reusable
+Noodles,Snacks,Solid,Styrofoam Box,4,4 days,500 years,Recyclable Cardboard Box,1,10 days,6 months,Biodegradable Pouch,1.1,9 days,8 months,Plant-based Bottle,1.3,17 days,2 years
+Salt,Cooking,Solid,Plastic Bottle,4.5,9 days,450 years,Compostable Net Bag,0.9,5 days,6 months,Recyclable Cardboard Box,1,10 days,6 months,Paper Tray,1.2,7 days,4 months
+Shoes,Clothing,Solid,Plastic Bottle,4.5,11 days,450 years,Paper Tray,1.2,15 days,4 months,Biodegradable Pouch,1.1,18 days,8 months,Steel Container,1,5 days,Reusable
+Grapes,Fruits,Solid,Plastic Bottle,4.5,14 days,450 years,Reusable Cloth Bag,0.7,7 days,Reusable,Recyclable Cardboard Box,1,10 days,6 months,Compostable Net Bag,0.9,18 days,6 months
+Potato,Vegetable,Solid,Plastic Bottle,4.5,3 days,450 years,Steel Container,1,12 days,Reusable,Biodegradable Pouch,1.1,12 days,8 months,Paper Tray,1.2,15 days,4 months

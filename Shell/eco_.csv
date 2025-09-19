@@ -1,0 +1,501 @@
+Product_Name,Category,State,Old_Packaging,Old_CO2_Score,New_Packaging,New_CO2_Score
+Salt,Cooking,Liquid,Non-recyclable Film,4.32,Glass Bottle,1.19
+Carrots,FreshProduce,Solid,Styrofoam Box,4.37,Paper Pouch,0.91
+Carrots,FreshProduce,Solid,PVC Packaging,3.7,Compostable Tray,0.73
+Spices,Cooking,Liquid,Metalized Plastic Pouch,4.36,Recycled Plastic Bottle,1.35
+Chocolate,Snacks,Solid,Metalized Plastic Pouch,4.39,Paper Pouch,0.81
+Soft Drink,Beverage,Liquid,Shrink Wrap,4.4,Biodegradable Pouch,0.63
+Oats,Grains,Solid,Non-recyclable Plastic Bottle,3.94,Paper Sack,1.08
+Biscuits,Snacks,Solid,Polythene Bag,4.01,Cloth Bag,0.67
+Shampoo,PersonalCare,Liquid,PVC Packaging,4.36,Aluminum Tube,1.99
+Juice,Beverage,Liquid,PVC Packaging,3.67,Aluminum Can,1.74
+Milk,Beverage,Liquid,Polythene Bag,4.04,Aluminum Can,1.82
+Chocolate,Snacks,Solid,Styrofoam Box,4.85,Paper Pouch,0.92
+Onions,FreshProduce,Solid,Styrofoam Box,4.31,Cloth Bag,0.93
+Orange,Fruits,Solid,Styrofoam Box,4.51,Recyclable Cardboard Box,1.06
+Onions,FreshProduce,Solid,Non-recyclable Plastic Bottle,4.39,Jute Bag,0.63
+Energy Drink,Beverage,Liquid,Shrink Wrap,4.45,Glass Bottle,1.49
+Popcorn,Snacks,Solid,Shrink Wrap,3.51,Biodegradable Plastic Wrapper,0.85
+Shampoo,PersonalCare,Liquid,PVC Packaging,3.57,Recycled Plastic Bottle,1.72
+Rice,Grains,Solid,Styrofoam Box,4.78,Cloth Bag,0.71
+Wheat,Grains,Solid,Metalized Plastic Pouch,3.77,Reusable Container,0.87
+Oil,Cooking,Solid,Styrofoam Box,4.4,Jute Bag,0.92
+Smartwatch,Electronics,Solid,Non-recyclable Film,4.36,Molded Pulp Tray,0.97
+Lentils,Grains,Solid,PVC Packaging,3.74,Reusable Container,0.83
+Smartwatch,Electronics,Solid,PVC Packaging,3.85,Biodegradable Cushioning,0.85
+Spinach,FreshProduce,Solid,Plastic Packet (Non-degradable),3.69,Cloth Bag,0.69
+Lentils,Grains,Solid,Non-recyclable Plastic Bottle,4.2,Reusable Container,0.99
+Oil,Cooking,Solid,Shrink Wrap,4.12,Cloth Bag,0.71
+Power Bank,Electronics,Solid,Non-recyclable Plastic Bottle,3.67,Molded Pulp Tray,0.63
+Chocolate,Snacks,Solid,Metalized Plastic Pouch,4.35,Paper Pouch,0.97
+Chips,Snacks,Solid,Shrink Wrap,4.3,Cloth Bag,0.8
+Energy Drink,Beverage,Liquid,PVC Packaging,4.34,Recycled Plastic Bottle,1.71
+Salt,Cooking,Liquid,Non-recyclable Plastic Bottle,4.3,Glass Bottle,1.02
+Chips,Snacks,Solid,Plastic Packet (Non-degradable),3.93,Cloth Bag,0.89
+Grapes,Fruits,Solid,Plastic Packet (Non-degradable),4.0,Recyclable Cardboard Box,1.17
+Toothpaste,PersonalCare,Liquid,Non-recyclable Plastic Bottle,4.23,Recycled Plastic Bottle,1.48
+Power Bank,Electronics,Solid,Polythene Bag,3.63,Paper Wrap,1.03
+Orange,Fruits,Solid,PVC Packaging,3.56,Recyclable Cardboard Box,0.84
+Tomatoes,FreshProduce,Solid,Non-recyclable Plastic Bottle,4.17,Paper Pouch,1.06
+Lentils,Grains,Solid,Non-recyclable Film,4.49,Cloth Bag,0.82
+Wheat,Grains,Solid,Plastic Packet (Non-degradable),4.18,Paper Sack,1.06
+Biscuits,Snacks,Solid,Plastic Clamshell,4.43,Cloth Bag,0.72
+Tomatoes,FreshProduce,Solid,Polythene Bag,3.58,Compostable Tray,0.62
+Rice,Grains,Solid,PVC Packaging,4.17,Reusable Container,0.87
+Grapes,Fruits,Solid,Plastic Clamshell,4.46,Paper Tray,0.97
+Chips,Snacks,Solid,Plastic Packet (Non-degradable),3.74,Recyclable Cardboard Box,0.9
+Salt,Cooking,Liquid,Metalized Plastic Pouch,3.91,Recycled Plastic Bottle,1.72
+Tomatoes,FreshProduce,Solid,Styrofoam Box,4.35,Compostable Tray,0.86
+Spinach,FreshProduce,Solid,Shrink Wrap,4.28,Cloth Bag,0.75
+Smartwatch,Electronics,Solid,Plastic Packet (Non-degradable),3.76,Biodegradable Cushioning,0.81
+Grapes,Fruits,Solid,Non-recyclable Film,3.59,Recyclable Cardboard Box,1.04
+Orange,Fruits,Solid,Plastic Clamshell,3.8,Recyclable Cardboard Box,0.97
+Salt,Cooking,Solid,Non-recyclable Film,4.03,Paper Sack,1.1
+Potatoes,FreshProduce,Solid,Plastic Packet (Non-degradable),4.18,Cloth Bag,0.77
+Spices,Cooking,Liquid,Shrink Wrap,4.28,Recycled Plastic Bottle,1.39
+Smartwatch,Electronics,Solid,Polythene Bag,4.26,Recyclable Cardboard Box,1.06
+Spinach,FreshProduce,Solid,Non-recyclable Plastic Bottle,3.9,Cloth Bag,0.99
+Beer,Beverage,Liquid,Styrofoam Box,4.64,Glass Bottle,1.03
+USB Cable,Electronics,Solid,Shrink Wrap,4.22,Paper Wrap,1.17
+Popcorn,Snacks,Solid,Polythene Bag,3.67,Recyclable Cardboard Box,0.93
+Chips,Snacks,Solid,Plastic Clamshell,3.88,Paper Pouch,1.01
+Carrots,FreshProduce,Solid,Plastic Packet (Non-degradable),3.84,Jute Bag,0.96
+Popcorn,Snacks,Solid,Non-recyclable Film,3.97,Cloth Bag,0.9
+Mango,Fruits,Solid,Shrink Wrap,3.7,Recyclable Cardboard Box,1.19
+Lentils,Grains,Solid,Non-recyclable Film,3.85,Reusable Container,0.86
+Spinach,FreshProduce,Solid,Non-recyclable Film,4.14,Paper Pouch,0.86
+Cookies,Snacks,Solid,Metalized Plastic Pouch,3.64,Paper Pouch,1.19
+Oil,Cooking,Solid,Non-recyclable Film,4.25,Jute Bag,0.82
+Power Bank,Electronics,Solid,PVC Packaging,3.57,Molded Pulp Tray,0.95
+Oil,Cooking,Liquid,Plastic Packet (Non-degradable),4.23,Recycled Plastic Bottle,1.56
+Cookies,Snacks,Solid,Non-recyclable Plastic Bottle,4.0,Cloth Bag,0.88
+Oil,Cooking,Liquid,Plastic Clamshell,3.93,Recycled Plastic Bottle,1.51
+Juice,Beverage,Liquid,Shrink Wrap,4.02,Glass Bottle,1.13
+Oats,Grains,Solid,Styrofoam Box,4.6,Reusable Container,0.99
+Carrots,FreshProduce,Solid,Metalized Plastic Pouch,4.47,Compostable Tray,0.98
+Conditioner,PersonalCare,Liquid,Non-recyclable Plastic Bottle,4.27,Paper Carton,1.17
+Mango,Fruits,Solid,PVC Packaging,4.48,Recyclable Cardboard Box,1.19
+Apple,Fruits,Solid,Shrink Wrap,4.18,Paper Tray,0.9
+Chocolate,Snacks,Solid,PVC Packaging,3.58,Cloth Bag,0.9
+Soap,PersonalCare,Liquid,Non-recyclable Plastic Bottle,4.3,Aluminum Tube,1.75
+Oats,Grains,Solid,Plastic Clamshell,3.6,Cloth Bag,0.7
+Soap,PersonalCare,Solid,Plastic Clamshell,4.14,Cardboard Box,2.63
+Chips,Snacks,Solid,Non-recyclable Film,3.85,Biodegradable Plastic Wrapper,0.97
+Power Bank,Electronics,Solid,Non-recyclable Plastic Bottle,3.95,Paper Wrap,0.87
+Biscuits,Snacks,Solid,Styrofoam Box,4.36,Biodegradable Plastic Wrapper,1.02
+Soft Drink,Beverage,Liquid,Styrofoam Box,4.04,Recycled Plastic Bottle,1.63
+Smartwatch,Electronics,Solid,Metalized Plastic Pouch,3.51,Biodegradable Cushioning,0.76
+Juice,Beverage,Liquid,Plastic Clamshell,4.24,Recycled Plastic Bottle,1.35
+Chocolate,Snacks,Solid,Shrink Wrap,3.94,Paper Pouch,0.95
+Carrots,FreshProduce,Solid,Metalized Plastic Pouch,4.12,Jute Bag,0.72
+Earphones,Electronics,Solid,Styrofoam Box,4.86,Recyclable Cardboard Box,0.89
+Beer,Beverage,Liquid,PVC Packaging,4.37,Aluminum Can,1.54
+Beer,Beverage,Liquid,Shrink Wrap,4.1,Paper Carton,0.82
+Face Cream,PersonalCare,Liquid,Non-recyclable Film,4.32,Paper Carton,0.85
+Onions,FreshProduce,Solid,Plastic Clamshell,4.14,Cloth Bag,0.98
+Soft Drink,Beverage,Liquid,Non-recyclable Film,4.42,Paper Carton,0.9
+Toothpaste,PersonalCare,Solid,Non-recyclable Film,4.36,Cardboard Box,2.76
+Tomatoes,FreshProduce,Solid,PVC Packaging,4.42,Compostable Tray,0.68
+Chips,Snacks,Solid,Plastic Clamshell,3.51,Recyclable Cardboard Box,1.02
+Oats,Grains,Solid,Plastic Packet (Non-degradable),4.43,Jute Bag,0.69
+Soap,PersonalCare,Solid,Non-recyclable Film,3.68,Biodegradable Plastic Wrapper,0.97
+Salt,Cooking,Solid,Shrink Wrap,4.19,Paper Sack,0.81
+Sugar,Cooking,Solid,Metalized Plastic Pouch,3.51,Paper Sack,1.06
+Phone Charger,Electronics,Solid,Styrofoam Box,4.05,Molded Pulp Tray,0.89
+Orange,Fruits,Solid,PVC Packaging,3.56,Jute Bag,0.75
+USB Cable,Electronics,Solid,Metalized Plastic Pouch,3.85,Molded Pulp Tray,0.69
+Flour,Cooking,Solid,Non-recyclable Plastic Bottle,3.72,Paper Sack,1.18
+Biscuits,Snacks,Solid,Non-recyclable Plastic Bottle,4.47,Cloth Bag,0.81
+Beer,Beverage,Liquid,Styrofoam Box,4.38,Glass Bottle,1.03
+Chocolate,Snacks,Solid,Metalized Plastic Pouch,4.29,Recyclable Cardboard Box,1.02
+Popcorn,Snacks,Solid,PVC Packaging,4.07,Biodegradable Plastic Wrapper,1.07
+Barley,Grains,Solid,Plastic Packet (Non-degradable),4.0,Paper Sack,1.04
+Conditioner,PersonalCare,Liquid,Non-recyclable Film,3.69,Recycled Plastic Bottle,1.59
+Oats,Grains,Solid,Non-recyclable Plastic Bottle,4.41,Reusable Container,1.0
+Grapes,Fruits,Solid,PVC Packaging,4.06,Paper Tray,1.16
+Potatoes,FreshProduce,Solid,Shrink Wrap,3.55,Compostable Tray,0.92
+Earphones,Electronics,Solid,Metalized Plastic Pouch,4.45,Paper Wrap,1.18
+Spices,Cooking,Solid,Non-recyclable Film,4.41,Cloth Bag,0.93
+Chips,Snacks,Solid,Metalized Plastic Pouch,3.7,Recyclable Cardboard Box,1.0
+Milk,Beverage,Liquid,Styrofoam Box,4.92,Recycled Plastic Bottle,1.6
+Tomatoes,FreshProduce,Solid,PVC Packaging,3.88,Compostable Tray,0.76
+Shampoo,PersonalCare,Liquid,Polythene Bag,4.43,Aluminum Tube,1.53
+Orange,Fruits,Solid,Plastic Clamshell,3.76,Recyclable Cardboard Box,1.06
+Earphones,Electronics,Solid,Metalized Plastic Pouch,3.8,Biodegradable Cushioning,0.66
+Mango,Fruits,Solid,Plastic Clamshell,4.46,Paper Tray,1.12
+Rice,Grains,Solid,Plastic Clamshell,4.41,Jute Bag,0.72
+USB Cable,Electronics,Solid,Plastic Packet (Non-degradable),3.65,Recyclable Cardboard Box,1.16
+Apple,Fruits,Solid,Metalized Plastic Pouch,4.27,Recyclable Cardboard Box,0.95
+Chips,Snacks,Solid,Styrofoam Box,4.99,Cloth Bag,0.83
+Oats,Grains,Solid,Metalized Plastic Pouch,4.46,Jute Bag,0.7
+Carrots,FreshProduce,Solid,Shrink Wrap,3.84,Compostable Tray,0.72
+Onions,FreshProduce,Solid,PVC Packaging,3.65,Paper Pouch,0.84
+Carrots,FreshProduce,Solid,Styrofoam Box,4.91,Compostable Tray,0.7
+Lentils,Grains,Solid,Polythene Bag,4.17,Reusable Container,0.92
+Oil,Cooking,Solid,Non-recyclable Plastic Bottle,3.79,Paper Sack,1.06
+Cookies,Snacks,Solid,Metalized Plastic Pouch,3.73,Biodegradable Plastic Wrapper,1.14
+Face Cream,PersonalCare,Liquid,Polythene Bag,3.99,Paper Carton,0.8
+Smartwatch,Electronics,Solid,Styrofoam Box,4.55,Recyclable Cardboard Box,1.09
+Lentils,Grains,Solid,PVC Packaging,4.04,Reusable Container,0.89
+Sugar,Cooking,Liquid,Non-recyclable Plastic Bottle,4.36,Aluminum Can,1.56
+Soap,PersonalCare,Solid,Non-recyclable Plastic Bottle,3.79,Cardboard Box,2.22
+Oil,Cooking,Liquid,Polythene Bag,4.48,Glass Bottle,1.4
+Phone Charger,Electronics,Solid,Metalized Plastic Pouch,3.6,Molded Pulp Tray,0.97
+Barley,Grains,Solid,Shrink Wrap,4.07,Jute Bag,0.97
+Energy Drink,Beverage,Liquid,Non-recyclable Film,4.42,Glass Bottle,1.03
+Chocolate,Snacks,Solid,PVC Packaging,4.19,Biodegradable Plastic Wrapper,0.9
+Shampoo,PersonalCare,Solid,Non-recyclable Plastic Bottle,3.97,Biodegradable Plastic Wrapper,0.84
+Barley,Grains,Solid,Metalized Plastic Pouch,4.21,Cloth Bag,0.99
+Soft Drink,Beverage,Liquid,Polythene Bag,4.45,Glass Bottle,1.13
+Carrots,FreshProduce,Solid,Plastic Packet (Non-degradable),4.27,Compostable Tray,0.9
+Earphones,Electronics,Solid,Shrink Wrap,3.89,Recyclable Cardboard Box,1.0
+Banana,Fruits,Solid,Non-recyclable Film,4.48,Paper Tray,1.08
+Oats,Grains,Solid,Non-recyclable Plastic Bottle,4.33,Cloth Bag,0.84
+Milk,Beverage,Liquid,Metalized Plastic Pouch,4.24,Paper Carton,0.93
+Soap,PersonalCare,Solid,Plastic Clamshell,3.51,Paper Wrap,0.82
+Mango,Fruits,Solid,Non-recyclable Plastic Bottle,4.13,Cloth Bag,0.91
+Soap,PersonalCare,Solid,Plastic Clamshell,4.37,Paper Wrap,0.83
+Earphones,Electronics,Solid,Metalized Plastic Pouch,4.12,Molded Pulp Tray,0.7
+Toothpaste,PersonalCare,Solid,Shrink Wrap,4.48,Biodegradable Plastic Wrapper,0.83
+Carrots,FreshProduce,Solid,Plastic Packet (Non-degradable),4.02,Paper Pouch,1.06
+Earphones,Electronics,Solid,Non-recyclable Film,4.03,Recyclable Cardboard Box,1.13
+Apple,Fruits,Solid,Plastic Clamshell,3.71,Compostable Net Bag,0.95
+Biscuits,Snacks,Solid,Metalized Plastic Pouch,4.31,Paper Pouch,0.97
+Spinach,FreshProduce,Solid,Metalized Plastic Pouch,4.27,Cloth Bag,0.72
+Salt,Cooking,Solid,Styrofoam Box,4.46,Jute Bag,0.64
+Juice,Beverage,Liquid,Styrofoam Box,4.59,Glass Bottle,1.46
+Juice,Beverage,Liquid,Metalized Plastic Pouch,4.49,Aluminum Can,1.71
+Spices,Cooking,Solid,Metalized Plastic Pouch,3.58,Cloth Bag,0.97
+Conditioner,PersonalCare,Liquid,Styrofoam Box,4.41,Aluminum Tube,1.72
+Onions,FreshProduce,Solid,Plastic Clamshell,3.92,Cloth Bag,0.87
+Juice,Beverage,Liquid,PVC Packaging,3.51,Recycled Plastic Bottle,1.23
+Orange,Fruits,Solid,Styrofoam Box,4.64,Recyclable Cardboard Box,0.99
+Rice,Grains,Solid,PVC Packaging,3.51,Jute Bag,0.67
+Conditioner,PersonalCare,Solid,Metalized Plastic Pouch,3.78,Biodegradable Plastic Wrapper,0.93
+Milk,Beverage,Liquid,Styrofoam Box,4.9,Biodegradable Pouch,0.79
+Mango,Fruits,Solid,Non-recyclable Plastic Bottle,4.05,Recyclable Cardboard Box,1.12
+Grapes,Fruits,Solid,Non-recyclable Plastic Bottle,3.53,Recyclable Cardboard Box,0.83
+Toothpaste,PersonalCare,Liquid,Plastic Packet (Non-degradable),4.36,Aluminum Tube,1.56
+Milk,Beverage,Liquid,Polythene Bag,4.1,Recycled Plastic Bottle,1.28
+Beer,Beverage,Liquid,Non-recyclable Plastic Bottle,3.55,Recycled Plastic Bottle,1.29
+Popcorn,Snacks,Solid,Styrofoam Box,4.09,Cloth Bag,0.64
+Face Cream,PersonalCare,Liquid,PVC Packaging,3.81,Glass Bottle,1.31
+Earphones,Electronics,Solid,Metalized Plastic Pouch,3.71,Recyclable Cardboard Box,0.95
+Sugar,Cooking,Liquid,Plastic Packet (Non-degradable),3.53,Aluminum Can,1.53
+Spices,Cooking,Solid,Plastic Clamshell,3.93,Jute Bag,0.99
+Lentils,Grains,Solid,Plastic Clamshell,3.98,Cloth Bag,0.76
+Chips,Snacks,Solid,Plastic Packet (Non-degradable),4.08,Cloth Bag,0.84
+Toothpaste,PersonalCare,Solid,Metalized Plastic Pouch,3.53,Cardboard Box,2.59
+Apple,Fruits,Solid,Plastic Clamshell,4.15,Compostable Net Bag,0.94
+Oil,Cooking,Solid,Styrofoam Box,4.8,Cloth Bag,0.88
+Phone Charger,Electronics,Solid,Shrink Wrap,3.77,Biodegradable Cushioning,0.86
+Sugar,Cooking,Solid,Shrink Wrap,3.8,Cloth Bag,0.73
+Toothpaste,PersonalCare,Liquid,Metalized Plastic Pouch,4.16,Paper Carton,1.07
+Soft Drink,Beverage,Liquid,Styrofoam Box,4.01,Aluminum Can,1.75
+Popcorn,Snacks,Solid,Plastic Packet (Non-degradable),4.2,Biodegradable Plastic Wrapper,1.18
+Conditioner,PersonalCare,Solid,Non-recyclable Plastic Bottle,4.12,Biodegradable Plastic Wrapper,0.91
+Oil,Cooking,Liquid,Plastic Packet (Non-degradable),4.41,Recycled Plastic Bottle,1.36
+Phone Charger,Electronics,Solid,Plastic Clamshell,4.17,Molded Pulp Tray,0.77
+Chips,Snacks,Solid,Shrink Wrap,3.7,Biodegradable Plastic Wrapper,1.03
+Oats,Grains,Solid,PVC Packaging,4.0,Paper Sack,0.96
+Conditioner,PersonalCare,Solid,Metalized Plastic Pouch,4.07,Paper Wrap,1.03
+Potatoes,FreshProduce,Solid,Non-recyclable Film,3.91,Compostable Tray,0.98
+Conditioner,PersonalCare,Solid,PVC Packaging,3.83,Biodegradable Plastic Wrapper,0.81
+Apple,Fruits,Solid,PVC Packaging,4.14,Paper Tray,1.19
+Banana,Fruits,Solid,Non-recyclable Film,3.81,Recyclable Cardboard Box,0.86
+Energy Drink,Beverage,Liquid,Plastic Clamshell,3.93,Biodegradable Pouch,0.73
+Smartwatch,Electronics,Solid,Non-recyclable Plastic Bottle,3.99,Molded Pulp Tray,0.62
+Onions,FreshProduce,Solid,Styrofoam Box,4.66,Paper Pouch,1.01
+Potatoes,FreshProduce,Solid,Polythene Bag,3.54,Compostable Tray,0.69
+Grapes,Fruits,Solid,Non-recyclable Film,3.87,Cloth Bag,0.76
+USB Cable,Electronics,Solid,Non-recyclable Film,3.6,Recyclable Cardboard Box,0.81
+Milk,Beverage,Liquid,Non-recyclable Film,4.29,Glass Bottle,1.42
+Energy Drink,Beverage,Liquid,Styrofoam Box,4.39,Biodegradable Pouch,0.95
+Apple,Fruits,Solid,Plastic Packet (Non-degradable),3.74,Cloth Bag,0.68
+Spices,Cooking,Liquid,Styrofoam Box,4.92,Recycled Plastic Bottle,1.69
+Salt,Cooking,Liquid,Plastic Packet (Non-degradable),3.57,Glass Bottle,1.27
+Banana,Fruits,Solid,Styrofoam Box,4.61,Paper Tray,1.05
+Lentils,Grains,Solid,Non-recyclable Film,3.62,Paper Sack,1.1
+Mango,Fruits,Solid,PVC Packaging,3.99,Recyclable Cardboard Box,1.17
+Flour,Cooking,Liquid,Styrofoam Box,4.32,Glass Bottle,1.41
+Toothpaste,PersonalCare,Liquid,Plastic Packet (Non-degradable),3.61,Glass Bottle,1.29
+Sugar,Cooking,Solid,Non-recyclable Film,3.55,Cloth Bag,0.71
+Oats,Grains,Solid,Plastic Packet (Non-degradable),4.25,Jute Bag,0.78
+Smartwatch,Electronics,Solid,PVC Packaging,3.63,Molded Pulp Tray,0.96
+Chips,Snacks,Solid,Styrofoam Box,4.23,Biodegradable Plastic Wrapper,0.91
+Shampoo,PersonalCare,Liquid,Styrofoam Box,4.4,Recycled Plastic Bottle,1.36
+Banana,Fruits,Solid,Non-recyclable Plastic Bottle,4.01,Cloth Bag,0.72
+Soap,PersonalCare,Liquid,Styrofoam Box,4.06,Paper Carton,1.17
+Shampoo,PersonalCare,Liquid,Plastic Packet (Non-degradable),3.91,Paper Carton,0.89
+Cookies,Snacks,Solid,Styrofoam Box,4.66,Recyclable Cardboard Box,0.85
+Smartwatch,Electronics,Solid,PVC Packaging,3.93,Paper Wrap,1.1
+Barley,Grains,Solid,Plastic Packet (Non-degradable),3.65,Cloth Bag,0.91
+Tomatoes,FreshProduce,Solid,Plastic Packet (Non-degradable),3.55,Paper Pouch,0.93
+Tomatoes,FreshProduce,Solid,Styrofoam Box,4.92,Jute Bag,0.93
+Oil,Cooking,Solid,Non-recyclable Film,4.1,Paper Sack,1.06
+Milk,Beverage,Liquid,Plastic Clamshell,4.02,Biodegradable Pouch,0.66
+Apple,Fruits,Solid,Plastic Packet (Non-degradable),4.09,Cloth Bag,0.74
+Power Bank,Electronics,Solid,Metalized Plastic Pouch,3.89,Biodegradable Cushioning,0.96
+USB Cable,Electronics,Solid,PVC Packaging,4.13,Molded Pulp Tray,0.8
+Chocolate,Snacks,Solid,PVC Packaging,3.95,Recyclable Cardboard Box,0.91
+Face Cream,PersonalCare,Liquid,Plastic Packet (Non-degradable),4.38,Recycled Plastic Bottle,1.3
+Phone Charger,Electronics,Solid,Non-recyclable Plastic Bottle,4.05,Paper Wrap,0.87
+Face Cream,PersonalCare,Liquid,Plastic Clamshell,4.15,Glass Bottle,1.48
+Face Cream,PersonalCare,Liquid,Polythene Bag,4.48,Glass Bottle,1.07
+Lentils,Grains,Solid,Plastic Clamshell,3.7,Reusable Container,1.05
+Cookies,Snacks,Solid,PVC Packaging,3.74,Paper Pouch,1.08
+Soap,PersonalCare,Liquid,Metalized Plastic Pouch,4.42,Recycled Plastic Bottle,1.32
+Spices,Cooking,Liquid,Shrink Wrap,4.19,Aluminum Can,1.56
+USB Cable,Electronics,Solid,Shrink Wrap,3.93,Biodegradable Cushioning,0.76
+Tomatoes,FreshProduce,Solid,Metalized Plastic Pouch,4.1,Cloth Bag,0.82
+Popcorn,Snacks,Solid,Metalized Plastic Pouch,4.33,Paper Pouch,0.9
+Apple,Fruits,Solid,PVC Packaging,3.51,Recyclable Cardboard Box,0.83
+Barley,Grains,Solid,Plastic Packet (Non-degradable),4.13,Paper Sack,0.97
+Flour,Cooking,Liquid,Styrofoam Box,4.26,Recycled Plastic Bottle,1.61
+Toothpaste,PersonalCare,Liquid,Plastic Clamshell,3.68,Glass Bottle,1.36
+Beer,Beverage,Liquid,Shrink Wrap,3.52,Recycled Plastic Bottle,1.29
+Chips,Snacks,Solid,Plastic Clamshell,4.08,Paper Pouch,1.11
+Spinach,FreshProduce,Solid,Plastic Clamshell,4.5,Cloth Bag,0.67
+Popcorn,Snacks,Solid,Non-recyclable Film,4.22,Cloth Bag,0.61
+Potatoes,FreshProduce,Solid,Plastic Clamshell,3.7,Cloth Bag,0.97
+Energy Drink,Beverage,Liquid,Shrink Wrap,4.01,Paper Carton,0.85
+Juice,Beverage,Liquid,Shrink Wrap,4.08,Paper Carton,1.19
+Carrots,FreshProduce,Solid,Shrink Wrap,3.66,Jute Bag,0.93
+Lentils,Grains,Solid,Metalized Plastic Pouch,3.84,Jute Bag,0.64
+Lentils,Grains,Solid,Shrink Wrap,4.02,Paper Sack,0.87
+Spinach,FreshProduce,Solid,Non-recyclable Plastic Bottle,4.48,Cloth Bag,0.83
+Spinach,FreshProduce,Solid,Shrink Wrap,4.49,Paper Pouch,0.97
+Oil,Cooking,Solid,Non-recyclable Plastic Bottle,4.2,Jute Bag,0.85
+Juice,Beverage,Liquid,Styrofoam Box,4.68,Biodegradable Pouch,0.63
+Flour,Cooking,Solid,Polythene Bag,3.61,Paper Sack,0.8
+Lentils,Grains,Solid,Non-recyclable Plastic Bottle,3.54,Cloth Bag,0.68
+Flour,Cooking,Solid,Styrofoam Box,4.73,Cloth Bag,0.64
+Rice,Grains,Solid,Metalized Plastic Pouch,3.5,Reusable Container,0.89
+Soap,PersonalCare,Solid,Metalized Plastic Pouch,3.94,Biodegradable Plastic Wrapper,1.18
+Spinach,FreshProduce,Solid,Plastic Clamshell,4.45,Compostable Tray,0.63
+Spices,Cooking,Solid,Styrofoam Box,4.54,Paper Sack,0.87
+Chips,Snacks,Solid,Plastic Packet (Non-degradable),4.04,Cloth Bag,0.71
+Onions,FreshProduce,Solid,Non-recyclable Plastic Bottle,3.52,Compostable Tray,0.62
+Spinach,FreshProduce,Solid,Styrofoam Box,4.28,Paper Pouch,1.09
+Spices,Cooking,Solid,PVC Packaging,4.4,Cloth Bag,0.77
+Lentils,Grains,Solid,Non-recyclable Plastic Bottle,4.09,Paper Sack,1.01
+Spinach,FreshProduce,Solid,PVC Packaging,4.13,Jute Bag,0.66
+Onions,FreshProduce,Solid,Polythene Bag,3.87,Paper Pouch,1.17
+Oil,Cooking,Solid,Non-recyclable Film,4.38,Cloth Bag,0.66
+Juice,Beverage,Liquid,Polythene Bag,4.13,Glass Bottle,1.28
+Oil,Cooking,Liquid,Plastic Clamshell,3.57,Biodegradable Pouch,0.86
+Spices,Cooking,Solid,PVC Packaging,3.91,Cloth Bag,0.64
+Rice,Grains,Solid,Metalized Plastic Pouch,4.46,Jute Bag,0.82
+Sugar,Cooking,Liquid,PVC Packaging,3.66,Aluminum Can,1.84
+Rice,Grains,Solid,Plastic Packet (Non-degradable),3.79,Jute Bag,0.6
+Conditioner,PersonalCare,Solid,Styrofoam Box,4.39,Biodegradable Plastic Wrapper,1.05
+Toothpaste,PersonalCare,Solid,PVC Packaging,3.62,Cardboard Box,2.55
+Sugar,Cooking,Liquid,PVC Packaging,3.51,Aluminum Can,1.9
+Tomatoes,FreshProduce,Solid,Shrink Wrap,4.41,Cloth Bag,0.74
+Onions,FreshProduce,Solid,Non-recyclable Film,3.72,Jute Bag,0.86
+Shampoo,PersonalCare,Solid,Non-recyclable Film,3.86,Paper Wrap,0.83
+Tomatoes,FreshProduce,Solid,Metalized Plastic Pouch,3.79,Jute Bag,0.61
+Mango,Fruits,Solid,Plastic Packet (Non-degradable),4.1,Cloth Bag,0.7
+Oats,Grains,Solid,Polythene Bag,4.04,Cloth Bag,0.73
+Spices,Cooking,Solid,Non-recyclable Plastic Bottle,4.14,Jute Bag,0.64
+Cookies,Snacks,Solid,Non-recyclable Film,4.1,Biodegradable Plastic Wrapper,0.83
+Banana,Fruits,Solid,Plastic Packet (Non-degradable),3.64,Paper Tray,1.15
+Grapes,Fruits,Solid,Shrink Wrap,3.53,Recyclable Cardboard Box,0.94
+Barley,Grains,Solid,PVC Packaging,4.33,Jute Bag,0.83
+Apple,Fruits,Solid,Metalized Plastic Pouch,3.76,Compostable Net Bag,0.93
+Power Bank,Electronics,Solid,Plastic Packet (Non-degradable),4.12,Recyclable Cardboard Box,0.98
+Smartwatch,Electronics,Solid,Plastic Packet (Non-degradable),4.45,Molded Pulp Tray,0.84
+Orange,Fruits,Solid,Styrofoam Box,4.7,Recyclable Cardboard Box,1.15
+Earphones,Electronics,Solid,Styrofoam Box,4.52,Recyclable Cardboard Box,1.19
+Apple,Fruits,Solid,PVC Packaging,4.26,Compostable Net Bag,0.66
+Cookies,Snacks,Solid,Polythene Bag,3.54,Cloth Bag,0.81
+Shampoo,PersonalCare,Solid,Non-recyclable Plastic Bottle,3.72,Biodegradable Plastic Wrapper,1.08
+Apple,Fruits,Solid,Shrink Wrap,3.6,Paper Tray,1.07
+Wheat,Grains,Solid,Styrofoam Box,4.14,Jute Bag,0.77
+Sugar,Cooking,Solid,Plastic Clamshell,4.14,Jute Bag,0.97
+Chocolate,Snacks,Solid,Plastic Clamshell,4.28,Biodegradable Plastic Wrapper,1.14
+Salt,Cooking,Solid,PVC Packaging,4.38,Cloth Bag,0.92
+Chocolate,Snacks,Solid,Non-recyclable Film,3.87,Paper Pouch,1.05
+Biscuits,Snacks,Solid,Plastic Clamshell,3.93,Recyclable Cardboard Box,0.98
+Smartwatch,Electronics,Solid,PVC Packaging,4.33,Paper Wrap,1.19
+Face Cream,PersonalCare,Solid,Metalized Plastic Pouch,4.18,Paper Wrap,0.98
+Popcorn,Snacks,Solid,Styrofoam Box,4.57,Biodegradable Plastic Wrapper,1.02
+Popcorn,Snacks,Solid,Styrofoam Box,4.46,Biodegradable Plastic Wrapper,1.12
+Spinach,FreshProduce,Solid,Plastic Clamshell,3.82,Compostable Tray,0.74
+Potatoes,FreshProduce,Solid,Styrofoam Box,4.6,Cloth Bag,0.6
+Face Cream,PersonalCare,Solid,Polythene Bag,3.7,Cardboard Box,2.17
+Smartwatch,Electronics,Solid,Metalized Plastic Pouch,4.3,Molded Pulp Tray,0.9
+Soap,PersonalCare,Liquid,Styrofoam Box,4.93,Glass Bottle,1.04
+Smartwatch,Electronics,Solid,Non-recyclable Plastic Bottle,3.9,Recyclable Cardboard Box,0.86
+USB Cable,Electronics,Solid,PVC Packaging,4.15,Biodegradable Cushioning,0.71
+Potatoes,FreshProduce,Solid,Non-recyclable Plastic Bottle,3.68,Jute Bag,0.89
+Shampoo,PersonalCare,Solid,Plastic Packet (Non-degradable),4.24,Cardboard Box,2.25
+Orange,Fruits,Solid,Shrink Wrap,3.82,Jute Bag,0.83
+Potatoes,FreshProduce,Solid,Metalized Plastic Pouch,3.96,Cloth Bag,0.65
+Wheat,Grains,Solid,Non-recyclable Film,4.44,Cloth Bag,0.8
+Beer,Beverage,Liquid,PVC Packaging,4.25,Aluminum Can,1.77
+Mango,Fruits,Solid,Metalized Plastic Pouch,3.7,Recyclable Cardboard Box,1.07
+Chocolate,Snacks,Solid,Polythene Bag,4.09,Biodegradable Plastic Wrapper,1.01
+Phone Charger,Electronics,Solid,Non-recyclable Film,4.44,Recyclable Cardboard Box,1.18
+Lentils,Grains,Solid,Polythene Bag,4.35,Paper Sack,1.04
+Sugar,Cooking,Liquid,Non-recyclable Plastic Bottle,4.33,Aluminum Can,1.97
+Smartwatch,Electronics,Solid,Plastic Packet (Non-degradable),4.03,Biodegradable Cushioning,0.8
+Tomatoes,FreshProduce,Solid,Shrink Wrap,3.81,Compostable Tray,0.81
+Banana,Fruits,Solid,Non-recyclable Film,4.26,Compostable Net Bag,0.81
+Biscuits,Snacks,Solid,Non-recyclable Plastic Bottle,4.23,Recyclable Cardboard Box,0.9
+Banana,Fruits,Solid,Plastic Packet (Non-degradable),4.04,Cloth Bag,0.9
+Banana,Fruits,Solid,Non-recyclable Plastic Bottle,4.37,Compostable Net Bag,0.68
+Spices,Cooking,Solid,Shrink Wrap,4.22,Jute Bag,0.84
+Banana,Fruits,Solid,PVC Packaging,4.09,Paper Tray,1.14
+Tomatoes,FreshProduce,Solid,Plastic Packet (Non-degradable),3.58,Cloth Bag,0.68
+Rice,Grains,Solid,Polythene Bag,4.45,Cloth Bag,0.64
+Flour,Cooking,Liquid,Polythene Bag,4.33,Aluminum Can,1.71
+Smartwatch,Electronics,Solid,Styrofoam Box,4.21,Paper Wrap,0.98
+Beer,Beverage,Liquid,Shrink Wrap,3.75,Glass Bottle,1.25
+Lentils,Grains,Solid,Polythene Bag,3.86,Paper Sack,1.1
+Beer,Beverage,Liquid,Plastic Clamshell,4.27,Biodegradable Pouch,0.87
+Conditioner,PersonalCare,Solid,Plastic Packet (Non-degradable),4.28,Cardboard Box,2.48
+Milk,Beverage,Liquid,Plastic Clamshell,3.98,Paper Carton,1.07
+Chips,Snacks,Solid,Plastic Packet (Non-degradable),4.07,Biodegradable Plastic Wrapper,1.1
+Smartwatch,Electronics,Solid,Plastic Clamshell,4.06,Recyclable Cardboard Box,1.18
+Banana,Fruits,Solid,Styrofoam Box,4.2,Cloth Bag,0.86
+Grapes,Fruits,Solid,Polythene Bag,3.85,Recyclable Cardboard Box,0.81
+Orange,Fruits,Solid,Styrofoam Box,4.35,Paper Tray,1.05
+Chips,Snacks,Solid,Styrofoam Box,4.47,Biodegradable Plastic Wrapper,0.83
+Juice,Beverage,Liquid,Polythene Bag,3.5,Biodegradable Pouch,0.97
+Beer,Beverage,Liquid,Non-recyclable Plastic Bottle,4.11,Paper Carton,0.89
+Barley,Grains,Solid,Non-recyclable Plastic Bottle,3.98,Jute Bag,0.84
+Mango,Fruits,Solid,Plastic Clamshell,4.46,Paper Tray,1.03
+Spinach,FreshProduce,Solid,Metalized Plastic Pouch,4.15,Cloth Bag,0.71
+Apple,Fruits,Solid,Polythene Bag,3.75,Compostable Net Bag,0.62
+Potatoes,FreshProduce,Solid,PVC Packaging,3.99,Jute Bag,0.73
+Beer,Beverage,Liquid,Plastic Clamshell,4.28,Recycled Plastic Bottle,1.48
+Onions,FreshProduce,Solid,Shrink Wrap,4.01,Paper Pouch,1.15
+Orange,Fruits,Solid,Polythene Bag,4.45,Recyclable Cardboard Box,0.99
+Face Cream,PersonalCare,Solid,Polythene Bag,3.52,Biodegradable Plastic Wrapper,0.95
+Biscuits,Snacks,Solid,Shrink Wrap,3.98,Recyclable Cardboard Box,1.06
+Spinach,FreshProduce,Solid,Non-recyclable Plastic Bottle,3.97,Jute Bag,0.74
+Shampoo,PersonalCare,Solid,Polythene Bag,4.05,Cardboard Box,2.03
+Energy Drink,Beverage,Liquid,Non-recyclable Plastic Bottle,3.62,Aluminum Can,1.86
+Oil,Cooking,Solid,Plastic Clamshell,3.75,Jute Bag,0.97
+Smartwatch,Electronics,Solid,Styrofoam Box,4.96,Paper Wrap,1.06
+Sugar,Cooking,Liquid,Metalized Plastic Pouch,4.05,Recycled Plastic Bottle,1.24
+Rice,Grains,Solid,Plastic Packet (Non-degradable),3.94,Cloth Bag,0.99
+Juice,Beverage,Liquid,PVC Packaging,3.65,Aluminum Can,1.63
+Phone Charger,Electronics,Solid,Metalized Plastic Pouch,4.34,Recyclable Cardboard Box,1.19
+Flour,Cooking,Solid,PVC Packaging,4.17,Cloth Bag,0.81
+Face Cream,PersonalCare,Liquid,Plastic Packet (Non-degradable),4.05,Paper Carton,0.84
+Oats,Grains,Solid,Shrink Wrap,3.53,Paper Sack,1.15
+Flour,Cooking,Liquid,Polythene Bag,4.46,Recycled Plastic Bottle,1.73
+Conditioner,PersonalCare,Solid,Plastic Clamshell,4.42,Cardboard Box,2.4
+Spices,Cooking,Liquid,Non-recyclable Film,4.04,Biodegradable Pouch,0.86
+Wheat,Grains,Solid,PVC Packaging,4.49,Jute Bag,0.9
+Smartwatch,Electronics,Solid,Non-recyclable Film,4.12,Molded Pulp Tray,0.93
+Energy Drink,Beverage,Liquid,Non-recyclable Plastic Bottle,3.64,Aluminum Can,1.91
+Earphones,Electronics,Solid,Non-recyclable Plastic Bottle,4.14,Biodegradable Cushioning,0.67
+Lentils,Grains,Solid,Shrink Wrap,3.55,Jute Bag,0.86
+Soft Drink,Beverage,Liquid,Styrofoam Box,4.09,Biodegradable Pouch,0.67
+Energy Drink,Beverage,Liquid,Non-recyclable Film,3.53,Recycled Plastic Bottle,1.77
+Barley,Grains,Solid,Styrofoam Box,4.6,Jute Bag,0.62
+Potatoes,FreshProduce,Solid,PVC Packaging,3.99,Compostable Tray,0.75
+Face Cream,PersonalCare,Solid,Plastic Packet (Non-degradable),4.47,Paper Wrap,0.88
+Salt,Cooking,Liquid,PVC Packaging,4.33,Biodegradable Pouch,0.73
+Potatoes,FreshProduce,Solid,Non-recyclable Plastic Bottle,3.64,Jute Bag,0.61
+Flour,Cooking,Liquid,Shrink Wrap,4.28,Glass Bottle,1.11
+Popcorn,Snacks,Solid,Metalized Plastic Pouch,3.7,Recyclable Cardboard Box,0.97
+Beer,Beverage,Liquid,PVC Packaging,4.44,Paper Carton,0.85
+Apple,Fruits,Solid,Plastic Packet (Non-degradable),3.66,Paper Tray,0.87
+Wheat,Grains,Solid,PVC Packaging,4.14,Jute Bag,0.89
+Face Cream,PersonalCare,Liquid,Polythene Bag,3.5,Glass Bottle,1.01
+Barley,Grains,Solid,Shrink Wrap,3.79,Cloth Bag,0.67
+Spinach,FreshProduce,Solid,Shrink Wrap,3.82,Compostable Tray,0.93
+Soap,PersonalCare,Solid,Metalized Plastic Pouch,4.03,Paper Wrap,1.17
+Chocolate,Snacks,Solid,Plastic Clamshell,4.19,Cloth Bag,0.63
+Grapes,Fruits,Solid,PVC Packaging,4.46,Jute Bag,0.61
+USB Cable,Electronics,Solid,Plastic Packet (Non-degradable),3.54,Paper Wrap,0.89
+Salt,Cooking,Liquid,Plastic Clamshell,3.99,Glass Bottle,1.02
+Barley,Grains,Solid,Metalized Plastic Pouch,3.75,Jute Bag,0.76
+Popcorn,Snacks,Solid,Plastic Packet (Non-degradable),3.6,Cloth Bag,0.83
+Banana,Fruits,Solid,Styrofoam Box,4.24,Jute Bag,0.99
+Juice,Beverage,Liquid,PVC Packaging,4.15,Glass Bottle,1.26
+Rice,Grains,Solid,Non-recyclable Plastic Bottle,4.19,Paper Sack,1.07
+Beer,Beverage,Liquid,PVC Packaging,3.6,Glass Bottle,1.38
+Tomatoes,FreshProduce,Solid,Plastic Packet (Non-degradable),4.33,Cloth Bag,0.97
+Popcorn,Snacks,Solid,Styrofoam Box,4.61,Cloth Bag,0.6
+Rice,Grains,Solid,Plastic Clamshell,4.29,Reusable Container,1.09
+Conditioner,PersonalCare,Solid,Polythene Bag,3.93,Paper Wrap,0.81
+Soft Drink,Beverage,Liquid,Plastic Clamshell,4.41,Recycled Plastic Bottle,1.75
+Juice,Beverage,Liquid,Metalized Plastic Pouch,4.01,Biodegradable Pouch,0.83
+Soft Drink,Beverage,Liquid,Non-recyclable Film,4.18,Biodegradable Pouch,0.86
+Salt,Cooking,Solid,Metalized Plastic Pouch,3.8,Paper Sack,0.84
+Sugar,Cooking,Solid,Metalized Plastic Pouch,4.24,Jute Bag,0.93
+Lentils,Grains,Solid,PVC Packaging,4.0,Jute Bag,0.67
+Onions,FreshProduce,Solid,Plastic Packet (Non-degradable),3.74,Compostable Tray,0.74
+Chocolate,Snacks,Solid,Shrink Wrap,4.35,Paper Pouch,1.05
+Phone Charger,Electronics,Solid,Plastic Packet (Non-degradable),3.97,Paper Wrap,1.15
+Apple,Fruits,Solid,Polythene Bag,3.54,Paper Tray,1.19
+Toothpaste,PersonalCare,Solid,PVC Packaging,3.7,Biodegradable Plastic Wrapper,1.02
+Earphones,Electronics,Solid,Styrofoam Box,4.83,Paper Wrap,0.95
+Apple,Fruits,Solid,Metalized Plastic Pouch,4.1,Cloth Bag,0.92
+Power Bank,Electronics,Solid,Non-recyclable Plastic Bottle,3.78,Biodegradable Cushioning,0.83
+Lentils,Grains,Solid,Shrink Wrap,4.3,Jute Bag,0.85
+Chips,Snacks,Solid,Non-recyclable Film,3.88,Cloth Bag,0.66
+Lentils,Grains,Solid,Non-recyclable Plastic Bottle,4.24,Jute Bag,0.61
+Oats,Grains,Solid,Non-recyclable Film,3.61,Cloth Bag,0.98
+Milk,Beverage,Liquid,Metalized Plastic Pouch,4.19,Glass Bottle,1.26
+Earphones,Electronics,Solid,Non-recyclable Film,4.14,Recyclable Cardboard Box,0.97
+Onions,FreshProduce,Solid,Plastic Packet (Non-degradable),4.42,Compostable Tray,0.95
+Tomatoes,FreshProduce,Solid,Plastic Packet (Non-degradable),4.45,Paper Pouch,1.19
+Oil,Cooking,Liquid,Polythene Bag,4.07,Aluminum Can,1.83
+Orange,Fruits,Solid,Metalized Plastic Pouch,3.96,Paper Tray,0.88
+Sugar,Cooking,Liquid,Plastic Packet (Non-degradable),3.98,Glass Bottle,1.41
+Cookies,Snacks,Solid,Plastic Clamshell,4.36,Biodegradable Plastic Wrapper,1.14
+Conditioner,PersonalCare,Liquid,Non-recyclable Plastic Bottle,4.29,Aluminum Tube,1.74
+Soft Drink,Beverage,Liquid,Non-recyclable Film,3.86,Glass Bottle,1.43
+Potatoes,FreshProduce,Solid,Non-recyclable Plastic Bottle,4.27,Compostable Tray,0.98
+Oil,Cooking,Solid,PVC Packaging,4.18,Paper Sack,0.82
+Smartwatch,Electronics,Solid,Styrofoam Box,4.73,Molded Pulp Tray,0.79
+Oats,Grains,Solid,Styrofoam Box,4.46,Cloth Bag,0.79
+Soft Drink,Beverage,Liquid,Non-recyclable Film,4.11,Biodegradable Pouch,0.66
+Spices,Cooking,Solid,Plastic Clamshell,4.32,Paper Sack,0.93
+Orange,Fruits,Solid,PVC Packaging,3.65,Recyclable Cardboard Box,0.81
+Salt,Cooking,Solid,PVC Packaging,3.51,Jute Bag,0.64
+Spinach,FreshProduce,Solid,Non-recyclable Film,4.3,Compostable Tray,0.81
+Juice,Beverage,Liquid,Polythene Bag,4.16,Recycled Plastic Bottle,1.62
+Spices,Cooking,Liquid,PVC Packaging,3.98,Glass Bottle,1.08
+Smartwatch,Electronics,Solid,Plastic Packet (Non-degradable),3.72,Paper Wrap,0.88
+Salt,Cooking,Liquid,Styrofoam Box,4.53,Biodegradable Pouch,0.72
+Rice,Grains,Solid,Styrofoam Box,4.21,Reusable Container,0.99
+Barley,Grains,Solid,Non-recyclable Film,4.13,Paper Sack,0.86
+Flour,Cooking,Solid,Plastic Packet (Non-degradable),4.4,Paper Sack,1.14
+Soft Drink,Beverage,Liquid,Plastic Packet (Non-degradable),3.81,Paper Carton,1.14
+Toothpaste,PersonalCare,Liquid,Non-recyclable Plastic Bottle,3.8,Recycled Plastic Bottle,1.36
+Lentils,Grains,Solid,Shrink Wrap,3.66,Jute Bag,0.99
+Orange,Fruits,Solid,Shrink Wrap,4.46,Jute Bag,0.96
+Beer,Beverage,Liquid,Plastic Clamshell,3.59,Recycled Plastic Bottle,1.41
+Lentils,Grains,Solid,Styrofoam Box,4.44,Reusable Container,0.99
+Oil,Cooking,Solid,Styrofoam Box,4.06,Paper Sack,1.19
+Wheat,Grains,Solid,Metalized Plastic Pouch,4.41,Reusable Container,1.06
+Spinach,FreshProduce,Solid,Plastic Clamshell,3.92,Compostable Tray,0.97
+Milk,Beverage,Liquid,Non-recyclable Film,3.56,Recycled Plastic Bottle,1.78
+Orange,Fruits,Solid,Polythene Bag,3.88,Cloth Bag,0.68
+Rice,Grains,Solid,Shrink Wrap,3.89,Jute Bag,0.7
+Face Cream,PersonalCare,Solid,Plastic Packet (Non-degradable),4.42,Cardboard Box,2.59
+Tomatoes,FreshProduce,Solid,Metalized Plastic Pouch,3.57,Jute Bag,0.81
+Biscuits,Snacks,Solid,Styrofoam Box,4.17,Biodegradable Plastic Wrapper,0.93
+Power Bank,Electronics,Solid,Non-recyclable Plastic Bottle,3.97,Recyclable Cardboard Box,1.08
+Spices,Cooking,Liquid,PVC Packaging,3.59,Biodegradable Pouch,0.71
+Grapes,Fruits,Solid,Metalized Plastic Pouch,3.6,Jute Bag,0.76
+Sugar,Cooking,Liquid,Plastic Packet (Non-degradable),4.33,Aluminum Can,1.58
+Conditioner,PersonalCare,Liquid,Plastic Clamshell,4.23,Glass Bottle,1.2
+Phone Charger,Electronics,Solid,Plastic Clamshell,3.63,Recyclable Cardboard Box,1.14
+Smartwatch,Electronics,Solid,Plastic Clamshell,3.83,Biodegradable Cushioning,0.78
+Chips,Snacks,Solid,Plastic Packet (Non-degradable),4.42,Recyclable Cardboard Box,0.89
+Onions,FreshProduce,Solid,Metalized Plastic Pouch,4.28,Compostable Tray,0.72
+Sugar,Cooking,Solid,Plastic Clamshell,3.59,Jute Bag,0.93
+Earphones,Electronics,Solid,Shrink Wrap,3.7,Recyclable Cardboard Box,1.19
+Biscuits,Snacks,Solid,Plastic Clamshell,4.03,Cloth Bag,0.78
+Grapes,Fruits,Solid,Non-recyclable Film,3.53,Compostable Net Bag,0.98
+Face Cream,PersonalCare,Liquid,Non-recyclable Film,3.64,Aluminum Tube,1.99
+Cookies,Snacks,Solid,Plastic Packet (Non-degradable),3.88,Paper Pouch,1.14
+Sugar,Cooking,Solid,Non-recyclable Film,3.86,Cloth Bag,0.75
